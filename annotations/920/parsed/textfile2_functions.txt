@@ -1,0 +1,11 @@
+0.0	Silence
+0.417959183	Chorus
+37.374512471	no_function
+65.520045351	Chorus
+107.879229024	no_function
+165.106553287	no_function
+206.376099773	no_function
+232.94739229	no_function
+278.062585034	no_function
+316.099501133	Chorus
+355.58956916	End

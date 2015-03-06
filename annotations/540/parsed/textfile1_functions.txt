@@ -1,0 +1,12 @@
+0.0	Silence
+0.4	Verse
+11.826825396	no_function
+21.223038548	Verse
+32.089977324	no_function
+42.358253968	Chorus
+50.086621315	no_function
+56.838321995	Chorus
+64.894331065	no_function
+75.070657596	no_function
+79.73877551	Silence
+81.475918367	End

@@ -1,0 +1,8 @@
+0.0	Silence
+0.4	no_function
+72.910657596	no_function
+120.902448979	no_function
+264.890090702	Solo
+280.89095238	Outro
+292.076235827	Silence
+294.045396825	End

@@ -1,0 +1,13 @@
+0.0	silence
+2.332208333	Intro
+21.916916666	Verse
+45.0309375	Pre-Chorus
+68.2525625	Chorus
+90.363916666	Verse
+114.1911875	Pre-Chorus
+138.823770833	Bridge
+213.093958333	Transition
+215.6576875	Chorus
+237.42225	Outro
+249.109333333	no_function
+280.8	End

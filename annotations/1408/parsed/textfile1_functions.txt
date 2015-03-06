@@ -1,0 +1,13 @@
+0.0	Silence
+0.034829931	no_function
+4.493061224	Intro
+16.523628117	Verse
+28.570884353	no_function
+44.545986394	Interlude
+52.56292517	no_function
+68.523446712	no_function
+119.528276643	no_function
+148.261179138	no_function
+158.051020408	applause
+161.125442176	Silence
+161.128344671	End

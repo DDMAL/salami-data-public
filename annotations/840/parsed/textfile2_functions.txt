@@ -1,0 +1,9 @@
+0.0	Silence
+0.462040816	no_function
+66.060770975	no_function
+96.780770975	no_function
+170.295147392	no_function
+213.971882086	no_function
+274.366984126	Outro
+282.981587301	Silence
+286.537959183	End

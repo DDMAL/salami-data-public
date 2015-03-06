@@ -1,0 +1,12 @@
+0.0	Silence
+1.510544217	Main_Theme
+17.600725623	no_function
+33.600997732	Main_Theme
+36.393333333	no_function
+44.537278911	Transition
+47.326780045	no_function
+61.139523809	Main_Theme
+65.96909297	no_function
+85.528662131	Main_Theme
+100.29861678	End
+100.29861678	Silence

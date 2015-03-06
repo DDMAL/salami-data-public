@@ -1,0 +1,14 @@
+0.0	Silence
+0.814829931	no_function
+98.824036281	no_function
+152.833628117	Transition
+155.248503401	no_function
+190.217732426	Transition
+195.860181405	no_function
+267.424036281	no_function
+330.74478458	no_function
+404.700272108	Transition
+428.802562358	no_function
+532.038412698	Coda
+618.091564625	Silence
+630.752653061	End

@@ -1,0 +1,8 @@
+0.0	Silence
+0.417959183	no_function
+7.19941043	Solo
+50.294421768	no_function
+54.52786848	Solo
+81.385941043	Fade-out
+91.277641723	Silence
+97.541224489	End

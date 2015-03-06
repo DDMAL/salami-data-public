@@ -1,0 +1,8 @@
+0.0	Silence
+0.049342403	Intro
+27.179160997	Instrumental
+52.214557823	no_function
+68.850997732	no_function
+93.920249433	Instrumental
+123.270816326	Instrumental
+146.311292517	End

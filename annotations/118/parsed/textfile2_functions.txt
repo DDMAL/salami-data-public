@@ -1,0 +1,4 @@
+0.0	Chorus
+0.0	silence
+37.744172335	Chorus
+71.774535147	End

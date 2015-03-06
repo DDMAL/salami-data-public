@@ -1,0 +1,7 @@
+0.0	Silence
+0.092879818	no_function
+22.417573696	no_function
+38.489206349	no_function
+58.622222222	ritornello
+78.160090702	Silence
+82.365986394	End

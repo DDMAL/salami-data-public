@@ -1,0 +1,16 @@
+0.0	Silence
+0.293877551	no_function
+73.096417233	Instrumental
+90.029138321	no_function
+153.730612244	Instrumental
+171.497165532	no_function
+191.085714285	Instrumental
+200.003968253	Interlude
+202.840816326	Instrumental
+304.00217687	Interlude
+304.00217687	voice
+321.546712018	spoken
+347.981519274	Instrumental
+383.165714285	Outro
+399.837800453	Silence
+401.69340136	End

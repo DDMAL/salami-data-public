@@ -1,0 +1,10 @@
+0.0	Silence
+0.211882086	Main_Theme
+44.873106575	Secondary_Theme
+88.664036281	Main_Theme
+110.440204081	Interlude
+154.55371882	Coda
+198.455873015	Silence
+201.769024943	no_function
+220.37526077	Silence
+221.313151927	End

@@ -1,0 +1,12 @@
+0.0	Silence
+0.574693877	Intro
+6.835668934	no_function
+21.779478458	no_function
+29.097936507	no_function
+46.696689342	Interlude
+71.589818594	no_function
+89.101587301	no_function
+103.641451247	no_function
+110.877074829	no_function
+128.393333333	Fade-out
+143.885419501	End

@@ -1,0 +1,17 @@
+0.0	Silence
+0.438820861	Intro
+39.91510204	no_function
+82.296190476	no_function
+89.363015873	Main_Theme
+130.528140589	Main_Theme
+171.960181405	Main_Theme
+213.739682539	Secondary_Theme
+241.337959183	Main_Theme
+282.763922902	Secondary_Theme
+324.563197278	Secondary_Theme
+352.544285714	no_function
+359.464897959	Main_Theme
+373.334671201	Solo
+400.91324263	Outro
+446.187505668	Silence
+447.597596371	End

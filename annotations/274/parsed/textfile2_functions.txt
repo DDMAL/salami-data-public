@@ -1,0 +1,8 @@
+0.0	Silence
+1.024557823	Intro
+4.327346938	Main_Theme
+51.43739229	contrasting_middle
+86.068095238	Main_Theme
+149.490068027	post-cadential
+165.825442176	Silence
+173.058503401	End

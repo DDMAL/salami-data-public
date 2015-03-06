@@ -1,0 +1,9 @@
+0.0	Silence
+0.208979591	Main_Theme
+21.901088435	Main_Theme
+32.721473922	Secondary_Theme
+60.043129251	Main_Theme
+81.593424036	Main_Theme
+98.355578231	Secondary_Theme
+129.140022675	Coda
+160.902380952	End

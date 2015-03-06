@@ -1,0 +1,9 @@
+0.0	Silence
+0.441179138	Main_Theme
+24.707074829	Interlude
+36.482857142	Main_Theme
+48.305941043	Theme
+71.08324263	Transition
+78.275986394	Main_Theme
+106.429047619	Silence
+111.089727891	End

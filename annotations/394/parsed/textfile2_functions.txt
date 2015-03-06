@@ -1,0 +1,11 @@
+0.0	Intro
+0.0	Silence
+6.445986394	Intro
+13.129365079	no_function
+39.803310657	no_function
+66.48446712	Bridge
+79.637845804	no_function
+106.157324263	Outro
+112.69324263	Fade-out
+123.910408163	Silence
+131.286689342	End

@@ -1,0 +1,9 @@
+0.0	Intro
+0.0	silence
+9.967029478	Verse
+45.836190476	Transition
+50.366938775	Chorus
+84.765056689	Interlude
+106.053605442	Transition
+110.120748299	Chorus
+145.340589569	End

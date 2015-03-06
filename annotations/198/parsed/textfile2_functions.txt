@@ -1,0 +1,11 @@
+0.0	Silence
+0.607687074	no_function
+28.295827664	no_function
+41.582063492	no_function
+57.199183673	no_function
+75.729954648	no_function
+87.422879818	no_function
+115.231609977	no_function
+143.24755102	Coda
+149.817278911	Silence
+158.040816326	End

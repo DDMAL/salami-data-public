@@ -1,0 +1,6 @@
+0.0	Silence
+0.348299319	Verse
+21.12095238	Verse
+42.390408163	no_function
+56.773174603	no_function
+81.495963718	End

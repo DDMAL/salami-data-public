@@ -1,0 +1,13 @@
+0.0	Silence
+0.597333333	no_function
+11.019916666	no_function
+51.946208333	no_function
+92.734645833	no_function
+133.405875	no_function
+200.391270833	no_function
+241.092041666	Solo
+384.193895833	no_function
+404.463270833	no_function
+424.740645833	no_function
+486.266104166	Outro
+531.70125	End

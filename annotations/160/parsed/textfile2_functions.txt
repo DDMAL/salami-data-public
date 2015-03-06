@@ -1,0 +1,10 @@
+0.0	Silence
+0.859138321	Main_Theme
+26.633287981	no_function
+43.890362811	Transition
+49.452290249	Main_Theme
+70.089070294	outro
+78.425034013	outro
+84.471836734	post-cadential
+93.019138321	Silence
+94.171746031	End

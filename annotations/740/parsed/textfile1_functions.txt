@@ -1,0 +1,5 @@
+0.0	Silence
+0.162222222	no_function
+61.057324263	Outro
+89.673469387	Silence
+92.03585034	End

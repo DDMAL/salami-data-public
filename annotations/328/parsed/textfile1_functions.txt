@@ -1,0 +1,6 @@
+0.0	Silence
+0.198095238	Intro
+2.990839002	Verse
+16.702607709	no_function
+37.252380952	Fade-out
+46.419841269	End
