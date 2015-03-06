@@ -1,0 +1,4 @@
+1113	3161	"chorus A"
+3161	10166	"nothing"
+10166	12267	"chorus A"
+12267	17939	"nothing"

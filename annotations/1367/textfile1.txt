@@ -1,0 +1,16 @@
+0.000000000	silence
+0.043537414	A, a, intro
+4.790589569	b
+23.026916099	B, b, verse, (voice
+41.504013605	b
+60.233174603	c
+78.704557823	b, voice)
+97.605941043	C, b', solo, (harmonica
+115.825396825	b', harmonica)
+133.380090702	C, b', solo, (slide guitar
+151.269614512	b', slide guitar)
+168.826349206	B, c, verse, (voice
+187.676961451	b
+206.547755102	b'', voice)
+217.442585034	Z
+344.215487528	end

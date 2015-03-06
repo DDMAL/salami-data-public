@@ -1,0 +1,13 @@
+0.000000000	silence
+0.197369614	A, a, intro, (strings
+9.358027210	a', string)
+20.731043083	A, a, main theme, (voice
+35.900884353	a', voice)
+45.808072562	T, t, transition, (strings)
+53.647913832	A, a, main theme, (voice
+68.752063492	a', voice)
+80.982607709	C, c, codetta
+90.046984126	d, voice)
+101.271791383	a', (strings)
+116.070408163	silence
+116.102154195	end

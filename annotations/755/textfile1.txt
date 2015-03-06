@@ -1,0 +1,27 @@
+0.000000000	silence
+0.386734693	A, a, intro
+5.527392290	b
+17.414965986	c
+23.661133786	d
+32.600816326	e
+41.909501133	C, f, verse, (voice
+54.916712018	D, g, chorus, voice)
+67.593287981	A, b, trans
+76.803265306	e
+84.961814058	C, f, verse, (voice
+97.756009070	D, g, chorus, voice)
+111.596371882	A, c, trans
+118.584308390	d
+126.873832199	C, f, verse, (voice
+139.506802721	D, g, chorus, voice)
+152.832766439	A, b, trans
+159.903061224	e
+169.110929705	C, f, verse, (voice
+181.902312925	D, g, chorus, voice)
+194.726349206	B, interlude
+221.233242630	E, call and response, (voice
+240.832222222	F, interlude
+251.750226757	E, call and response
+278.848911564	G, outro, voice)
+298.031814058	silence
+302.100090702	end

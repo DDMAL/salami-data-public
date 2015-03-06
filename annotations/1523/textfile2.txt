@@ -1,0 +1,5 @@
+2284	3094	"chorus A"
+3094	15307	"nothing"
+15307	16094	"chorus A"
+16094	19337	"nothing"
+19337	20299	"ending"

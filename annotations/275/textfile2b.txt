@@ -1,0 +1,6 @@
+0.000000000	silence
+0.037006802	A, exposition
+55.704671201	C, development
+85.032539682	A', recapitulation
+146.285714285	silence
+151.158911564	end

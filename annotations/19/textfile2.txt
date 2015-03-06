@@ -1,0 +1,8 @@
+0.000000000	Silence
+0.288707482	A, Intro, (guitar)
+35.242358276	A, Verse, (vocals
+67.384308390	A, Verse
+99.466213151	A, Verse, vocals)
+131.099863945	A, Solo, (guitar)
+162.874625850	A, Verse
+194.513560090	A', outro, vocals)

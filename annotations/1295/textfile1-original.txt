@@ -1,0 +1,15 @@
+0.000000000	silence
+0.103061224	n, N intro, (guitar)
+5.944308390	a, A, verse, (voice
+11.110907029	b
+16.767437641	c
+19.504761904	d, B, chorus
+27.399546485	a', A', verse
+32.740136054	b'
+39.752562358	d', B', chorus, voice)
+49.319183673	e, C, break, (guitar
+54.848979591	a, A, outro, guitar)
+59.721723356	b, (voice)
+70.727981859	z, applause
+105.668208616	silence
+105.691428571	end
