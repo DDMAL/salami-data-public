@@ -1,0 +1,9 @@
+0.000000000	silence
+0.026122448	A, y, intro, (voice, #perhaps need a specialist for this one?
+45.573537414	B, a, theme
+125.155555555	b, bridge, voice)
+135.568752834	C, c, (drums)
+149.069251700	d, (voice
+179.597392290	e, outro, voice)
+196.424988662	silence
+196.424988662	end

@@ -1,0 +1,21 @@
+0.000000000	silence
+0.139319727	I, i, intro
+15.907392290	j, (vocal)
+83.062743764	A, k, intro
+94.251224489	a, refrain, (vocal)
+101.682176870	a, refrain, (chorus)
+109.170975056	b, refrain, (vocal)
+116.741065759	a, refrain, (chorus)
+124.274195011	c, (vocal)
+139.422675736	a, refrain, (chorus)
+147.036984126	b, refrain, (vocal)
+154.638480725	a, refrain, (chorus)
+162.181337868	d, (vocal)
+185.287324263	a, refrain, (chorus)
+192.759251700	b, refrain, (vocal)
+200.423219954	a, refrain, (chorus)
+207.983129251	e, (vocal)
+223.265147392	a, refrain, (chorus
+230.506054421	b', regrain, (vocal), chorus)
+237.946167800	Z
+241.878911564	end

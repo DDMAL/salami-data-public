@@ -1,0 +1,14 @@
+0.000000000	Z
+17.644240362	A, intro, (sham)
+28.886757369	B, verse, (voice)
+44.117891156	C, trans, (sham)
+54.645034013	B, verse, (voice)
+69.664829931	C, trans, (sham)
+78.994285714	B, verse, (voice)
+94.070068027	C, trans, (sham)
+104.373696145	B, verse, (voice
+118.805555555	B, verse, voice)
+133.345759637	C, trans, (sham)
+144.165691609	B, verse, (voice)
+158.780680272	C, outro, (sham)
+171.041315192	end

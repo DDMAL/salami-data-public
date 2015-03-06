@@ -1,0 +1,27 @@
+0.000000000	silence
+0.928798185	Z
+3.088253968	Y, y, intro
+11.036031746	A, a, chorus, (voice
+24.957664399	b
+33.599274376	c
+42.410385487	c, voice)
+50.963968253	B, d, solo, (rap)
+68.375510204	C, e, bridge, (soprano saxophone
+77.276009070	f, soprano saxophone)
+85.616326530	D, g, instrumental, solo, (saxophone)
+102.296734693	h, bridge
+110.069410430	E, i, instrumental, solo, (piano
+140.650045351	i
+156.219569160	i
+189.602925170	i
+206.268367346	A', c', bridge
+212.888548752	c
+221.135736961	c
+229.983900226	c
+238.306689342	B, d, solo, (rap
+255.794240362	d, rap)
+282.967006802	A'', a, outro, (voice
+295.083514739	a', voice)
+311.619455782	Z
+320.808163265	silence
+323.459841269	end

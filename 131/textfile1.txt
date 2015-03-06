@@ -1,0 +1,15 @@
+0.000000000	silence
+1.040272108	A, a, main theme, (trumpet
+13.757301587	a', trumpet)
+26.658095238	B, b, interlude, (oboe
+32.992199546	c, oboe)
+39.317142857	A, a, main theme, (trumpet
+45.636190476	a', trumpet)
+52.170317460	D, d, interlude
+58.894512471	e
+65.524172335	A, a, main theme, (trumpet
+71.973537414	a'
+78.409501133	A, a, main theme
+84.748526077	a', trumpet)
+94.315963718	silence
+98.522154195	end

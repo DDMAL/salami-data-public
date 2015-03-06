@@ -1,0 +1,8 @@
+0.000000000	silence
+0.185759637	A, intro, (flute, (violin
+12.371723356	B, verse, (voice
+24.795668934	X
+37.086122448	B, verse
+49.709160997	X, voice)
+60.748979591	silence
+63.205759637	end

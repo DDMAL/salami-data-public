@@ -1,0 +1,3 @@
+1488	2757	"chorus A"
+2757	5787	"nothing"
+5787	7819	"chorus A"

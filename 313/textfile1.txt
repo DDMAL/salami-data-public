@@ -1,0 +1,27 @@
+0.000000000	silence
+0.510839002	A, intro, solo, (voice
+5.866394557	=, voice)
+18.578276643	A, intro, (harmonica)
+25.797369614	A, verse, (voice
+31.090430839	=
+38.490362811	A, chorus
+43.738503401	=, voice)
+51.146734693	A, post-chorus, (harmonica
+56.442539682	=, harmonica)
+63.778752834	A, verse, (voice
+69.099002267	=
+74.386961451	A, chorus
+79.729705215	=
+87.162607709	A, verse
+92.326122448	=
+97.510770975	A, chorus
+102.858730158	=
+110.130929705	A, verse
+115.386485260	=
+120.627664399	A, chorus
+125.954557823	=, voice)
+131.258707482	A, outro, (harmonica
+136.624421768	=
+141.933514739	=, fade out, harmonica)
+153.322539682	silence
+157.655691609	end

@@ -1,0 +1,30 @@
+0.000000000	silence
+0.489569160	A, a, intro, (chorus)
+5.893764172	B, b, solo, (recorder)
+13.200839002	b, (sax)
+21.896417233	b, (accordion)
+28.430113378	C, c, solo, (recorder)
+35.270770975	c, (sax)
+43.047437641	c, (accordion)
+50.539795918	D, d, theme, (recorder
+58.931700680	d, recorder)
+67.608934240	E, e, theme, (sax
+72.522403628	e
+77.338072562	f
+89.441405895	e, (accordion
+94.297732426	e, accordion)
+99.209841269	B, b, solo, (recorder)
+106.866938775	b, (sax)
+115.667913832	b, (accordion)
+121.997845804	C, c, (recorder)
+128.709546485	c, (sax)
+136.581882086	c, (accordion)
+144.056598639	D, d, theme, (recorder
+152.680226757	d, recorder)
+160.981247165	E, e, theme, (sax
+165.884875283	e, sax)
+170.670816326	f, (recorder)
+182.731632653	e, (accordion
+187.568752834	e, accordion)
+193.253174603	silence
+201.548730158	end

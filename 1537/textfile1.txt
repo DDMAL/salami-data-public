@@ -1,0 +1,25 @@
+0.000000000	A, a, intro, (synthesizer
+7.443378684	a
+14.815850340	a
+22.217528344	a, synthesizer)
+29.616371882	A, a, refrain, (strings
+37.080476190	a, strings)
+44.431179138	A, a, verse, (voice
+51.746689342	a
+59.194716553	a
+66.537981859	a, voice)
+73.972358276	A, a, refrain, (strings
+81.335056689	a, strings)
+88.715600907	A, a, verse, (voice
+96.137777777	a
+103.413968253	B, b, bridge
+110.849115646	c
+122.058888888	A, a, verse
+129.307074829	a
+136.651791383	a
+144.004217687	a
+151.469886621	A, a, outro, (synthesizer
+158.809387755	a, synthesizer)
+166.220204081	C, c, outro, voice)
+181.301405895	silence
+186.614104308	end

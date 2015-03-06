@@ -1,0 +1,12 @@
+0.000000000	silence
+0.348299319	A, a, intro
+8.748390022	B, b, verse, (voice
+25.775442176	b
+43.025283446	C, c, chorus
+60.461065759	c, voice)
+77.416870748	D, d, solo, (mandolin)
+97.435623582	B, b, verse, (voice
+114.882244897	b
+132.598321995	C, c, chorus
+149.545532879	c, voice)
+170.496009070	end

@@ -1,0 +1,32 @@
+0.000000000	silence
+0.975668934	A, a, main theme, (violin
+12.911927437	b
+24.942857142	c
+36.851496598	b', violin)
+48.391836734	A', a', variation, (piano
+59.663877551	b
+70.740045351	c
+82.337959183	e
+98.220430839	f, post-cadential, piano)
+109.428072562	B, h, trans, (violin)
+114.861632653	i, (piano
+119.551088435	j
+130.914104308	A'', a, main theme
+142.858299319	b, piano)
+153.089160997	g, (violin)
+165.182312925	g', (piano
+179.262403628	C, k, development
+190.202925170	l
+196.952811791	l, piano)
+202.475850340	b, (violin)
+214.284331065	m, (piano
+236.588117913	D, trans
+243.455011337	A'', a, main theme
+255.229478458	b, piano)
+265.988843537	g, (violin)
+276.827709750	g', (piano
+289.529614512	A, a, main theme
+299.621814058	b'
+318.557233560	E, coda, piano)
+338.616598639	silence
+342.041587301	end

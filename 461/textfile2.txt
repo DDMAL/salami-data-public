@@ -1,0 +1,11 @@
+0.000000000	silence
+0.065306122	A, a, intro
+4.083809523	B, b, refrain, (chorus
+17.719569160	b', chorus)
+30.980453514	C, c, solo, (voice
+43.958820861	c', voice)
+57.385782312	D, c, solo, (trumpet
+70.354897959	c', trumpet)
+85.040408163	B, b, refrain, (chorus
+97.847052154	b', chorus)
+115.520544217	end

@@ -1,0 +1,9 @@
+0.000000000	silence
+0.603718820	A, a, head, (piano
+21.733877551	A, a, head
+40.186371882	B, b, improvisation, piano)
+101.355102040	A, a, head, (sax
+112.809024943	B, b, improvisation
+165.432244897	A, a, head, sax)
+184.108480725	silence
+190.576598639	end

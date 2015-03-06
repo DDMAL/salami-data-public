@@ -1,0 +1,31 @@
+0.000000000	silence
+0.713174603	A, a, intro
+6.584240362	b
+10.336235827	C, c, main theme
+29.263854875	e, trans
+44.228004535	F, f, secondary theme
+67.169002267	g, trans
+91.502925170	T, t, main theme, (cello)
+112.783537414	d, trans
+118.855646258	h, trans, (cello
+147.342789115	F, f, secondary theme
+170.163401360	i, trans, cello)
+221.993469387	j, trans
+257.147664399	K, k, solo, (cello
+281.587460317	l
+292.035487528	m, cello)
+303.837120181	n, trans
+313.491428571	o, (cello
+337.602131519	p, cello)
+343.932721088	q, trans
+347.149818594	r, (cello
+362.206916099	s, cello)
+384.690090702	C, c, main theme
+403.480045351	e, trans
+418.623922902	T, t, main theme, (cello)
+440.670521541	d, trans
+446.778480725	F, f, secondary theme, (cello
+469.625487528	U, u, solo, cello)
+494.328140589	V, v, coda
+514.605578231	silence
+521.848163265	end

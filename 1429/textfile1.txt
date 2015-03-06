@@ -1,0 +1,24 @@
+0.000000000	Z
+1.999365079	A, a, intro, (banjo
+9.881292517	b, banjo)
+16.997959183	A, a, verse, (voice
+24.081882086	b
+31.329319727	B, chorus
+39.490975056	A, a, verse
+46.577301587	b, voice)
+53.687324263	B, solo, (guitar)
+61.789773242	A, a, solo, (banjo
+68.950000000	b, banjo)
+75.995850340	A, a, verse, (voice
+83.242244897	b, voice)
+90.421814058	B, solo, (mandolin)
+98.779342403	A, a, solo, (guitar
+105.801723356	b, guitar)
+112.970612244	A, a, solo, (banjo
+120.219297052	b, banjo)
+127.419342403	B, chorus, (voice
+135.771428571	A, a, verse
+142.903106575	b
+150.143628117	C, outro, voice)
+167.114013605	Z
+209.580408163	end

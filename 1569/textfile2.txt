@@ -1,0 +1,16 @@
+4	1662	"intro"
+1662	2981	"verse A"
+2981	4474	"verse B"
+4474	5800	"chorus A"
+5800	7134	"chorus A"
+7134	8617	"bridge A"
+8617	9936	"verse A"
+9936	11429	"verse B"
+11429	12747	"chorus A"
+12747	14074	"chorus A"
+14074	15396	"bridge B"
+15396	16719	"bridge C"
+16719	18374	"verse B"
+18374	19699	"chorus A"	(+1)
+19699	21041	"chorus A"	(+1)
+21041	23040	"ending"

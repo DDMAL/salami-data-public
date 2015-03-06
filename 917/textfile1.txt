@@ -1,0 +1,10 @@
+0.000000000	silence
+0.522448979	A, a, verse, (voice
+7.840453514	B, b, chorus
+17.104693877	A, a, verse
+24.507709750	B, b, chorus
+34.608956916	A, a, verse
+41.554013605	B, b, chorus
+51.701768707	A, a, verse
+59.691564625	B, b, chorus, voice)
+72.045714285	end

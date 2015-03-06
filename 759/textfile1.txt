@@ -1,0 +1,16 @@
+0.000000000	silence
+0.449319727	A, intro, (percussion
+15.059773242	B, theme, percussion)
+36.905804988	C, theme (cymbal)
+51.401247165	D, theme, (chimes)
+73.183356009	B, theme, (percussion)
+91.297777777	C, theme, (cymbal)
+105.887800453	E, solo, (bongo)
+127.633287981	F, theme, (wood block)
+142.204693877	B', trans, (percussion)
+145.835464852	C, theme, (cymbal)
+156.746213151	B, theme, (percussion)
+174.880340136	E, solo, (bongo)
+189.463333333	G, outro, fadeout, (percussion)
+240.293945578	silence
+244.258095238	end

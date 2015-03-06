@@ -1,0 +1,12 @@
+0.000000000	silence
+0.148027210	Z, intro, (spoken)
+6.065714285	A, main theme, (flute
+11.197346938	X
+16.390090702	B, main theme, (organ
+21.589750566	X, flute), organ)
+26.758299319	X
+31.861950113	=
+37.057936507	B, main theme, outro, (organ, (spoken
+42.190068027	X, fade out, outro, organ), spoken)
+47.425147392	silence
+47.425147392	end

@@ -1,0 +1,10 @@
+0.000000000	silence
+0.208979591	A, a, main theme
+10.578321995	b
+20.916417233	A, a, main theme
+29.494920634	b
+39.327097505	B, c, secondary theme
+48.105147392	b
+58.414331065	B, c, secondary theme
+67.012607709	b'
+84.045510204	end

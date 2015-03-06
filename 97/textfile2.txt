@@ -1,0 +1,18 @@
+0.000000000	silence
+0.163265306	A, a, main theme
+47.951609977	B, b, secondary theme
+78.003832199	c, trans
+88.817052154	b, secondary theme
+97.225170068	d, trans
+124.445306122	e, trans
+148.646462585	F, a', interlude
+196.306621315	B, b, secondary theme
+226.654716553	c, trans
+240.934965986	b, secondary theme
+249.642448979	f, trans
+299.635011337	A, a, main theme
+356.291700680	h, trans
+424.001043083	a, main theme
+478.196417233	i, coda
+499.605215419	silence
+504.528979591	end

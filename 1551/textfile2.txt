@@ -1,0 +1,7 @@
+11	2511	"chorus A"
+2511	4488	"chorus B"
+4488	6472	"verse A"
+6472	8556	"verse B"
+8556	10638	"chorus A"
+10638	13136	"chorus C"
+13136	14977	"ending"

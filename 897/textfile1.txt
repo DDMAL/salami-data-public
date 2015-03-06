@@ -1,0 +1,17 @@
+0.000000000	silence
+0.371519274	A, intro, (clarinet), (flute)
+7.239342403	B, verse, (voice
+23.398253968	C, chorus, voice)
+32.524081632	A', trans, (clarinet), (flute)
+37.272879818	B, verse, (voice
+53.154331065	C, chorus, voice)
+62.355510204	A'', trans, (clarinet), (flute)
+64.908639455	B, verse, (voice
+80.795532879	C, chorus, voice)
+89.963310657	A'', trans, (clarinet)
+92.293696145	B, verse, (voice
+108.308435374	C, chorus
+117.410544217	B, verse
+133.495283446	C, chorus, voice)
+143.790816326	silence
+146.472154195	end

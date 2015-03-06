@@ -1,0 +1,4 @@
+6346	8679	"chorus A"
+8679	11341	"chorus B"
+11341	14307	"nothing"
+14307	16796	"chorus C"

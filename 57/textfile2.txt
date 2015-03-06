@@ -1,0 +1,20 @@
+0.000000000	silence
+0.651405895	A, a, intro
+8.756485260	b, main theme
+20.981678004	b, main theme
+30.742335600	c, transition
+46.397913832	d, secondary theme
+62.566734693	d', secondary theme
+73.790589569	e, coda
+84.775328798	g, transition
+101.193083900	B, h
+121.129115646	i
+136.621269841	j
+177.463718820	A', a
+186.665600907	b, main theme
+198.928956916	c, transition
+214.929795918	d, secondary theme
+231.040045351	d', secondary theme
+241.275170068	h, coda
+267.070340136	silence
+275.213832199	end

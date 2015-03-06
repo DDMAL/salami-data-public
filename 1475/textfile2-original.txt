@@ -1,0 +1,46 @@
+0.000000000	Z
+2.127664399	A, a, pre-intro, (percussion)
+25.222879818	B, b, intro, (accordion
+36.791201814	b
+48.379455782	b, accordion)
+60.114648526	C, c, chorus (voice)
+71.708866213	B, b, refrain, (accordion
+83.537664399	C, c, solo
+95.235283446	c, accordion)
+106.907687074	C, c, verse, (voice)
+118.426598639	B, b, refrain, (accordion)
+130.146984126	C, c, verse, (voice)
+141.715623582	B, b, refrain, (accordion)
+153.408956916	D, d, solo, (guitar
+164.935102040	d
+176.541473922	d
+188.052834467	B, b, trans
+199.612312925	b
+211.417369614	b
+223.096145124	b
+234.877687074	b, guitar)
+246.691065759	C, c, chorus, (voice
+258.418480725	B, b, refrain, (accordion
+270.084580498	C, c, solo
+281.818049886	c, accordion)
+293.469115646	C, c, verse, (voice)
+305.092585034	B, b, refrain, (accordion)
+316.770839002	D, d, solo, (guitar
+328.444988662	d
+340.093514739	B, b, trans guitar)
+351.607301587	C, c, verse, (voice
+363.023129251	B, b, refrain, (accordion
+374.686417233	b
+386.288231292	b
+397.826417233	b
+409.484671201	b, accordion)
+421.075714285	C, c, chorus, (voice)
+432.682517006	B, b, refrain, (accordion
+444.560907029	C, c, solo
+456.143083900	c
+467.831473922	B, b, trans
+479.436235827	b
+491.047324263	C, c, solo
+502.611247165	B', b, outro, accordion)
+529.557052154	Z
+532.639115646	end
