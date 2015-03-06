@@ -1,8 +1,11 @@
-SALAMI Data Set version 1.1
-Released 14 March 2012
-
+SALAMI Data Set version 1.1.1
+1.1 Released 14 March 2012
+    Updated 21 April 2012
 
 ~@@@@~
+
+Changes from version 1.1:
+-- Metadata for Isophonics files were all incorrect (SALAMI ID #1600-1654), and have been changed. Thanks to Florian Kaiser for spotting the errors.
 
 Changes from version 1.0:
 -- 28 Isophonics annotation files added (SALAMI ID #1600-1654)
