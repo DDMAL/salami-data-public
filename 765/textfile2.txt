@@ -17,6 +17,6 @@
 209.502040816	c
 220.938390022	d/b
 238.762834467	c
-244.212244897	C, f, outro, metallophones)
+244.212244897	C, f, Outro, metallophones)
 270.456643990	Silence
 275.078730158	End

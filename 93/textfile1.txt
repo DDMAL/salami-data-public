@@ -1,6 +1,6 @@
-0.000000000	silence
-1.779931972	A, a, intro, (clarinet)
-17.670385487	B, b, theme, (guitar
+0.000000000	Silence
+1.779931972	A, a, Intro, (clarinet)
+17.670385487	B, b, Theme, (guitar
 29.187482993	c
 40.607664399	d
 64.040634920	e, guitar)
@@ -16,6 +16,6 @@
 214.436281179	n, (oboe)
 228.902312925	o, (strings
 243.972063492	D', g
-261.221043083	y, outro, guitar), strings)
-277.491904761	silence
-289.116394557	end
+261.221043083	y, Outro, guitar), strings)
+277.491904761	Silence
+289.116394557	End

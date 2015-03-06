@@ -1,12 +1,12 @@
-0.000000000	silence
-0.208979591	A, a, main theme, (recorder 
+0.000000000	Silence
+0.208979591	A, a, Main_Theme, (recorder
 10.384625850	b
 20.246507936	A, a, variation
 30.117573696	b, recorder)
-40.047097505	A, a, main theme, (gamba
+40.047097505	A, a, Main_Theme, (gamba
 49.786712018	b
 59.647687074	A, a, variation, (recorder
 69.324376417	b
 78.850498866	A, a, variation
 88.342471655	b, gamba), recorder)
-102.077029478	end
+102.077029478	End

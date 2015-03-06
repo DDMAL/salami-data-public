@@ -1,5 +1,5 @@
-0.000000000	silence
-0.394739229	Y, y, intro, (percussion)
+0.000000000	Silence
+0.394739229	Y, y, Intro, (percussion)
 6.887823129	w, (guitar
 12.612947845	t, guitar)
 19.226122448	y, (percussion)
@@ -7,7 +7,7 @@
 41.029659863	c, (guitar)
 56.470929705	d, (vocal
 68.057687074	e, vocal)
-89.373605442	F, f, solo, (guitar
+89.373605442	F, f, Solo, (guitar
 94.481995464	g
 101.099682539	h
 107.299410430	i
@@ -18,6 +18,6 @@
 162.353922902	M, m, (chorus
 171.641904761	m
 180.813786848	m
-189.985668934	m, chorus), fadeout
-205.422607709	silence
-209.973492063	end
+189.985668934	m, chorus), Fade-out
+205.422607709	Silence
+209.973492063	End

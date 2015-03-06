@@ -1,33 +1,33 @@
-0.000000000	silence
-0.069659863	a, A, intro, (bass)
-7.492471655	b, B, verse, (voice
+0.000000000	Silence
+0.069659863	a, A, Intro, (bass)
+7.492471655	b, B, Verse, (voice
 14.747142857	b, voice)
 21.999931972	b', (synthesizer)
 29.280362811	c, (voice
 36.544807256	b, voice)
 43.853356009	d, (synthesizer)
-51.110204081	e, C, chorus, (voice
+51.110204081	e, C, Chorus, (voice
 58.392902494	e'
 65.642811791	f
 72.876009070	g
-80.218276643	b, B, verse
+80.218276643	b, B, Verse
 87.470408163	b, voice)
 94.700566893	b', (synthesizer)
 101.972040816	c, (voice
 109.299750566	b, voice)
 116.551723356	d, (synthesizer
-123.813333333	e, C, instrumental
+123.813333333	e, C, Instrumental
 131.079160997	e'
 138.376485260	f
 145.663242630	g, synthesizer)
-152.892970521	e, C, chorus, (voice
+152.892970521	e, C, Chorus, (voice
 160.172539682	e'
 167.465963718	f
 174.714625850	g
-182.007551020	e, C, chorus
+182.007551020	e, C, Chorus
 189.263061224	e'
 196.586439909	f
 203.816938775	g, voice)
-211.487346938	h, D, coda, (piano)
-216.363537414	silence
-219.820408163	end
+211.487346938	h, D, Coda, (piano)
+216.363537414	Silence
+219.820408163	End

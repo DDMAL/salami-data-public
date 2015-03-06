@@ -1,40 +1,40 @@
-0.000000000	silence
-0.235102040	A, a, intro, (strings
+0.000000000	Silence
+0.235102040	A, a, Intro, (strings
 6.098027210	a
 11.237755102	a
 16.204058956	a, strings)
-21.092494331	B, a, verse, (voice
+21.092494331	B, a, Verse, (voice
 26.116303854	a
 30.972086167	b
-35.884897959	B, a, verse
+35.884897959	B, a, Verse
 40.773356009	a
 45.606303854	b
-50.428503401	B, a, verse
+50.428503401	B, a, Verse
 55.308208616	a
 60.156281179	c, voice)
-64.948231292	C, a, instrumental, (strings
+64.948231292	C, a, Instrumental, (strings
 69.750000000	a
 74.364467120	a
 79.067551020	a
 83.796530612	a, strings)
-88.489024943	B, a, verse, (voice
+88.489024943	B, a, Verse, (voice
 93.332380952	a
 98.079047619	b
-102.789659863	B, a, verse, (voice
+102.789659863	B, a, Verse, (voice
 107.532244897	a
 112.324512471	c, voice)
-117.108344671	C, a, instrumental, (strings
+117.108344671	C, a, Instrumental, (strings
 121.796371882	a, strings)
-126.418185941	B, a, verse, (voice
+126.418185941	B, a, Verse, (voice
 131.092335600	a
 135.824013605	b
-140.500068027	B, a, verse
+140.500068027	B, a, Verse
 145.261405895	a
 149.996371882	c
 154.733650793	c, voice)
-159.428276643	C, a, instrumental, (strings
+159.428276643	C, a, Instrumental, (strings
 164.100317460	a
 168.772448979	a
-173.379954648	a, outro, fade out, strings)
-193.522176870	silence
-196.057777777	end
+173.379954648	a, Outro, Fade-out, strings)
+193.522176870	Silence
+196.057777777	End

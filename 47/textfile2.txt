@@ -1,5 +1,5 @@
 0.000000000	Silence
-0.719818594	A, a, intro, (guitar
+0.719818594	A, a, Intro, (guitar
 7.796462585	a, guitar)
 14.700498866	B, a, Verse (vocals
 21.763287981	a
@@ -25,7 +25,7 @@
 161.260544217	a
 168.229206349	c
 175.089637188	a', vocals)
-182.154240362	C, a, outro, (spoken voice
+182.154240362	C, a, Outro, (spoken voice
 189.149002267	a
 196.026462585	a
 203.013469387	a, spoken voice)

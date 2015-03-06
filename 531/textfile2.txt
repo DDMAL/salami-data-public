@@ -1,10 +1,10 @@
 0.000000000	Silence
-0.402403628	A, a, intro, (piano
+0.402403628	A, a, Intro, (piano
 2.948934240	b
 15.069750566	b, piano)
 27.654965986	B, c, transition (trumpet
 37.030430839	c', trumpet)
-46.439909297	C, d, Main Theme, (winds
+46.439909297	C, d, Main_Theme, (winds
 55.348798185	d'
 64.390294784	e, winds)
 73.206485260	D, f, Solo, (clarinet
@@ -19,7 +19,7 @@
 152.791632653	E, i
 161.629614512	j
 170.060657596	k, trumpet)
-178.683197278	A, a, outro
+178.683197278	A, a, Outro
 183.072471655	b
 197.074376417	b
 214.177278911	Silence

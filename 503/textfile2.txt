@@ -14,13 +14,13 @@
 129.706666666	B', c, Head
 139.273287981	c
 148.770249433	c'
-164.861678004	c'', outro, guitar)
+164.861678004	c'', Outro, guitar)
 177.967256235	Silence
 200.604739229	C, c, (drums & percussion
 229.552471655	c'
 237.916213151	c''
 246.116122448	c
 279.166417233	c'
-287.416598639	c, outro, drums & percussion)
+287.416598639	c, Outro, drums & percussion)
 292.864784580	Silence
 297.439546485	End

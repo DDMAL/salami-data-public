@@ -1,5 +1,5 @@
 0.000000000	Silence
-1.223083900	A, a, Main theme, (violin
+1.223083900	A, a, Main_Theme, (violin
 6.131700680	b, violin)
 10.776122448	a, (strings
 15.682290249	c, strings)
@@ -9,7 +9,7 @@
 34.846984126	g
 39.746326530	g'
 43.464580498	h
-50.108866213	A, a, Main theme
+50.108866213	A, a, Main_Theme
 55.100680272	b, violin)
 59.739886621	a, (strings
 64.612857142	c, strings)
@@ -22,7 +22,7 @@
 98.965963718	n
 101.773061224	o
 107.639024943	o'
-113.754557823	A, a, Main Theme, (woodwinds
+113.754557823	A, a, Main_Theme, (woodwinds
 118.815170068	b, woodwinds), violin)
 123.758367346	a, (strings
 128.621678004	c, strings)
@@ -35,7 +35,7 @@
 164.133446712	u
 169.139092970	u'
 174.023174603	u''
-180.883446712	A, a, Main Theme
+180.883446712	A, a, Main_Theme
 185.868730158	b, violin)
 190.936553287	a, (strings)
 195.754557823	m', (violin
@@ -43,6 +43,6 @@
 207.734625850	v, violin)
 212.502086167	a, (strings
 217.360294784	c
-220.868208616	w, outro, strings)
+220.868208616	w, Outro, strings)
 228.980657596	Silence
 231.236190476	End

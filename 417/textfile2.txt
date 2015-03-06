@@ -1,27 +1,27 @@
-0.000000000	silence
-0.000000000	A, a, intro
-17.036281179	a, solo, (percussion)
+0.000000000	Silence
+0.000000000	A, a, Intro
+17.036281179	a, Solo, (percussion)
 77.671519274	a
-117.165170068	H, h, head, (trumpet
+117.165170068	H, h, Head, (trumpet
 121.182902494	h
 125.133718820	i
 133.199183673	j
 137.131632653	k
-141.361519274	B, b, solo
-314.208367346	C, c, secondary theme
-322.081927437	B, b, solo
-364.390748299	H', j, head
+141.361519274	B, b, Solo
+314.208367346	C, c, Secondary_Theme
+322.081927437	B, b, Solo
+364.390748299	H', j, Head
 368.343628117	k
-372.352176870	C, c, secondary theme
-421.336507936	D, d, trans, trumpet)
-429.758480725	A, a, solo, (percussion)
-523.513083900	C, c, secondary theme, (trumpet
-548.720362811	B, b, solo
-608.782040816	H, h, head
+372.352176870	C, c, Secondary_Theme
+421.336507936	D, d, Transition, trumpet)
+429.758480725	A, a, Solo, (percussion)
+523.513083900	C, c, Secondary_Theme, (trumpet
+548.720362811	B, b, Solo
+608.782040816	H, h, Head
 612.693786848	h
 616.544943310	i
 620.547414965	h
 624.543356009	j
 628.420249433	k, trumpet)
-636.919047619	end
-636.919047619	silence
+636.919047619	End
+636.919047619	Silence

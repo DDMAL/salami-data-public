@@ -1,12 +1,12 @@
-0.000000000	silence
-0.148027210	Z, intro, (spoken), b
-6.065714285	A, main, theme, (flute, c
+0.000000000	Silence
+0.148027210	Z, Intro, (spoken), b
+6.065714285	A, Main_Theme, Theme, (flute, c
 11.197346938	d
-16.390090702	B, main, theme, (organ, e
+16.390090702	B, Main_Theme, Theme, (organ, e
 21.589750566	flute), organ), f
 26.758299319	g
 31.861950113	g
-37.057936507	B, main, theme, outro, (organ, (spoken, h
-42.190068027	fade, out, outro, organ), spoken), i
-47.425147392	silence
-47.425147392	end
+37.057936507	B, Main_Theme, Theme, Outro, (organ, (spoken, h
+42.190068027	Fade-out, out, Outro, organ), spoken), i
+47.425147392	Silence
+47.425147392	End

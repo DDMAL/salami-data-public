@@ -1,22 +1,22 @@
-0.000000000	silence
-0.856258503	A, a, intro, (violin
+0.000000000	Silence
+0.856258503	A, a, Intro, (violin
 40.996870748	a', violin)
 82.099954648	b, (viola)
 93.652448979	b, (cello)
-108.429886621	F, trans
-111.479002267	B, c, theme, (violin)
+108.429886621	F, Transition
+111.479002267	B, c, Theme, (violin)
 137.996190476	d
-160.765782312	C, e, theme, (violin
+160.765782312	C, e, Theme, (violin
 175.823968253	e'
 199.578956916	f, violin)
-222.482585034	F, trans
-225.963446712	B, c, theme, (violin)
+222.482585034	F, Transition
+225.963446712	B, c, Theme, (violin)
 252.280929705	d
-275.040362811	C, e, theme, (violin
+275.040362811	C, e, Theme, (violin
 289.950521541	e'
 313.746507936	f, violin)
-336.841405895	F, trans
-340.288435374	D, c, development, (cello)
+336.841405895	F, Transition
+340.288435374	D, c, Development, (cello)
 362.231292517	d
 372.941632653	k, (violin)
 400.859727891	k', (cello)
@@ -24,13 +24,13 @@
 426.488888888	e, (cello)
 439.793424036	e, (violin)
 456.688979591	h
-467.392380952	B, c, theme, (violin)
+467.392380952	B, c, Theme, (violin)
 494.262630385	d'
-523.354557823	C, e, theme, (violin
+523.354557823	C, e, Theme, (violin
 540.747732426	e'
 576.110294784	f, violin)
 594.580544217	h
-610.892426303	E, i, closing, (violin
+610.892426303	E, i, Outro, (violin
 642.306757369	j, violin)
-658.192834467	silence
-663.513854875	end
+658.192834467	Silence
+663.513854875	End

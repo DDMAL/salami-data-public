@@ -1,8 +1,8 @@
-0.000000000	A, intro, (bowed string)
-5.039047619	B, intro, (voice
-45.387755102	C, a, theme
+0.000000000	A, Intro, (bowed string)
+5.039047619	B, Intro, (voice
+45.387755102	C, a, Theme
 87.902040816	b
-126.506099773	D, bridge
-149.435600907	E, theme
-166.726530612	F, outro, voice)
-196.421088435	end
+126.506099773	D, Bridge
+149.435600907	E, Theme
+166.726530612	F, Outro, voice)
+196.421088435	End

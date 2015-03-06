@@ -1,5 +1,5 @@
 0.000000000	Silence
-3.668752834	A, a, intro, (strings
+3.668752834	A, a, Intro, (strings
 14.117732426	b
 23.521814058	c, strings)
 36.223129251	B, d, Theme, (voice
@@ -12,7 +12,7 @@
 123.158639455	f, voice)
 145.565895691	C, g, Theme, (woodwinds, (strings
 154.087619047	g'
-162.168163265	h, woodwinds), strings) 
+162.168163265	h, woodwinds), strings)
 170.945306122	C', g, Theme, (voice
 179.861768707	g'
 188.569251700	i
@@ -29,6 +29,6 @@
 314.073106575	k
 327.517460317	m', voice)
 348.717278911	n, (strings)
-356.170884353	p, outro
+356.170884353	p, Outro
 364.181768707	Silence
 370.087324263	End

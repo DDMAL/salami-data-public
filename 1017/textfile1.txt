@@ -1,31 +1,31 @@
-0.000000000	silence
+0.000000000	Silence
 1.346757369	z, Z
-16.788027210	a, A, intro, (horns)
-24.682811791	b, B, interlude, (organ
+16.788027210	a, A, Intro, (horns)
+24.682811791	b, B, Interlude, (organ
 29.675102040	b, organ)
 34.667392290	c, (horns
-37.268027210	d, C, chorus
+37.268027210	d, C, Chorus
 44.663265306	e
 52.151678004	e, horns)
-59.700907029	b, B, interlude, (organ
+59.700907029	b, B, Interlude, (organ
 64.687052154	b, organ)
 69.676643990	c, (horns
-72.446258503	d, C, chorus
+72.446258503	d, C, Chorus
 79.927687074	e
 87.411723356	e
-94.942494331	f, D, bridge
+94.942494331	f, D, Bridge
 99.957959183	g'
 103.681700680	f'
 108.654693877	g, horns)
-113.749183673	h, E, verse, (organ)
+113.749183673	h, E, Verse, (organ)
 118.884716553	i, (horns)
 123.879206349	h, (organ)
 128.990090702	i', (horns)
 134.037981859	h, (organ)
 139.064308390	i, (horns)
 144.153628117	h, (organ)
-149.269297052	a, A, interlude, (horns)
-156.264625850	j, F, solo, (organ)
+149.269297052	a, A, Interlude, (horns)
+156.264625850	j, F, Solo, (organ)
 161.515170068	j, (horns
 166.713174603	j
 171.795464852	j
@@ -61,8 +61,8 @@
 325.013582766	j
 330.023877551	j
 335.087324263	j, horns)
-340.140498866	a, A, interlude, (guitar)
-344.359183673	j, F, solo, (saxophone
+340.140498866	a, A, Interlude, (guitar)
+344.359183673	j, F, Solo, (saxophone
 349.475782312	j
 354.435600907	j
 359.426575963	j
@@ -88,22 +88,22 @@
 459.382471655	j
 464.291451247	j
 469.178503401	j
-474.071587301	a, A, interlude, saxophone)
-476.930612244	d, C, chorus, (horns
+474.071587301	a, A, Interlude, saxophone)
+476.930612244	d, C, Chorus, (horns
 484.179591836	e
 491.575011337	e
-498.971428571	f, D, bridge
+498.971428571	f, D, Bridge
 503.978163265	g'
 507.689795918	f'
 512.740680272	g
-517.714285714	h, E, verse, (organ)
+517.714285714	h, E, Verse, (organ)
 522.820907029	i, (horns)
 527.837074829	h, (organ)
 532.847528344	i', (horns)
 537.807732426	h, (organ)
 542.891791383	i, (horns)
 547.811428571	h, (organ)
-552.859229024	a, A, coda, (horns)
+552.859229024	a, A, Coda, (horns)
 565.239024943	z, Z
-619.926349206	silence
-619.964081632	end
+619.926349206	Silence
+619.964081632	End

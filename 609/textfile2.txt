@@ -1,27 +1,27 @@
-0.000000000	silence
+0.000000000	Silence
 0.412040816	Z
-13.784399092	A, a, intro, (guitar
-17.048820861	B, b, main theme
+13.784399092	A, a, Intro, (guitar
+17.048820861	B, b, Main_Theme
 22.673741496	b
 28.257392290	c
 33.827074829	d
-39.378390022	B, b, main theme
+39.378390022	B, b, Main_Theme
 44.995963718	b
 50.522789115	c
 56.095147392	d, guitar)
-61.627959183	C, e, theme, (trumpet
+61.627959183	C, e, Theme, (trumpet
 67.166689342	f
 72.761632653	c
 78.395011337	d, trumpet)
-83.942766439	C, e, theme, (guitar
+83.942766439	C, e, Theme, (guitar
 89.401678004	f
 94.846666666	c
 100.303832199	d, guitar)
-105.888344671	D, g, trans, (piano)
-114.253015873	B, b, main theme, (guitar
+105.888344671	D, g, Transition, (piano)
+114.253015873	B, b, Main_Theme, (guitar
 119.788730158	b
 125.308548752	c
 130.867301587	d
-136.441088435	D, g, outro, fadeout, guitar)
-146.299160997	silence
-149.591541950	end
+136.441088435	D, g, Outro, Fade-out, guitar)
+146.299160997	Silence
+149.591541950	End

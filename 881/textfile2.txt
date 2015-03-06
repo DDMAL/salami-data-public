@@ -1,5 +1,5 @@
-0.000000000	silence
-0.641814058	B, b, intro, (vocal
+0.000000000	Silence
+0.641814058	B, b, Intro, (vocal
 7.833378684	A, a
 14.360317460	b
 18.264557823	a
@@ -22,8 +22,8 @@
 145.866621315	C, a
 154.830657596	c
 163.156938775	b, vocal)
-171.434965986	g, trans, (percussion)
-175.119977324	H, h, solo, (vocal
-222.134353741	d, coda, vocal)
-228.330181405	silence
-231.706122448	end
+171.434965986	g, Transition, (percussion)
+175.119977324	H, h, Solo, (vocal
+222.134353741	d, Coda, vocal)
+228.330181405	Silence
+231.706122448	End

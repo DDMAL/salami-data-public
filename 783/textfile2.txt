@@ -1,4 +1,4 @@
-0.000000000	A, a, intro, (ukulele
+0.000000000	A, a, Intro, (ukulele
 4.128185941	b, ukulele)
 8.260816326	b, (brass)
 16.596145124	B, c, Verse, (voice
@@ -24,7 +24,7 @@
 192.546961451	D, e, Chorus
 200.964058956	e
 209.232154195	B, c, Verse
-217.617414965	c'''', outro, voice)
+217.617414965	c'''', Outro, voice)
 221.402267573	Silence
 222.187755102	Z
 222.920498866	End

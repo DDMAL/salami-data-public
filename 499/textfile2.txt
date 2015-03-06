@@ -1,19 +1,19 @@
-0.000000000	silence
-0.297959183	I, i, intro, (piano
-19.702131519	A, a, secondary theme, piano)
+0.000000000	Silence
+0.297959183	I, i, Intro, (piano
+19.702131519	A, a, Secondary_Theme, piano)
 35.387210884	b, (brass
 52.198458049	b'
 71.672743764	b
-89.768344671	H, h, main theme
+89.768344671	H, h, Main_Theme
 99.334965986	h
 112.309319727	g
 120.093605442	h, brass)
-130.728344671	K, k, improvisation, (double-bass
+130.728344671	K, k, Solo, (double-bass
 146.693877551	k
 160.000000000	k
 176.236394557	k
 192.445170068	k, double-bass)
-204.998526077	K, k, improvisation, (sax
+204.998526077	K, k, Solo, (sax
 219.550408163	k
 235.167346938	k
 254.900453514	k
@@ -22,17 +22,17 @@
 287.915850340	k
 306.329523809	k'
 324.150566893	k', sax)
-351.642993197	K, k, improvisation, (trombone
+351.642993197	K, k, Solo, (trombone
 368.251269841	k
 381.966848072	k, trombone)
-405.041383219	K, k, improvisation, (trumpet
+405.041383219	K, k, Solo, (trumpet
 430.900113378	k
 440.290612244	k
 456.083900226	k
 467.466870748	k
 484.778253968	k
 502.732176870	k, trumpet)
-523.912448979	K, k, improvisation, (flugelhorn
+523.912448979	K, k, Solo, (flugelhorn
 543.479569160	k
 554.839863945	k
 571.140952380	k
@@ -43,7 +43,7 @@
 625.309319727	k
 637.659183673	k
 647.252539682	k, flugelhorn)
-663.881723356	H, h, main theme, (brass)
-673.833015873	A, a', secondary theme, (piano)
-699.917369614	silence
-704.577528344	end
+663.881723356	H, h, Main_Theme, (brass)
+673.833015873	A, a', Secondary_Theme, (piano)
+699.917369614	Silence
+704.577528344	End

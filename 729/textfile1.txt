@@ -1,34 +1,34 @@
-0.000000000	A, a, intro, (plucked strings)
+0.000000000	A, a, Intro, (plucked strings)
 14.442811791	b, (voice
-22.408185941	C, c, refrain
+22.408185941	C, c, Chorus
 33.597959183	c
-44.429229024	D, d, verse
-62.583537414	E, e, chorus
+44.429229024	D, d, Verse
+62.583537414	E, e, Chorus
 75.492267573	e, voice)
-89.248412698	B, trans, (accordion)
-99.819229024	G, g, interlude, (voice
+89.248412698	B, Transition, (accordion)
+99.819229024	G, g, Interlude, (voice
 110.387664399	g, voice)
-120.906303854	B, trans, (accordion)
-126.082653061	C, c, refrain, (voice
+120.906303854	B, Transition, (accordion)
+126.082653061	C, c, Chorus, (voice
 136.651133786	c
-147.221247165	D, d, verse
-165.636394557	E, e, chorus
+147.221247165	D, d, Verse
+165.636394557	E, e, Chorus
 178.422131519	e, voice)
-192.017709750	B, trans, (accordion)
-202.634739229	F, f, verse, (voice
+192.017709750	B, Transition, (accordion)
+202.634739229	F, f, Verse, (voice
 213.236167800	f
-223.747505668	G, g, interlude
+223.747505668	G, g, Interlude
 234.338140589	g, voice)
-244.864263038	B, trans, (accordion)
-255.359705215	F, f, verse, (voice
+244.864263038	B, Transition, (accordion)
+255.359705215	F, f, Verse, (voice
 265.937482993	f
-276.472403628	E, e, chorus
+276.472403628	E, e, Chorus
 289.274195011	e
-302.867868480	G, g, outro
+302.867868480	G, g, Outro
 313.425464852	g
 323.963514739	g
 334.399002267	g
 344.978004535	g
-355.606916099	g, fadeout, voice)
-366.402426303	silence
-368.868820861	end
+355.606916099	g, Fade-out, voice)
+366.402426303	Silence
+368.868820861	End

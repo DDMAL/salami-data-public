@@ -1,19 +1,19 @@
-0.000000000	silence
+0.000000000	Silence
 0.721269841	Z
-7.511201814	A, a, intro
-24.070657596	B, b, refrain, (voice
-41.316190476	c, refrain
+7.511201814	A, a, Intro
+24.070657596	B, b, Chorus, (voice
+41.316190476	c, Chorus
 58.748299319	d
-74.089183673	B, b, verse
-89.132947845	c, refrain
+74.089183673	B, b, Verse
+89.132947845	c, Chorus
 102.467392290	d, voice)
-111.999206349	C, b, solo, (harmonica
+111.999206349	C, b, Solo, (harmonica
 127.105419501	c
 142.396507936	d, harmonica)
-157.563764172	B, b, verse, (voice
-172.505532879	c, refrain
+157.563764172	B, b, Verse, (voice
+172.505532879	c, Chorus
 187.377800453	d
-202.584217687	B, b, verse
-215.583537414	c, refrain
-230.661904761	d', voice) 
-251.361746031	end
+202.584217687	B, b, Verse
+215.583537414	c, Chorus
+230.661904761	d', voice)
+251.361746031	End

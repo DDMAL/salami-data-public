@@ -1,5 +1,5 @@
 0.000000000	Silence
-0.766258503	A, a, intro, (voice
+0.766258503	A, a, Intro, (voice
 12.895124716	b
 24.854897959	c, Chorus
 36.600158730	A, a, Verse
@@ -11,6 +11,6 @@
 105.985487528	A, a, Verse
 117.495374149	b
 128.952086167	c, Chorus
-140.294149659	A, a, outro, voice)
+140.294149659	A, a, Outro, voice)
 151.231564625	Silence
 153.971315192	End

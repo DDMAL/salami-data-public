@@ -1,13 +1,13 @@
-0.000000000	silence
+0.000000000	Silence
 0.048979591	z, Z
-6.373877551	a, A, intro, (drums)
-8.259092970	b, B, instrumental, (guitar
+6.373877551	a, A, Intro, (drums)
+8.259092970	b, B, Instrumental, (guitar
 12.411065759	c, guitar)
-16.501882086	d, C, solo, (horns
+16.501882086	d, C, Solo, (horns
 20.594625850	e
-24.682811791	b, B, instrumental
+24.682811791	b, B, Instrumental
 28.885623582	c, horns)
-33.087165532	b, B, verse, (voice
+33.087165532	b, B, Verse, (voice
 37.293469387	c
 41.448866213	b
 45.631133786	c
@@ -17,11 +17,11 @@
 62.496507936	c
 66.768571428	b
 70.968004535	c, voice)
-75.132471655	b, D, interlude, (horns
+75.132471655	b, D, Interlude, (horns
 79.290408163	c
 83.359637188	b
 87.435736961	c, horns)
-91.495873015	b, B, verse, (voice
+91.495873015	b, B, Verse, (voice
 95.759092970	c
 100.014875283	b
 104.191609977	c
@@ -31,11 +31,11 @@
 120.964353741	c
 125.176734693	b
 129.404172335	c, voice)
-133.674195011	b, D, interlude, (horns
+133.674195011	b, D, Interlude, (horns
 137.871360544	c
 141.970884353	b
 146.119614512	c, horns)
-150.234557823	d, C, solo, (saxophone
+150.234557823	d, C, Solo, (saxophone
 154.620793650	e, saxophone)
 158.638730158	d, (trumpet
 162.811383219	e, trumpet)
@@ -43,14 +43,14 @@
 171.292335600	e, saxophone)
 175.528027210	d, (trumpet
 179.837188208	e, trumpet)
-184.119138321	f, E, bridge, (horns
+184.119138321	f, E, Bridge, (horns
 187.920521541	f
 191.741065759	f
 195.585351473	f
-199.468571428	b, D, coda
+199.468571428	b, D, Coda
 203.627233560	c
 207.753900226	b
 211.830158730	c', horns)
 215.574058956	z, Z
-248.263265306	silence
-248.293877551	end
+248.263265306	Silence
+248.293877551	End

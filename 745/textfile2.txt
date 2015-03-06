@@ -19,7 +19,7 @@
 176.322698412	d, vocals)
 186.003061224	d, (winds, (synth trumpet
 195.695691609	d
-205.345941043	B', b, Pre-verse, synth trumpet)
+205.345941043	B', b, Pre-Verse, synth trumpet)
 214.971496598	b, Verse, (vocals)
 224.629841269	b', (synth trumpet)
 234.227006802	c', (vocals)
@@ -31,7 +31,7 @@
 297.049523809	b
 306.621609977	b, synth trumpet)
 316.302222222	C', d, (winds
-326.002721088	d, outro
+326.002721088	d, Outro
 335.611927437	d
 345.313832199	d, winds)
 355.543945578	Silence

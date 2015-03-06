@@ -1,6 +1,6 @@
-0.000000000	silence
-0.464399092	A, a, intro, (piano)
-8.199682539	a, head, (synthesizer, (saxophone
+0.000000000	Silence
+0.464399092	A, a, Intro, (piano)
+8.199682539	a, Head, (synthesizer, (saxophone
 15.840702947	b
 21.717891156	a
 29.336621315	b
@@ -8,7 +8,7 @@
 41.138752834	b
 46.874671201	a
 54.530544217	b, synthesizer)
-58.402879818	B, a, instrumental, solo
+58.402879818	B, a, Instrumental, Solo
 66.221292517	c
 73.883106575	d
 81.523106575	a
@@ -35,7 +35,7 @@
 247.000249433	a
 254.609954648	c
 264.056167800	d
-271.663219954	B, a, instrumental, solo, synthesizer)
+271.663219954	B, a, Instrumental, Solo, synthesizer)
 279.217868480	c, (piano
 286.832517006	d
 294.448480725	a
@@ -44,14 +44,14 @@
 329.024739229	a
 336.672517006	c
 344.277936507	d
-348.107664399	A', a, bridge, piano)
-355.915578231	a, head, (synthesizer, (saxophone
+348.107664399	A', a, Bridge, piano)
+355.915578231	a, Head, (synthesizer, (saxophone
 363.595102040	b
 369.435124716	a
 377.187324263	b
 385.091405895	a
 388.963718820	b
 394.843174603	a
-402.635396825	b', outro, saxophone), synthesizer)
-415.950657596	silence
-418.332403628	end
+402.635396825	b', Outro, saxophone), synthesizer)
+415.950657596	Silence
+418.332403628	End

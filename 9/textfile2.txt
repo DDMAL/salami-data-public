@@ -10,6 +10,6 @@
 142.015215419	B, b, Verse
 157.407460317	b'
 171.877936507	A, a', vocals), Verse
-194.037142857	C, solo, (Crumhorn), (flute)
+194.037142857	C, Solo, (Crumhorn), (flute)
 250.311043083	Silence
 254.808571428	End

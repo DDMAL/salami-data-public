@@ -1,4 +1,4 @@
-0.000000000	silence
+0.000000000	Silence
 0.000000000	Z, (background noise)
 11.447437641	A, a, (old voice
 16.761269841	b
@@ -29,5 +29,5 @@
 122.113696145	h'
 125.425691609	j', child voice)
 128.817619047	Z, (background noise)
-144.599659863	silence
-144.599659863	end
+144.599659863	Silence
+144.599659863	End

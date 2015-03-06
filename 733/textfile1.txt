@@ -1,11 +1,11 @@
-0.000000000	silence
-0.064285714	A, a, intro, (guitar
+0.000000000	Silence
+0.064285714	A, a, Intro, (guitar
 5.403061224	a
-10.372675736	A, a, instrumental, (guitar
+10.372675736	A, a, Instrumental, (guitar
 15.391088435	a, guitar)
-20.151043083	A, a, interlude
+20.151043083	A, a, Interlude
 25.073129251	a
-29.906190476	A, a, instrumental, (guitar
+29.906190476	A, a, Instrumental, (guitar
 34.816530612	a
 39.648344671	a
 44.521133786	a
@@ -17,9 +17,9 @@
 73.513219954	a
 78.422993197	a
 83.303197278	a
-88.246848072	B, b, bridge
+88.246848072	B, b, Bridge
 93.014965986	b
-97.937074829	A', a', instrumental, (trumpet
+97.937074829	A', a', Instrumental, (trumpet
 102.672811791	a'
 107.447165532	a'
 112.200634920	a'
@@ -31,9 +31,9 @@
 140.824716553	a'
 145.455238095	a'
 150.118979591	a'
-154.847120181	C, c, bridge
+154.847120181	C, c, Bridge
 159.519138321	c
-164.256281179	A, a', outro
+164.256281179	A, a', Outro
 169.032380952	a'', guitar), trumpet)
-174.457142857	silence
-178.328526077	end
+174.457142857	Silence
+178.328526077	End

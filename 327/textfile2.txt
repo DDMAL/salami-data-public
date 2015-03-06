@@ -1,7 +1,7 @@
 0.000000000	Silence
 0.766258503	A, a, Intro
 5.154829931	a
-9.543401360	A, a, Pre-Verse, (guitar 
+9.543401360	A, a, Pre-Verse, (guitar
 14.028027210	a, (vocals, guitar)
 18.456190476	B, b, Chorus
 22.825215419	b
@@ -47,7 +47,7 @@
 199.902698412	b
 204.362426303	b
 208.798820861	c
-213.198140589	A, a, Outro, fade-out
+213.198140589	A, a, Outro, Fade-out
 217.600090702	a, vocals)
 222.070340136	a
 226.510226757	a

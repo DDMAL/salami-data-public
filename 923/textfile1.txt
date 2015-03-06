@@ -1,14 +1,14 @@
-0.000000000	silence
-0.314875283	A, intro, (shaker)
-3.599092970	B, verse, (voice
-13.056916099	C, a, refrain
+0.000000000	Silence
+0.314875283	A, Intro, (shaker)
+3.599092970	B, Verse, (voice
+13.056916099	C, a, Chorus
 23.670634920	b
-37.623605442	B, a, verse
-46.952108843	C, a, refrain
+37.623605442	B, a, Verse
+46.952108843	C, a, Chorus
 57.913333333	b
-70.996099773	C, a, refrain
+70.996099773	C, a, Chorus
 81.360907029	b
-94.421587301	C, a, refrain
+94.421587301	C, a, Chorus
 104.892222222	b, voice)
-119.002267573	silence
-124.035192743	end
+119.002267573	Silence
+124.035192743	End

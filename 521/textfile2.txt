@@ -1,5 +1,5 @@
 0.000000000	Silence
-1.369977324	A, a, intro
+1.369977324	A, a, Intro
 10.649569160	b, (trumpet)
 19.842947845	B, c, Head, (saxophones
 31.869614512	c
@@ -17,6 +17,6 @@
 165.163968253	d, (piano)
 176.807369614	B, c, Head, (saxophones
 188.747414965	c, saxophones)
-198.414512471	f, outro
+198.414512471	f, Outro
 201.595646258	Silence
 203.174603174	End

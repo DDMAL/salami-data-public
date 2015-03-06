@@ -5,4 +5,4 @@
 99.466213151	A, Verse, vocals)
 131.099863945	A, Solo, (guitar)
 162.874625850	A, Verse
-194.513560090	A', outro, vocals)
+194.513560090	A', Outro, vocals)

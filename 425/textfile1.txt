@@ -1,15 +1,15 @@
-0.000000000	silence
-0.580498866	A, a, intro, (saxophone
+0.000000000	Silence
+0.580498866	A, a, Intro, (saxophone
 6.161723356	a
-11.398208616	B, b, head
+11.398208616	B, b, Head
 16.849546485	c
 22.026689342	b
 27.439206349	c, saxophone)
-32.769387755	C, d, bridge, (trumpet
+32.769387755	C, d, Bridge, (trumpet
 38.099433106	d
-43.361609977	B, b, head
+43.361609977	B, b, Head
 48.828707482	c
-53.986394557	D, e, instrumental, solo, (percussion
+53.986394557	D, e, Instrumental, Solo, (percussion
 59.071972789	e
 64.095714285	e
 69.304081632	e
@@ -25,10 +25,10 @@
 121.568185941	e
 126.943877551	e
 132.335963718	e, percussion)
-137.623809523	B, b, head, (saxophone
+137.623809523	B, b, Head, (saxophone
 143.055850340	c, saxophone)
-148.391927437	E, f, instrumental, (piano)
+148.391927437	E, f, Instrumental, (piano)
 164.695873015	g, (saxophone
 177.722267573	g
-190.533469387	h, outro
-220.035192743	end
+190.533469387	h, Outro
+220.035192743	End

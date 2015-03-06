@@ -1,26 +1,26 @@
-0.000000000	silence
-0.046439909	A, a, intro
+0.000000000	Silence
+0.046439909	A, a, Intro
 6.430634920	a
 10.931564625	b
 16.328616780	b
-21.225873015	B, b, refrain, (voice
+21.225873015	B, b, Chorus, (voice
 26.430884353	b, voice)
 31.552494331	b
-36.840566893	B, b, verse, (voice)
+36.840566893	B, b, Verse, (voice)
 41.893673469	b
-46.984580498	B, b, refrain, (voice
+46.984580498	B, b, Chorus, (voice
 52.204829931	b, voice)
 57.319705215	b
-62.396780045	B, b, verse, (voice)
+62.396780045	B, b, Verse, (voice)
 67.689455782	b
-72.730634920	B, b, refrain, (voice
+72.730634920	B, b, Chorus, (voice
 77.881609977	b, voice)
 82.998231292	b
-88.202154195	B, b, verse, (voice)
+88.202154195	B, b, Verse, (voice)
 93.427755102	b
-98.779954648	B, b, refrain, (voice
+98.779954648	B, b, Chorus, (voice
 103.855873015	b, voice)
-109.195510204	C, b', solo, (guitar
+109.195510204	C, b', Solo, (guitar
 114.306213151	b'
 119.654897959	b'
 124.876054421	b'
@@ -97,32 +97,32 @@
 490.270000000	b
 495.081564625	b
 499.766802721	b
-504.860272108	B, b, refrain, (voice
+504.860272108	B, b, Chorus, (voice
 510.173809523	b, voice)
 515.225419501	b
-520.729070294	B, b, verse, (voice)
+520.729070294	B, b, Verse, (voice)
 525.581655328	b
-530.658594104	B, b, refrain, (voice
+530.658594104	B, b, Chorus, (voice
 535.892426303	b, voice)
 541.093265306	b
-546.272471655	B, b, verse, (voice)
+546.272471655	B, b, Verse, (voice)
 551.543945578	b
-556.695328798	B, b, refrain, (voice
+556.695328798	B, b, Chorus, (voice
 561.814376417	b, voice)
 566.727233560	b
-571.817573696	B, b, verse, (voice)
+571.817573696	B, b, Verse, (voice)
 577.165442176	b
-582.169002267	B, b, refrain, (voice
+582.169002267	B, b, Chorus, (voice
 587.453219954	b, voice)
 592.676213151	b
-597.771519274	B, b, verse, (voice)
+597.771519274	B, b, Verse, (voice)
 602.946621315	b
 608.011315192	b
-610.719365079	B, b, refrain, (voice
+610.719365079	B, b, Chorus, (voice
 615.705532879	b
 621.039750566	b''
 627.024784580	b''
 634.465986394	b''
 642.080861678	b'', voice)
 649.855691609	Z
-664.215487528	end
+664.215487528	End

@@ -14,6 +14,6 @@
 295.055963718	A, a, Solo, (guitar)
 325.628208616	A', a', Verse, (voice)
 354.991405895	A, a, Solo, (guitar
-375.183673469	b, outro, guitar)
+375.183673469	b, Outro, guitar)
 380.249977324	Silence
 383.007346938	End

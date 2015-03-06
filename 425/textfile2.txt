@@ -1,15 +1,15 @@
-0.000000000	silence
-0.562539682	A, a, intro, (sax
+0.000000000	Silence
+0.562539682	A, a, Intro, (sax
 6.082086167	a, sax)
-11.324444444	B, b, head, (horns
+11.324444444	B, b, Head, (horns
 16.785804988	c
 21.997346938	b
 27.352857142	c, horns)
-32.678390022	C, d, trans, (trombone
+32.678390022	C, d, Transition, (trombone
 38.019591836	e, trombone)
-43.351859410	B, b, head, (horns
+43.351859410	B, b, Head, (horns
 48.650748299	c, horns)
-53.954353741	D, solo, f, (percussion
+53.954353741	D, Solo, f, (percussion
 60.131700680	f
 66.679637188	f
 71.873945578	f
@@ -24,15 +24,15 @@
 118.883786848	f
 124.267392290	f
 129.615306122	f', percussion)
-137.513809523	B, b, head, (horns
+137.513809523	B, b, Head, (horns
 142.956326530	c', horns)
-151.047437641	E, solo, (piano)
-163.932879818	F, g, outro, (sax
+151.047437641	E, Solo, (piano)
+163.932879818	F, g, Outro, (sax
 171.169637188	g
 177.661428571	g
 184.123356009	g
 190.522925170	h
 197.044988662	h
 203.897573696	h', sax);
-215.597278911	silence
-220.038049886	end
+215.597278911	Silence
+220.038049886	End
