@@ -1,5 +1,4 @@
 0.000000000	silence
-0.000000000	13.3
 0.464399092	A, a, intro, (piano)
 8.199682539	a, head, (synthesizer, (saxophone
 15.840702947	b

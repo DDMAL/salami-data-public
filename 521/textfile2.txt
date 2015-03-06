@@ -2,7 +2,7 @@
 1.369977324	A, a, intro
 10.649569160	b, (trumpet)
 19.842947845	B, c, Head, (saxophones
-31.869614512	c,
+31.869614512	c
 43.810929705	d, (piano)
 55.690952380	c, saxophones)
 67.596281179	C, e, Interlude, (trumpets)

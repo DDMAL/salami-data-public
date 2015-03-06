@@ -1,6 +1,6 @@
-0.000000000	A, solo, (guitar
-6.206712018	=, guitar)
-12.260612244	=, (synthesizer
-18.250294784	=
-24.342335600	=
-30.389501133	=, outro, synth)
+0.000000000	A, solo, (guitar, b
+6.206712018	guitar), b
+12.260612244	(synthesizer, b
+18.250294784	b
+24.342335600	b
+30.389501133	outro, synth), b

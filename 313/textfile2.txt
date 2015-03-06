@@ -1,29 +1,29 @@
 0.000000000	silence
-0.335260770	A, verse, (voice
-5.838027210	=, voice)
-13.126893424	A, intro, (harmonica
-18.546598639	X, harmonica)
-25.791201814	A, verse, (voice
-31.092426303	=
-38.368253968	B, chorus
-43.675192743	=, voice)
-51.063333333	A, transition, (harmonica
-56.409274376	X, harmonica)
-63.696303854	A, verse, (voice
-69.005963718	=
-74.276326530	B, chorus
-79.627278911	=
-87.091746031	A, verse
-92.265600907	=
-97.472176870	B, chorus
-102.776303854	=
-110.016439909	A, verse
-115.336553287	=
-120.583854875	B, chorus
-125.887346938	=, voice)
-131.242063492	A, outro, (harmonica
-136.569818594	=
-141.919569160	=, fadeout
-147.386417233	=, harmonica)
+0.335260770	A, verse, (voice, b
+5.838027210	voice), b
+13.126893424	A, intro, (harmonica, c
+18.546598639	harmonica), d
+25.791201814	A, verse, (voice, e
+31.092426303	e
+38.368253968	B, chorus, f
+43.675192743	voice), f
+51.063333333	A, transition, (harmonica, g
+56.409274376	harmonica), h
+63.696303854	A, verse, (voice, i
+69.005963718	i
+74.276326530	B, chorus, j
+79.627278911	j
+87.091746031	A, verse, k
+92.265600907	k
+97.472176870	B, chorus, l
+102.776303854	l
+110.016439909	A, verse, m
+115.336553287	m
+120.583854875	B, chorus, n
+125.887346938	voice), n
+131.242063492	A, outro, (harmonica, o
+136.569818594	o
+141.919569160	fadeout, o
+147.386417233	harmonica), o
 152.750181405	silence
 157.656530612	end

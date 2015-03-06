@@ -1,5 +1,4 @@
 0.000000000	silence
-0.000000000	12.2
 0.137687074	A, y, intro
 1.333900226	B, d, theme, (accordion, (fiddle
 5.483922902	d

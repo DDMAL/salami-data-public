@@ -1,8 +1,0 @@
-0	2519	"verse A"
-2519	4859	"verse B"
-4859	7649	"verse C"
-7649	9993	"verse D"
-9993	12729	"verse C"
-12729	15273	"verse D"
-15273	21635	"chorus A"
-21635	24087	"ending"

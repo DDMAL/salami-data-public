@@ -1,6 +1,6 @@
 0.000000000	silence
 0.044897959	z, Z
-0.325079365	a, A,' intro, (guitar
+0.325079365	a, A', intro, (guitar
 2.474739229	a
 4.518231292	b, A, verse, (voice
 6.623310657	b, voice)

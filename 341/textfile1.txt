@@ -1,15 +1,15 @@
 0.000000000	silence
-0.010204081	A, main theme, (guitar
-3.201859410	X
-6.226417233	A, main theme
-9.259886621	X
-12.266394557	A, main theme
-15.325736961	X
-18.357959183	A, main theme
-21.364081632	X
-24.414149659	A, main theme
-27.421655328	X
-30.435464852	A, main theme, guitar)
-33.436621315	X, outro
+0.010204081	A, main, theme, (guitar, b
+3.201859410	c
+6.226417233	A, main, theme, d
+9.259886621	e
+12.266394557	A, main, theme, f
+15.325736961	g
+18.357959183	A, main, theme, h
+21.364081632	i
+24.414149659	A, main, theme, j
+27.421655328	k
+30.435464852	A, main, theme, guitar), l
+33.436621315	outro, m
 38.165600907	silence
 38.165600907	end

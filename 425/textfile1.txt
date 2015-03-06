@@ -28,7 +28,7 @@
 137.623809523	B, b, head, (saxophone
 143.055850340	c, saxophone)
 148.391927437	E, f, instrumental, (piano)
-164.695873015	g, (saxophone,
+164.695873015	g, (saxophone
 177.722267573	g
 190.533469387	h, outro
 220.035192743	end

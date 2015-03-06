@@ -8,7 +8,7 @@
 44.142902494	B, b, refrain
 50.731383219	b', voice)
 57.320725623	A, a, interlude, (banjo
-63.950566893	a' banjo)
+63.950566893	a', banjo)
 72.241133786	B, b, verse, (voice
 78.840294784	b'
 85.472471655	B, b, refrain
