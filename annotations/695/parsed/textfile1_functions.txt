@@ -1,0 +1,16 @@
+0.0	Silence
+0.221333333	Intro
+35.4675	no_function
+68.9175	no_function
+102.283458333	Solo
+130.905	Instrumental
+159.33	Verse
+192.1875	Verse
+225.116083333	Verse
+258.147375	Solo
+281.851395833	Instrumental
+314.821	Verse
+338.307291666	Outro
+366.494541666	Fade-out
+389.0773125	Silence
+391.691916666	End

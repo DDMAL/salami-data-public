@@ -1,0 +1,9 @@
+0.0	Silence
+0.391836734	no_function
+90.840816326	no_function
+184.848979591	no_function
+309.159183673	no_function
+407.510204081	no_function
+512.55510204	applause
+516.414603174	Silence
+516.414693877	End

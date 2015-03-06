@@ -1,0 +1,17 @@
+0.0	Silence
+0.417959183	Main_Theme
+67.918367346	Transition
+81.785759637	Secondary_Theme
+126.87770975	Outro
+155.186462585	Main_Theme
+222.252970521	no_function
+236.364217687	Secondary_Theme
+281.132471655	Outro
+309.701473922	Transition
+315.989387755	Development
+383.315011337	Main_Theme
+426.643446712	Transition
+442.204036281	Secondary_Theme
+483.520725623	Outro
+539.776802721	Silence
+545.959183673	End

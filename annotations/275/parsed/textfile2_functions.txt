@@ -1,0 +1,11 @@
+0.0	Silence
+0.037006802	Main_Theme
+18.924263038	Secondary_Theme
+29.001723356	Main_Theme
+46.254149659	Secondary_Theme
+55.704671201	Development
+85.031473922	Main_Theme
+100.124444444	Secondary_Theme
+110.085804988	Coda
+146.294195011	Silence
+151.150090702	End

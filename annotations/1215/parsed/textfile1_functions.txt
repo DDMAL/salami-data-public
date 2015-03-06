@@ -1,0 +1,13 @@
+0.0	Silence
+0.045333333	no_function
+0.106666666	Intro
+55.192875	Solo
+103.0333125	Interlude
+118.9485	Solo
+183.271645833	Interlude
+199.630479166	Solo
+239.907875	Interlude
+247.949791666	Solo
+354.180145833	no_function
+357.424	Silence
+357.456	End

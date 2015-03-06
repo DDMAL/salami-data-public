@@ -1,0 +1,17 @@
+0.0	Silence
+0.04875	no_function
+4.51875	Intro
+13.9489375	Head
+32.795416666	Verse
+70.7695625	Chorus
+89.4899375	Instrumental
+89.4899375	Solo
+221.797354166	Head
+240.869666666	Verse
+278.963458333	Chorus
+297.7073125	Instrumental
+377.4968125	Head
+377.4968125	Outro
+406.639354166	no_function
+459.384	End
+459.384	Silence

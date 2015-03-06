@@ -1,0 +1,10 @@
+0.0	Silence
+1.114557823	no_function
+274.575963718	no_function
+315.98292517	no_function
+366.619863945	trumpet
+408.055056689	no_function
+474.808571428	no_function
+614.092222222	Outro
+721.58185941	Silence
+726.055918367	End

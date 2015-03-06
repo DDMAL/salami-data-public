@@ -1,0 +1,8 @@
+0.0	Intro
+0.0	Silence
+7.441791383	Main_Theme
+20.897959183	Transition
+58.297278911	Secondary_Theme
+94.952471655	Outro
+140.008163265	Silence
+144.523877551	End

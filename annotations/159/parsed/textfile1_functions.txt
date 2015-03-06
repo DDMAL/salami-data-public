@@ -1,0 +1,12 @@
+0.0	Silence
+1.346757369	Main_Theme
+24.544036281	Main_Theme
+53.998276643	Secondary_Theme
+120.418707482	no_function
+136.443333333	no_function
+158.105170068	no_function
+210.898730158	Transition
+216.505419501	Main_Theme
+247.942653061	Coda
+265.686757369	Silence
+268.88861678	End
