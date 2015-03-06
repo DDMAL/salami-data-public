@@ -1,6 +1,6 @@
-0.000000000	silence
-0.049342403	z, intro, (spoken voice)
-3.281632653	a', A, intro, (bag pipes
+0.000000000	Silence
+0.049342403	z, Intro, (spoken voice)
+3.281632653	a', A, Intro, (bag pipes
 7.883174603	a
 12.436621315	a
 17.037868480	b
@@ -44,6 +44,6 @@
 177.143832199	b
 181.687664399	b
 186.276303854	b
-190.868140589	q, outro, voice)
-197.036734693	silence
-197.048367346	end
+190.868140589	q, Outro, voice)
+197.036734693	Silence
+197.048367346	End

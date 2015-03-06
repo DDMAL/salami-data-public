@@ -1,5 +1,5 @@
 0.000000000	Silence
-0.455714285	A, a, intro, (piano)
+0.455714285	A, a, Intro, (piano)
 6.373129251	B, b, Verse, (voice
 15.304875283	b
 24.013877551	c
@@ -20,6 +20,6 @@
 148.808367346	b, piano)
 156.846621315	c, (voice
 165.617528344	d'
-175.762108843	h, outro, (piano), voice)
+175.762108843	h, Outro, (piano), voice)
 182.621269841	Silence
 186.172517006	End

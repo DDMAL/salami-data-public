@@ -1,43 +1,43 @@
-0.000000000	C, intro, (guitar
-7.130022675	D, intro, guitar)
-11.474988662	A, verse, (vocal
-21.460385487	B, verse, vocal)
-33.772290249	C, verse
-38.570975056	D, trans
-43.410907029	A, verse, (vocal
-51.988004535	B, verse
-60.344693877	C, verse, vocal)
-65.247845804	D, trans
-68.767437641	A, verse, vocal)
-78.575873015	B, verse
-87.886281179	C, verse, vocal)
-92.767052154	D, trans
-97.534489795	A, verse, (vocal
-107.070181405	B, verse
-115.301814058	C, verse, vocal)
-119.990045351	D, trans
-124.790544217	A, verse, (vocal
-133.035759637	B, verse
-142.427687074	C, verse, vocal)
-147.362630385	D, trans
-152.074625850	A, solo, (guitar
-161.229115646	B, solo
-171.566281179	C, solo
-176.159251700	D, trans, solo, guitar)
-180.813968253	A, verse, (vocal
-189.204784580	B, verse
-198.579954648	C, verse, vocal)
-203.189047619	D, trans
-207.827641723	A, verse, (vocal
-217.161315192	B, verse
-226.497346938	C, verse, vocal)
-231.168344671	D, trans
-235.873605442	A, verse, (vocal
-246.264104308	B, verse
-255.512879818	C, verse, vocal)
-260.140136054	D, trans
-263.743764172	A, verse, (vocal
-273.087641723	B, verse
-282.421428571	C, verse, vocal)
-287.032630385	D, outro
-292.638004535	end
+0.000000000	C, Intro, (guitar
+7.130022675	D, Intro, guitar)
+11.474988662	A, Verse, (vocal
+21.460385487	B, Verse, vocal)
+33.772290249	C, Verse
+38.570975056	D, Transition
+43.410907029	A, Verse, (vocal
+51.988004535	B, Verse
+60.344693877	C, Verse, vocal)
+65.247845804	D, Transition
+68.767437641	A, Verse, vocal)
+78.575873015	B, Verse
+87.886281179	C, Verse, vocal)
+92.767052154	D, Transition
+97.534489795	A, Verse, (vocal
+107.070181405	B, Verse
+115.301814058	C, Verse, vocal)
+119.990045351	D, Transition
+124.790544217	A, Verse, (vocal
+133.035759637	B, Verse
+142.427687074	C, Verse, vocal)
+147.362630385	D, Transition
+152.074625850	A, Solo, (guitar
+161.229115646	B, Solo
+171.566281179	C, Solo
+176.159251700	D, Transition, Solo, guitar)
+180.813968253	A, Verse, (vocal
+189.204784580	B, Verse
+198.579954648	C, Verse, vocal)
+203.189047619	D, Transition
+207.827641723	A, Verse, (vocal
+217.161315192	B, Verse
+226.497346938	C, Verse, vocal)
+231.168344671	D, Transition
+235.873605442	A, Verse, (vocal
+246.264104308	B, Verse
+255.512879818	C, Verse, vocal)
+260.140136054	D, Transition
+263.743764172	A, Verse, (vocal
+273.087641723	B, Verse
+282.421428571	C, Verse, vocal)
+287.032630385	D, Outro
+292.638004535	End

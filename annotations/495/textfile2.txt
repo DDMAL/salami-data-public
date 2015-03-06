@@ -37,7 +37,7 @@
 322.548390022	j, trumpet)
 330.930793650	k, (double-bass
 339.662244897	l, double-bass)
-348.106507936	D, m, transition, (voice
+348.106507936	D, m, Transition, (voice
 368.449274376	E, n, Chorus
 377.189841269	n
 385.359727891	n'
@@ -47,6 +47,6 @@
 419.481043083	g
 427.900204081	h
 436.588526077	F', e
-445.194603174	i, outro, voice)
+445.194603174	i, Outro, voice)
 458.199365079	Silence
 460.822925170	End

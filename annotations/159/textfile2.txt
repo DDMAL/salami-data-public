@@ -1,5 +1,5 @@
 0.000000000	Silence
-1.555736961	A, a, Main Theme, (strings
+1.555736961	A, a, Main_Theme, (strings
 24.661587301	a'
 54.177460317	B, b, Theme
 75.038321995	c
@@ -10,7 +10,7 @@
 158.157233560	B, b'', Theme, (strings
 178.695873015	c'
 189.401269841	b'''
-217.013696145	A, a, Main Theme
-247.942675736	d, outro, strings)
+217.013696145	A, a, Main_Theme
+247.942675736	d, Outro, strings)
 265.520181405	Silence
 268.912857142	End

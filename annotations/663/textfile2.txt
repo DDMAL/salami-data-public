@@ -1,6 +1,6 @@
 0.000000000	Silence
-0.411201814	A, a, intro, (guitar)
-2.058639455	B, b, Pre-verse
+0.411201814	A, a, Intro, (guitar)
+2.058639455	B, b, Pre-Verse
 8.664648526	B', b, Verse, (voice
 15.335691609	b
 22.035736961	C, c, Chorus
@@ -56,6 +56,6 @@
 339.028163265	C, c, Chorus, (voice
 344.134353741	b'
 350.678594104	d, voice)
-357.111496598	h, outro
+357.111496598	h, Outro
 365.040907029	Silence
 365.327120181	End

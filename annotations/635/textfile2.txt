@@ -1,5 +1,5 @@
 0.278639455	Silence
-1.605759637	A, a, intro
+1.605759637	A, a, Intro
 13.395442176	B, b, Verse, (voice
 25.004807256	b'
 36.689659863	C, c, Chorus

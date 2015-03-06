@@ -24,7 +24,7 @@
 172.315283446	C, e, Chorus
 178.863310657	e
 185.452358276	e, voice)
-192.120929705	A, a, outro, (piccolo
+192.120929705	A, a, Outro, (piccolo
 198.709705215	a', piccolo)
 203.864285714	Silence
 208.308095238	End

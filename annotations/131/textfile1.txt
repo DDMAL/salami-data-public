@@ -1,15 +1,15 @@
-0.000000000	silence
-1.040272108	A, a, main theme, (trumpet
+0.000000000	Silence
+1.040272108	A, a, Main_Theme, (trumpet
 13.757301587	a', trumpet)
-26.658095238	B, b, interlude, (oboe
+26.658095238	B, b, Interlude, (oboe
 32.992199546	c, oboe)
-39.317142857	A, a, main theme, (trumpet
+39.317142857	A, a, Main_Theme, (trumpet
 45.636190476	a', trumpet)
-52.170317460	D, d, interlude
+52.170317460	D, d, Interlude
 58.894512471	e
-65.524172335	A, a, main theme, (trumpet
+65.524172335	A, a, Main_Theme, (trumpet
 71.973537414	a'
-78.409501133	A, a, main theme
+78.409501133	A, a, Main_Theme
 84.748526077	a', trumpet)
-94.315963718	silence
-98.522154195	end
+94.315963718	Silence
+98.522154195	End

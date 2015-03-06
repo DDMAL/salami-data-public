@@ -1,5 +1,5 @@
-0.000000000	silence
-0.835918367	A, a, intro
+0.000000000	Silence
+0.835918367	A, a, Intro
 5.317913832	a
 8.773877551	b
 15.524149659	c, (percussion)
@@ -28,8 +28,8 @@
 334.808526077	F, d, (trumpet
 340.241995464	d, (violin, (clarinet
 352.084172335	e, violin), clarinet), trumpet)
-373.144671201	U, u, coda
+373.144671201	U, u, Coda
 383.222131519	v, (violin)
 396.527165532	w, (clarinet)
-404.322426303	silence
-413.793015873	end
+404.322426303	Silence
+413.793015873	End

@@ -1,5 +1,5 @@
-0.000000000	silence
-0.400000000	a, A, intro, (strings)
+0.000000000	Silence
+0.400000000	a, A, Intro, (strings)
 4.800000000	b, B, (voice)
 8.591383219	c, (choir)
 11.308117913	d, (voice)
@@ -18,6 +18,6 @@
 45.520975056	k, voice), choir)
 47.624126984	g, (choir
 49.700317460	h
-51.922789115	l, fade-out, choir)
-54.355532879	silence
-58.553287981	end
+51.922789115	l, Fade-out, choir)
+54.355532879	Silence
+58.553287981	End

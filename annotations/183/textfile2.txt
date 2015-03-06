@@ -23,6 +23,6 @@
 129.385464852	c, voice)
 137.577482993	d, (flute)
 140.855646258	e, (voice)
-146.714399092	d', outro, (flute), (violins)
+146.714399092	d', Outro, (flute), (violins)
 154.208072562	Silence
 161.044897959	End

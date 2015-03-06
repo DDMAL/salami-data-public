@@ -1,25 +1,25 @@
 0.000000000	Z
-4.435396825	A, pre-intro, (guitar)
-8.640952380	B, a, intro, (banjo
+4.435396825	A, Intro, (guitar)
+8.640952380	B, a, Intro, (banjo
 16.855487528	b, banjo)
-24.999387755	B, a, verse, (voice
+24.999387755	B, a, Verse, (voice
 33.278004535	b, voice)
-41.428752834	B, a, interlude, (banjo 
+41.428752834	B, a, Interlude, (banjo
 49.494058956	b, banjo)
-57.798843537	B, a, interlude, (guitar
+57.798843537	B, a, Interlude, (guitar
 65.948163265	b, guitar)
-73.876643990	B, a, verse, (voice
+73.876643990	B, a, Verse, (voice
 82.007097505	b, voice)
-90.094331065	B, a, interlude, (guitar
+90.094331065	B, a, Interlude, (guitar
 98.156417233	b, guitar)
-106.238526077	B, a, interlude, (banjo
+106.238526077	B, a, Interlude, (banjo
 114.420294784	b, banjo)
-122.556122448	B, a, verse, (voice
+122.556122448	B, a, Verse, (voice
 130.810816326	b
-138.933718820	C, c, bridge
+138.933718820	C, c, Bridge
 146.896281179	c
 153.433015873	c
-159.887210884	D, d, interlude
+159.887210884	D, d, Interlude
 166.310408163	d, voice)
 172.876575963	d
 179.206258503	d
@@ -50,4 +50,4 @@
 344.369138321	d'
 351.023922902	d'', banjo)
 360.727324263	Z
-431.960816326	end
+431.960816326	End

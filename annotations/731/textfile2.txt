@@ -1,6 +1,6 @@
-0.000000000	silence
-0.208979591	C', c', intro, (percussion
-4.479455782	A, a, instrumental
+0.000000000	Silence
+0.208979591	C', c', Intro, (percussion
+4.479455782	A, a, Instrumental
 8.548662131	a
 14.667551020	A, a
 18.882811791	a
@@ -34,7 +34,7 @@
 138.563922902	A', a
 142.452426303	d
 146.528684807	A'', a
-152.691043083	d', outro, percussion)
+152.691043083	d', Outro, percussion)
 162.292970521	Z
-163.204353741	silence
-164.506825396	end
+163.204353741	Silence
+164.506825396	End

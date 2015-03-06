@@ -1,5 +1,5 @@
-0.000000000	silence
-3.924172335	a, A, intro, (strings
+0.000000000	Silence
+3.924172335	a, A, Intro, (strings
 18.008888888	a'
 57.840907029	b, strings)
 104.605895691	c, (trumpet
@@ -10,7 +10,7 @@
 289.668934240	a', (strings
 306.197120181	a'
 360.698775510	a', strings)
-404.932789115	d, B, theme, (flute
+404.932789115	d, B, Theme, (flute
 415.412970521	e
 424.658616780	f
 432.462993197	e'
@@ -18,9 +18,9 @@
 452.367505668	e
 461.898956916	f, flute)
 470.087891156	g, (trumpet)
-478.307845804	a, A, interlude
+478.307845804	a, A, Interlude
 491.543219954	a', strings)
-556.651972789	d, B, theme, (trumpet
+556.651972789	d, B, Theme, (trumpet
 569.323741496	e
 577.582244897	f
 587.026666666	e', trumpet)
@@ -28,7 +28,7 @@
 603.996462585	e
 611.149206349	f
 618.898276643	g, (trumpet)
-626.124013605	d', C, development, (trombone
+626.124013605	d', C, Development, (trombone
 634.345941043	e', trombone)
 641.938866213	d', (bassoon)
 649.799183673	d, (strings
@@ -54,7 +54,7 @@
 852.056235827	f'
 862.439297052	e', bassoon)
 868.774603174	g, (trumpet)
-877.783945578	a', A', outro, (strings
+877.783945578	a', A', Outro, (strings
 921.803809523	b, strings)
 959.375283446	c', (trumpet
 991.861337868	a', trumpet)
@@ -63,5 +63,5 @@
 1041.995464852	g, (trumpet)
 1051.684535147	a', (bassoon)
 1073.203083900	g, (trumpet)
-1085.045260770	silence
-1085.126530612	end
+1085.045260770	Silence
+1085.126530612	End
