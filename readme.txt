@@ -1,9 +1,16 @@
-SALAMI Data Set version 1.0
-Released 16 February 2012
+SALAMI Data Set version 1.1
+Released 14 March 2012
+
 
 ~@@@@~
 
-This data was released under a Creative Commons 0 license, effectively dedicating it to the public domain. More information about this dedication and your rights, please see the details here:
+Changes from version 1.0:
+-- 28 Isophonics annotation files added (SALAMI ID #1600-1654)
+-- additional metadata files with separate readme
+
+~@@@@~
+
+This data is released under a Creative Commons 0 license, effectively dedicating it to the public domain. More information about this dedication and your rights, please see the details here:
 http://creativecommons.org/publicdomain/zero/1.0/
 http://creativecommons.org/publicdomain/zero/1.0/legalcode
 
@@ -18,9 +25,19 @@ http://salami.music.mcgill.ca/wp-content/uploads/2012/02/SALAMI_ISMIR_2011.pdf
 
 The files included in this data set are:
 
-data.zip
-metadata.csv
-readme.txt
+data.zip               [contains annotations files]
+metadata.csv           [describes content of files]
+readme.txt             [explains package]
+readme_metadata.txt    [explains additional metadata]
+
+Additional metadata files now include:
+id_index_codaich.csv
+id_index_internetarchive.csv
+id_index_isophonics.csv
+id_index_rwc.csv
+SALAMI_iTunes_library.xml
+
+~@@@@~
 
 Each piece of music has 1 or 2 associated text files, since one or two listeners annotated each piece (in the rare case of piece #78, there are 3 files, to indicate a 3-layer annotation by one listener). The files are all labelled "textfile1.txt" and "textfile2.txt" and organized in directories by their unique SONG_ID.
 
