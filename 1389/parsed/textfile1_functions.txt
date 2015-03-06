@@ -1,0 +1,14 @@
+0.0	Silence
+0.046666666	no_function
+0.405333333	Intro
+5.407041666	Instrumental
+25.3589375	Verse
+45.3605625	Verse
+65.329104166	Chorus
+85.313416666	Instrumental
+105.265020833	Verse
+125.243145833	Chorus
+145.210854166	Instrumental
+171.093333333	no_function
+211.074666666	Silence
+211.08	End

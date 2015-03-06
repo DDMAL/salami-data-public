@@ -1,0 +1,9 @@
+0.0	Silence
+1.38664399	Intro
+24.56739229	no_function
+70.629365079	Interlude
+80.115555555	no_function
+126.616530612	no_function
+219.129047619	Coda
+228.957074829	Silence
+236.062585034	End

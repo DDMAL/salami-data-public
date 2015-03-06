@@ -1,0 +1,8 @@
+0.0	Silence
+0.333854875	spoken_voice
+9.510340136	no_function
+50.024489795	no_function
+99.722448979	no_function
+114.714013605	Outro
+126.427097505	Silence
+129.543061224	End

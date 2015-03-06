@@ -1,0 +1,7 @@
+0.0	Silence
+1.534693877	no_function
+23.379591836	no_function
+45.651678004	no_function
+55.706122448	Outro
+84.05170068	Silence
+89.055646258	End

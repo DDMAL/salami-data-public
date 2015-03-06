@@ -1,0 +1,6 @@
+0.0	Silence
+0.037006802	Exposition
+55.704671201	Development
+85.032539682	Recap
+146.285714285	Silence
+151.158911564	End

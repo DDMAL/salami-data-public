@@ -1,0 +1,10 @@
+0.0	Silence
+0.255419501	Intro
+8.057324263	Main_Theme
+23.346575963	Secondary_theme
+38.628956916	Main_Theme
+54.172154195	Secondary_theme
+69.588798185	Main_Theme
+85.333333333	Outro
+90.093424036	Silence
+95.168458049	End
