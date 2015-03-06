@@ -1,18 +1,18 @@
-0.000000000	silence
-0.441179138	A, intro, (slide, guitar, b
-10.870657596	B, verse, (voice, c
+0.000000000	Silence
+0.441179138	A, Intro, (slide, guitar, b
+10.870657596	B, Verse, (voice, c
 20.617437641	c
 30.456213151	d
-45.131043083	C, chorus, e
+45.131043083	C, Chorus, e
 54.881088435	voice), f
-64.793287981	A, transition, (slide, guitar), g
-74.448321995	B, verse, (voice, h
+64.793287981	A, Transition, (slide, guitar), g
+74.448321995	B, Verse, (voice, h
 84.245034013	h
 94.018866213	i
-103.772290249	C, chorus, j
+103.772290249	C, Chorus, j
 113.566938775	k
-128.282108843	C, chorus, l
+128.282108843	C, Chorus, l
 137.990952380	voice), m
-147.806575963	A, outro, (slide, guitar), n
-163.392607709	silence
-167.587392290	end
+147.806575963	A, Outro, (slide, guitar), n
+163.392607709	Silence
+167.587392290	End

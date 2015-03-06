@@ -1,24 +1,24 @@
-0.000000000	silence
-0.224489795	A, a, head, (saxophone
+0.000000000	Silence
+0.224489795	A, a, Head, (saxophone
 4.609705215	b
 8.828049886	a
 12.993537414	c
 17.107596371	d
 21.225623582	e
 25.435941043	f, saxophone)
-29.707800453	A, a, instrumental, solo, (trumpet
+29.707800453	A, a, Instrumental, Solo, (trumpet
 33.897505668	b
 38.092040816	a
 42.369274376	c
 46.619682539	d
 50.797800453	e
 55.107777777	f, trumpet)
-59.303764172	A, a, instrumental, solo, (piano
+59.303764172	A, a, Instrumental, Solo, (piano
 63.480544217	b
 67.504444444	a
 71.529138321	c
 75.617573696	d, piano)
-79.656598639	A, a, instrumental, solo, (trumpet
+79.656598639	A, a, Instrumental, Solo, (trumpet
 83.704897959	b
 87.737188208	a
 91.960657596	c
@@ -27,19 +27,19 @@
 104.369024943	d
 108.561201814	e
 112.706054421	f, trumpet)
-116.856802721	A, a, instrumental, solo, (clarinet
+116.856802721	A, a, Instrumental, Solo, (clarinet
 120.962063492	b
 125.212244897	a
 129.443424036	c
 133.529183673	d
 137.608707482	e
 141.800997732	f, trumpet)
-145.936825396	A, a, instrumental, solo, (saxophone
+145.936825396	A, a, Instrumental, Solo, (saxophone
 150.153265306	b
 154.288979591	a
 158.505283446	c
 162.705192743	d
 166.841179138	e
 170.968934240	f, saxophone)
-175.277551020	silence
-178.259591836	end
+175.277551020	Silence
+178.259591836	End

@@ -1,13 +1,13 @@
-0.000000000	silence
-0.000000000	A, a, intro, (voice
+0.000000000	Silence
+0.000000000	A, a, Intro, (voice
 6.102607709	a
-11.862426303	B, b, theme, (brass
+11.862426303	B, b, Theme, (brass
 17.750589569	b, brass), voice)
-23.654603174	D, d, transition, (percussion
+23.654603174	D, d, Transition, (percussion
 29.510657596	d
 35.382811791	d
 41.273990929	d, percussion)
-47.134716553	D, d, verse, (voice
+47.134716553	D, d, Verse, (voice
 52.982358276	d'
 58.910544217	d
 64.758548752	d', voice)
@@ -19,23 +19,23 @@
 100.010453514	c
 105.916167800	c
 111.779614512	c
-117.539024943	C, c, theme, (synthesizer
+117.539024943	C, c, Theme, (synthesizer
 123.554285714	c
 129.386349206	c
 135.226281179	c, synthesizer)
-141.122312925	C, c, chorus, (voice
+141.122312925	C, c, Chorus, (voice
 146.994829931	c
 152.882471655	c
 158.746530612	c
-164.698798185	C, c, theme, (synthesizer
+164.698798185	C, c, Theme, (synthesizer
 170.546394557	c
-176.394557823	C, c, chorus, (voice
+176.394557823	C, c, Chorus, (voice
 182.258526077	c, voice)
-188.130884353	C, c, theme
+188.130884353	C, c, Theme
 194.074399092	c
 199.930839002	c
-205.786462585	C, c, chorus, (voice
+205.786462585	C, c, Chorus, (voice
 211.666598639	c
-217.538480725	c, outro, fadeout, voice), synthesizer)
-230.322721088	silence
-230.431746031	end
+217.538480725	c, Outro, Fade-out, voice), synthesizer)
+230.322721088	Silence
+230.431746031	End

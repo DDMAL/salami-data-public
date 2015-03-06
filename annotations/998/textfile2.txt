@@ -1,41 +1,41 @@
-0.000000000	silence
+0.000000000	Silence
 0.046439909	Z
-10.936598639	A, a, head, (saxophone
+10.936598639	A, a, Head, (saxophone
 21.456122448	a
 31.832244897	a, saxophone)
-42.096417233	A, a, verse, (voice
+42.096417233	A, a, Verse, (voice
 55.084126984	a
-68.086439909	b, refrain, voice)
-83.409727891	A, a, head, (saxophone)
-93.545782312	A, a, verse, (voice
+68.086439909	b, Chorus, voice)
+83.409727891	A, a, Head, (saxophone)
+93.545782312	A, a, Verse, (voice
 106.329569160	a
-119.129546485	b, refrain, voice)
-134.513945578	A, a, head, (saxophone)
-144.657528344	A, a, solo, (guitar
+119.129546485	b, Chorus, voice)
+134.513945578	A, a, Head, (saxophone)
+144.657528344	A, a, Solo, (guitar
 157.490068027	a
 170.226258503	b
-185.605941043	c, bridge, guitar)
-195.844013605	A, a, solo, (keyboard
+185.605941043	c, Bridge, guitar)
+195.844013605	A, a, Solo, (keyboard
 208.521723356	a
 221.330272108	b, keyboard)
-236.579659863	A, a, head, (saxophone)
-246.805873015	A, a, verse, (voice
+236.579659863	A, a, Head, (saxophone)
+246.805873015	A, a, Verse, (voice
 259.740770975	a
-272.412063492	b, refrain, voice)
-287.641882086	A, a, head, (saxophone
-297.785396825	A, a, solo
+272.412063492	b, Chorus, voice)
+287.641882086	A, a, Head, (saxophone
+297.785396825	A, a, Solo
 310.561201814	a
 323.201383219	b
-338.482312925	A, a, head, saxophone)
-348.522721088	A, a, solo, (guitar
+338.482312925	A, a, Head, saxophone)
+348.522721088	A, a, Solo, (guitar
 361.086190476	a
 373.594172335	b, guitar)
-388.858526077	A, a, head, (saxophone)
-398.993582766	B, d, bridge, (voice
+388.858526077	A, a, Head, (saxophone)
+398.993582766	B, d, Bridge, (voice
 407.811995464	e
-417.561451247	A, a, verse
+417.561451247	A, a, Verse
 430.062176870	a
-442.540000000	b, refrain, voice)
-457.756802721	A, a, outro, (saxophone)
-471.395918367	silence
-471.431836734	end
+442.540000000	b, Chorus, voice)
+457.756802721	A, a, Outro, (saxophone)
+471.395918367	Silence
+471.431836734	End

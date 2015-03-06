@@ -1,32 +1,32 @@
 0.000000000	Z
-27.306666666	A, a, intro, (percussion
+27.306666666	A, a, Intro, (percussion
 44.581859410	b
 50.431428571	a
 61.956394557	b
 67.675714285	c, percussion), (guitar)
-78.931383219	B, d, chorus, (voice
+78.931383219	B, d, Chorus, (voice
 84.567777777	h
-90.292721088	C, e, verse
+90.292721088	C, e, Verse
 101.602993197	e
-112.951746031	B, d, chorus
+112.951746031	B, d, Chorus
 118.689863945	h
 124.492040816	d
 130.088684807	h, voice)
-135.815941043	C, e, solo, (violin)
-147.068707482	C, e, verse, (voice
+135.815941043	C, e, Solo, (violin)
+147.068707482	C, e, Verse, (voice
 158.449229024	e
-172.611133786	B, d, chorus
+172.611133786	B, d, Chorus
 178.314263038	h'
-187.043265306	D, f, bridge, voice)
-195.490272108	C, e, interlude, (guitar)
+187.043265306	D, f, Bridge, voice)
+195.490272108	C, e, Interlude, (guitar)
 206.701836734	e, (violin)
 218.038775510	e, (mandolin
 229.046666666	e, (violin), mandolin)
-243.227233560	E, g, solo, (bass
+243.227233560	E, g, Solo, (bass
 254.528866213	g
 265.896462585	g
 277.755873015	g, bass)
-284.865759637	B, d, outro, (voice
+284.865759637	B, d, Outro, (voice
 290.713061224	d
 296.416485260	d
 302.140884353	d
@@ -35,4 +35,4 @@
 319.192789115	d
 324.856145124	d, voice)
 330.448526077	Z
-355.068004535	end
+355.068004535	End

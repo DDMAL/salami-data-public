@@ -1,19 +1,19 @@
-0.000000000	silence
-0.835918367	A, a, intro, (piano)
-9.183718820	a, verse, (vocal
+0.000000000	Silence
+0.835918367	A, a, Intro, (piano)
+9.183718820	a, Verse, (vocal
 17.079818594	b
 31.274263038	c, vocal)
-40.921020408	d, transition, (piano
+40.921020408	d, Transition, (piano
 45.994557823	B, e, piano)
-50.271133786	f, verse, (vocal)
+50.271133786	f, Verse, (vocal)
 54.041201814	e, (piano)
-57.831065759	f, verse, (vocal
-61.847029478	C, g, transition
+57.831065759	f, Verse, (vocal
+61.847029478	C, g, Transition
 67.971746031	g
 74.284852607	h
-81.046893424	A', a, verse
+81.046893424	A', a, Verse
 92.031473922	b
 100.631995464	c, vocal)
-113.515963718	D, a, outro, (piano)
-129.659795918	silence
-135.039251700	end
+113.515963718	D, a, Outro, (piano)
+129.659795918	Silence
+135.039251700	End

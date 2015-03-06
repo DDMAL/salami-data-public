@@ -1,29 +1,29 @@
-0.000000000	silence
-0.289183673	A, a, refrain, (accordion
+0.000000000	Silence
+0.289183673	A, a, Chorus, (accordion
 6.166825396	a, accordion)
-11.820136054	B, b, verse, (voice
+11.820136054	B, b, Verse, (voice
 19.299183673	b, voice)
-26.613786848	A, a, refrain, (accordion
+26.613786848	A, a, Chorus, (accordion
 32.277573696	a, accordion)
-37.833900226	B, b, verse, (voice
+37.833900226	B, b, Verse, (voice
 45.126621315	b, voice)
 52.424421768	A, a, (accordion
 58.065646258	a, accordion)
-63.625170068	B, b, verse, (voice
+63.625170068	B, b, Verse, (voice
 70.840385487	b, voice)
-78.167324263	A, a, refrain, (accordion
+78.167324263	A, a, Chorus, (accordion
 83.677573696	a, accordion)
-89.289682539	B, b, verse, (voice
+89.289682539	B, b, Verse, (voice
 96.572539682	b, voice)
-103.850068027	A, a, refrain, (accordion
+103.850068027	A, a, Chorus, (accordion
 109.488208616	a, accordion)
-115.124217687	B, b, verse, (voice
+115.124217687	B, b, Verse, (voice
 122.502222222	b, voice)
-129.971904761	A, a, refrain, (accordion
+129.971904761	A, a, Chorus, (accordion
 135.657687074	a, accordion)
-141.309750566	B, b, verse, (voice
+141.309750566	B, b, Verse, (voice
 148.810884353	b, voice)
-156.122834467	A, a, refrain, (accordion
+156.122834467	A, a, Chorus, (accordion
 161.872766439	a, accordion)
-167.997777777	silence
-170.429047619	end
+167.997777777	Silence
+170.429047619	End

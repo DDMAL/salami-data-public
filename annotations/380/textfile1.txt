@@ -1,12 +1,12 @@
-0.000000000	silence
-0.179591836	I, intro, (woodwinds)
-10.052698412	E, verse, (voice
+0.000000000	Silence
+0.179591836	I, Intro, (woodwinds)
+10.052698412	E, Verse, (voice
 19.700680272	A
 29.404807256	B
-39.092766439	C, chorus
-48.916462585	E, verse
+39.092766439	C, Chorus
+48.916462585	E, Verse
 58.573356009	A
 68.268730158	B
-78.004625850	C, chorus, voice)
-88.076643990	silence
-91.126009070	end
+78.004625850	C, Chorus, voice)
+88.076643990	Silence
+91.126009070	End

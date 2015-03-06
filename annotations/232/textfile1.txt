@@ -1,14 +1,14 @@
-0.000000000	silence
-0.116099773	a, A, intro, (bells)
-4.551111111	b, B, verse, (voice
+0.000000000	Silence
+0.116099773	a, A, Intro, (bells)
+4.551111111	b, B, Verse, (voice
 10.541859410	c
 17.447687074	c
 23.521814058	d
-31.416598639	a', A', trans, (dulcimer)
-35.665850340	b, B, verse, (voice
+31.416598639	a', A', Transition, (dulcimer)
+35.665850340	b, B, Verse, (voice
 41.912018140	c
 48.785124716	c
 55.820770975	d, voice)
-63.390476190	a, A, coda, (bells)
-67.430748299	silence
-71.026938775	end
+63.390476190	a, A, Coda, (bells)
+67.430748299	Silence
+71.026938775	End

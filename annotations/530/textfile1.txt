@@ -1,22 +1,22 @@
-0.000000000	silence
+0.000000000	Silence
 0.383129251	Z, (cheers and applause)
-1.949229024	I, i, intro, (trumpet
-25.263310657	H, e, head
+1.949229024	I, i, Intro, (trumpet
+25.263310657	H, e, Head
 37.630589569	a
 50.589569160	b, trumpet)
-63.933537414	H, e, improvisation, (trombone
+63.933537414	H, e, Solo, (trombone
 76.854081632	a
 90.099319727	b, trombone)
-103.631564625	H, e, improvisation, (voice
+103.631564625	H, e, Solo, (voice
 116.985918367	a
 130.530861678	b, voice)
-144.250204081	H, e, improvisation, (piano
+144.250204081	H, e, Solo, (piano
 157.770952380	a
 171.211065759	b, piano)
-184.768412698	H', e, head, (trumpet
+184.768412698	H', e, Head, (trumpet
 198.522834467	a, trumpet)
 212.185963718	b, (piano)
-224.920884353	J, j, outro, (trumpet)
+224.920884353	J, j, Outro, (trumpet)
 249.626893424	Z, (cheers and applause)
-252.938798185	silence
-257.552879818	end
+252.938798185	Silence
+257.552879818	End

@@ -1,13 +1,13 @@
-0.000000000	silence
-0.696598639	A, a, intro, (piano
+0.000000000	Silence
+0.696598639	A, a, Intro, (piano
 6.465963718	a
 10.590634920	a
-17.158571428	B, b, main theme
+17.158571428	B, b, Main_Theme
 25.440544217	b
-33.784557823	C, c, theme
+33.784557823	C, c, Theme
 42.143786848	c
-50.715034013	a', transition
-61.871292517	B', b', main theme
-70.135736961	b', outro, piano)
-83.296258503	silence
-86.061337868	end
+50.715034013	a', Transition
+61.871292517	B', b', Main_Theme
+70.135736961	b', Outro, piano)
+83.296258503	Silence
+86.061337868	End

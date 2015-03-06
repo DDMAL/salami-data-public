@@ -1,24 +1,24 @@
-0.000000000	silence
-0.232199546	m, N, intro, (flute)
-107.583673469	a, A, main theme, (guitar
+0.000000000	Silence
+0.232199546	m, N, Intro, (flute)
+107.583673469	a, A, Main_Theme, (guitar
 114.402380952	b
-120.965600907	a', A', secondary theme
+120.965600907	a', A', Secondary_Theme
 127.241768707	b
-133.655963718	c, B, solo
-170.348027210	a, A, theme
+133.655963718	c, B, Solo
+170.348027210	a, A, Theme
 176.316031746	b
-181.579319727	d, C, interlude
+181.579319727	d, C, Interlude
 189.044557823	e
-233.476643990	a, A, theme
+233.476643990	a, A, Theme
 239.885351473	b
-246.131519274	a', A', secondary theme
+246.131519274	a', A', Secondary_Theme
 252.996371882	b
-258.367346938	f, D, solo
-270.212244897	a, A, theme
+258.367346938	f, D, Solo
+270.212244897	a, A, Theme
 276.204081632	b
-282.152607709	a, A, theme
+282.152607709	a, A, Theme
 288.204081632	b
-293.412312925	h, E, outro
+293.412312925	h, E, Outro
 300.889795918	g, guitar)
-339.364353741	silence
-342.144104308	end
+339.364353741	Silence
+342.144104308	End

@@ -1,13 +1,13 @@
-0.000000000	A, intro, (flute
-3.167346938	B, a, theme
+0.000000000	A, Intro, (flute
+3.167346938	B, a, Theme
 7.854603174	b
-12.443537414	C, c, theme
+12.443537414	C, c, Theme
 17.147755102	c'
-21.844897959	B', a', theme
-28.869387755	D, f, trans
-33.404081632	B, a, theme
+21.844897959	B', a', Theme
+28.869387755	D, f, Transition
+33.404081632	B, a, Theme
 38.072222222	b
 42.546394557	a
-45.188684807	E, f, outro, flute)
-58.087641723	silence
-63.895510204	end
+45.188684807	E, f, Outro, flute)
+58.087641723	Silence
+63.895510204	End

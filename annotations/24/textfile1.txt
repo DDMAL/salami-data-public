@@ -1,20 +1,20 @@
-0.000000000	silence
-0.952018140	I, i, intro, (synth)
+0.000000000	Silence
+0.952018140	I, i, Intro, (synth)
 33.856485260	j, (accordion
 44.675192743	j
-54.868752834	A, a, head
+54.868752834	A, a, Head
 65.034580498	b
-75.303650793	A, a, head
+75.303650793	A, a, Head
 85.560068027	b, accordion)
-95.598208616	A, a, improvisation, (guitar
+95.598208616	A, a, Solo, (guitar
 105.783673469	b, guitar)
-115.783650793	A, a, head, (organ
+115.783650793	A, a, Head, (organ
 125.891383219	b, organ)
-135.823854875	A, a, head, (guitar
+135.823854875	A, a, Head, (guitar
 145.887777777	b
-155.875578231	A, a, coda
+155.875578231	A, a, Coda
 165.889795918	b, guitar)
 175.881201814	a, (accordion
-186.365011337	b, fadeout, accordion)
-200.035419501	silence
-202.903922902	end
+186.365011337	b, Fade-out, accordion)
+200.035419501	Silence
+202.903922902	End

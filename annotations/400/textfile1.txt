@@ -1,13 +1,13 @@
-0.000000000	silence
-0.278639455	I, intro, (guitar)
-9.055759637	A, head, (trumpet
+0.000000000	Silence
+0.278639455	I, Intro, (guitar)
+9.055759637	A, Head, (trumpet
 26.424285714	B, trumpet)
-43.746371882	A, solo, (guitar
+43.746371882	A, Solo, (guitar
 60.487959183	B, guitar)
-77.415306122	A, solo, (piano
+77.415306122	A, Solo, (piano
 94.319433106	B, piano)
-111.339659863	A, head, (trumpet
+111.339659863	A, Head, (trumpet
 128.499206349	B, trumpet)
-146.007052154	O, outro, (piano)
-162.400340136	silence
-164.231836734	end
+146.007052154	O, Outro, (piano)
+162.400340136	Silence
+164.231836734	End

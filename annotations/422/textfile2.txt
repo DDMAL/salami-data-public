@@ -1,20 +1,20 @@
-0.000000000	silence
-0.394739229	I, a', intro
-9.723537414	A, a, intro
-30.979251700	A, a, solo, (flute
-86.645056689	B, b, refrain
+0.000000000	Silence
+0.394739229	I, a', Intro
+9.723537414	A, a, Intro
+30.979251700	A, a, Solo, (flute
+86.645056689	B, b, Chorus
 97.122539682	b
 110.680975056	c
 123.159274376	c, flute)
-135.815260770	A, a, solo, (piano
-167.789954648	B, b, refrain
+135.815260770	A, a, Solo, (piano
+167.789954648	B, b, Chorus
 178.167823129	b
 191.605623582	c
 201.461224489	c, piano)
-214.376099773	A, a, solo, (guitar
-250.059297052	B, b, refrain
+214.376099773	A, a, Solo, (guitar
+250.059297052	B, b, Chorus
 260.501224489	b
 275.187301587	c
-285.467097505	c, fadeout, guitar)
-294.324058956	silence
-298.622970521	end
+285.467097505	c, Fade-out, guitar)
+294.324058956	Silence
+298.622970521	End

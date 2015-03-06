@@ -1,15 +1,15 @@
-0.000000000	silence
-1.032086167	A, a, intro, (bass)
-7.514149659	B, b, head, (trumpet
+0.000000000	Silence
+1.032086167	A, a, Intro, (bass)
+7.514149659	B, b, Head, (trumpet
 17.731020408	b
 28.061904761	c
 34.226371882	b
-44.025034013	C, solo, trumpet)
+44.025034013	C, Solo, trumpet)
 162.238616780	break
-175.985238095	C, solo, (sax)
-374.425306122	C, solo, (piano)
-534.523356009	B, b, head, (trumpet
+175.985238095	C, Solo, (sax)
+374.425306122	C, Solo, (piano)
+534.523356009	B, b, Head, (trumpet
 544.312131519	b
 553.638253968	c', trumpet)
 569.505056689	Z
-571.042426303	end
+571.042426303	End

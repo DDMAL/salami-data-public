@@ -1,31 +1,31 @@
-0.000000000	silence
-1.103628117	n, N, intro, (piano
+0.000000000	Silence
+1.103628117	n, N, Intro, (piano
 7.922199546	m, piano)
-14.664149659	a, A, main theme, (violin
+14.664149659	a, A, Main_Theme, (violin
 21.436757369	b
-27.963605442	c, transition
-30.987755102	d, secondary theme
+27.963605442	c, Transition
+30.987755102	d, Secondary_Theme
 37.371541950	e
 44.003854875	f
-54.908526077	a, A, main theme
+54.908526077	a, A, Main_Theme
 61.604376417	b
-68.405170068	c, transition
-71.706213151	d, secondary theme
+68.405170068	c, Transition
+71.706213151	d, Secondary_Theme
 78.067823129	e
 84.868072562	f
-94.563265306	g, B, secondary theme
+94.563265306	g, B, Secondary_Theme
 102.041337868	h
 108.657596371	i
 115.164603174	j
-121.834104308	k, secondary theme
+121.834104308	k, Secondary_Theme
 128.245102040	l
 134.786507936	m
-148.579115646	g, B, secondary theme
+148.579115646	g, B, Secondary_Theme
 156.665510204	h
 163.407165532	i
 169.846213151	j
-176.580045351	k, secondary theme
+176.580045351	k, Secondary_Theme
 183.086734693	l
-189.790952380	m, outro, violin)
-210.931360544	silence
-223.044829931	end
+189.790952380	m, Outro, violin)
+210.931360544	Silence
+223.044829931	End

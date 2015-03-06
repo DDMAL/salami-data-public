@@ -1,23 +1,23 @@
-0.000000000	silence
-1.137777777	A, intro, (spoken, voice), b
-10.903854875	B, intro, c
-21.285736961	B, verse, (voice, d
+0.000000000	Silence
+1.137777777	A, Intro, (spoken, voice), b
+10.903854875	B, Intro, c
+21.285736961	B, Verse, (voice, d
 31.863650793	d
-42.391700680	C, chorus, e
+42.391700680	C, Chorus, e
 52.951723356	e
-63.514421768	D, transition, f
-68.744625850	B, verse, g
+63.514421768	D, Transition, f
+68.744625850	B, Verse, g
 79.379727891	g
-89.855215419	C, chorus, h
+89.855215419	C, Chorus, h
 100.399410430	h
-110.985895691	E, bridge, i
+110.985895691	E, Bridge, i
 121.464897959	voice), i
-132.030884353	B, transition, j
-142.639478458	B, verse, (voice, k
+132.030884353	B, Transition, j
+142.639478458	B, Verse, (voice, k
 153.150680272	k
-163.634421768	C, chorus, l
+163.634421768	C, Chorus, l
 174.235510204	voice), l
-184.770680272	A, outro, m
-195.388639455	fadeout, m
-207.947800453	silence
-210.083401360	end
+184.770680272	A, Outro, m
+195.388639455	Fade-out, m
+207.947800453	Silence
+210.083401360	End

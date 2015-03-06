@@ -1,4 +1,4 @@
-0.000000000	silence
+0.000000000	Silence
 0.326530612	a, A, (accordion
 6.150544217	a, accordion)
 11.839024943	b, B, (choir
@@ -24,6 +24,6 @@
 141.384807256	b, B, (choir
 148.797482993	b, choir)
 156.164240362	a, A, (accordion
-161.839410430	a, outro, accordion)
-169.452517006	silence
-170.434353741	end
+161.839410430	a, Outro, accordion)
+169.452517006	Silence
+170.434353741	End

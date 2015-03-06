@@ -1,32 +1,32 @@
-0.000000000	silence
-1.068117913	A, a, intro, (trumpet
+0.000000000	Silence
+1.068117913	A, a, Intro, (trumpet
 8.201224489	a, trumpet)
-14.689569160	B, b, verse, (voice
+14.689569160	B, b, Verse, (voice
 21.145034013	c
-27.521111111	C, d, chorus
+27.521111111	C, d, Chorus
 34.121088435	d
 40.873174603	d
 47.584444444	d
-54.340748299	D, e, bridge
+54.340748299	D, e, Bridge
 60.826621315	f
-67.218752834	C, d, chorus
+67.218752834	C, d, Chorus
 73.778639455	d, voice)
-80.418458049	B, b, solo, (saxophone
+80.418458049	B, b, Solo, (saxophone
 86.807392290	c, saxophone)
-93.098480725	E, g, solo, (trumpet
+93.098480725	E, g, Solo, (trumpet
 99.378435374	g
 105.482154195	g
 111.645759637	g, trumpet)
 119.262607709	g, (saxophone
 125.470612244	g, saxophone)
-131.437619047	C, d, solo, (trumpet
+131.437619047	C, d, Solo, (trumpet
 137.701337868	d
 143.797687074	d, trumpet)
-150.118911564	D, e, bridge, (voice
+150.118911564	D, e, Bridge, (voice
 156.317687074	f
-162.597845804	C, d, chorus
+162.597845804	C, d, Chorus
 169.333605442	d
-175.902040816	h, outro, voice)
+175.902040816	h, Outro, voice)
 188.174308390	Z
-194.462199546	silence
-195.479931972	end
+194.462199546	Silence
+195.479931972	End

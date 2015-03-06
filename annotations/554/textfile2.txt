@@ -1,13 +1,13 @@
-0.000000000	silence
-0.325079365	A, intro, (piano), b
+0.000000000	Silence
+0.325079365	A, Intro, (piano), b
 10.302018140	(guitar), b
-19.735487528	A, verse, (voice, c
+19.735487528	A, Verse, (voice, c
 29.436349206	c
 39.058911564	B, d
-48.852108843	A, verse, voice), e
+48.852108843	A, Verse, voice), e
 58.516712018	(guitar), e
 68.139206349	B, (voice, f
-77.949569160	A, verse, voice), g
+77.949569160	A, Verse, voice), g
 86.749750566	(guitar), h
-94.631814058	silence
-97.989931972	end
+94.631814058	Silence
+97.989931972	End

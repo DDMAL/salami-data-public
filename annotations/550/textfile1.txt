@@ -1,4 +1,4 @@
-0.000000000	silence
+0.000000000	Silence
 0.371519274	a, A, (bass)
 16.671927437	b, (trumpet), (violin)
 39.799002267	a, (bass)
@@ -8,9 +8,9 @@
 73.317006802	a, bass)
 79.470294784	b, (trumpet), (violin)
 103.352018140	c, C, (bass)
-109.633015873	 b, (trumpet), (violin
+109.633015873	b, (trumpet), (violin
 120.232925170	d, violin)
 133.688888888	c, D, (bass)
-141.467573696	e, outro, (violin)
-152.890408163	silence
-153.787845804	end
+141.467573696	e, Outro, (violin)
+152.890408163	Silence
+153.787845804	End

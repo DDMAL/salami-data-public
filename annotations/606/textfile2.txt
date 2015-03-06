@@ -1,16 +1,16 @@
-0.000000000	silence
-0.395283446	A, intro, (voice
-23.329546485	B, a, intro
+0.000000000	Silence
+0.395283446	A, Intro, (voice
+23.329546485	B, a, Intro
 35.384036281	a'
-47.426530612	C, c, verse
+47.426530612	C, c, Verse
 59.523287981	c
-71.635963718	B, a', refrain
-83.699954648	D, d, bridge
-95.838390022	C, c, verse
-107.910680272	B, a, interlude
-119.952312925	D, d, bridge
-132.055532879	C, c, verse
-144.141519274	B, a, outro, fadeout
+71.635963718	B, a', Chorus
+83.699954648	D, d, Bridge
+95.838390022	C, c, Verse
+107.910680272	B, a, Interlude
+119.952312925	D, d, Bridge
+132.055532879	C, c, Verse
+144.141519274	B, a, Outro, Fade-out
 156.070680272	a, voice)
-159.339002267	silence
-162.178390022	end
+159.339002267	Silence
+162.178390022	End

@@ -1,11 +1,11 @@
-0.000000000	A, intro, (synthesizer
-41.052879818	B, a, theme
+0.000000000	A, Intro, (synthesizer
+41.052879818	B, a, Theme
 58.497777777	a
 75.845260770	a', synthesizer)
-93.240476190	C, b, theme, (guitar
+93.240476190	C, b, Theme, (guitar
 111.201473922	b, guitar)
-129.033287981	B, a, theme, (synthesizer
+129.033287981	B, a, Theme, (synthesizer
 145.444126984	a''
-152.508662131	A, outro, synthesizer)
+152.508662131	A, Outro, synthesizer)
 166.654126984	Z
-308.031224489	end
+308.031224489	End

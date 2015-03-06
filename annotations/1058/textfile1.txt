@@ -1,31 +1,31 @@
 0.000000000	Z
-8.364421768	A, pre-intro, (drums)
-17.413650793	B, a, refrain, (piano
+8.364421768	A, Intro, (drums)
+17.413650793	B, a, Chorus, (piano
 24.716938775	a
 31.976303854	a
 39.217120181	a, piano)
-46.420975056	C, trans, (guitar)
-50.074693877	D, b, bridge, (piano
+46.420975056	C, Transition, (guitar)
+50.074693877	D, b, Bridge, (piano
 57.212403628	b, piano)
-63.390476190	C, trans, (guitar)
-67.028798185	B, a, verse, (voice
+63.390476190	C, Transition, (guitar)
+67.028798185	B, a, Verse, (voice
 74.226848072	a, voice)
-81.455170068	C, trans, (guitar)
-84.975079365	B, a, verse, (voice
+81.455170068	C, Transition, (guitar)
+84.975079365	B, a, Verse, (voice
 92.183265306	a, voice)
-99.367074829	E, trans, (guitar)
+99.367074829	E, Transition, (guitar)
 104.759433106	B, a, chorus (voice
 111.882222222	a
 118.940702947	a
 126.070589569	a, voice)
-133.109705215	B, a, refrain, (piano
+133.109705215	B, a, Chorus, (piano
 140.295736961	a
-147.414285714	C, trans, (guitar)
-150.970770975	B, a, solo, (piano
+147.414285714	C, Transition, (guitar)
+150.970770975	B, a, Solo, (piano
 158.153106575	a
 165.361678004	a
 172.647006802	a, piano)
-179.807709750	B, a, solo, (guitar
+179.807709750	B, a, Solo, (guitar
 187.130249433	a
 194.286734693	a
 201.520816326	a
@@ -35,19 +35,19 @@
 230.262766439	a
 237.475487528	a
 244.539229024	a
-251.824852607	C, trans, guitar)
-255.406031746	B, a, verse, (voice
+251.824852607	C, Transition, guitar)
+255.406031746	B, a, Verse, (voice
 262.734036281	a, voice)
-269.819070294	C, trans, (guitar)
-273.446303854	B, a, verse, (voice
+269.819070294	C, Transition, (guitar)
+273.446303854	B, a, Verse, (voice
 280.582403628	a, voice)
-287.763197278	E, trans, (guitar)
-293.145238095	B, a, chorus, (voice
+287.763197278	E, Transition, (guitar)
+293.145238095	B, a, Chorus, (voice
 300.225963718	a
 307.345963718	a
 314.595192743	a, voice)
-321.658276643	B, a, refrain, (piano
+321.658276643	B, a, Chorus, (piano
 328.819047619	a
-335.933696145	C', outro, piano), (guitar)
+335.933696145	C', Outro, piano), (guitar)
 348.737868480	Z
-420.571428571	end
+420.571428571	End

@@ -1,31 +1,31 @@
-0.000000000	silence
-0.139319727	n, N, intro, (piano)
-6.629297052	g, C, secondary theme, (voice
+0.000000000	Silence
+0.139319727	n, N, Intro, (piano)
+6.629297052	g, C, Secondary_Theme, (voice
 12.976916099	h
 19.446712018	i
-25.843015873	a, A, main theme
+25.843015873	a, A, Main_Theme
 32.316462585	b
 38.722222222	c
 45.263673469	d
-51.690294784	e, B, secondary theme
+51.690294784	e, B, Secondary_Theme
 58.145578231	f
 64.567324263	c
 71.031655328	d, voice)
-77.491609977	a, A, solo, (saxophone
+77.491609977	a, A, Solo, (saxophone
 83.959319727	b
 90.363990929	c
 96.783673469	d, saxophone)
-103.175963718	e, B, solo, (trumpet
+103.175963718	e, B, Solo, (trumpet
 109.583968253	f
 115.939705215	c
 122.240385487	d, trumpet)
-128.506303854	a, A, main theme, (voice
+128.506303854	a, A, Main_Theme, (voice
 134.816530612	b
 141.122222222	c
 147.449727891	d
-153.651655328	e, B, secondary theme
+153.651655328	e, B, Secondary_Theme
 159.983673469	f
 166.301859410	c
-172.594467120	d, outro, voice)
-178.631655328	silence
-182.439183673	end
+172.594467120	d, Outro, voice)
+178.631655328	Silence
+182.439183673	End

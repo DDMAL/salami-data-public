@@ -1,11 +1,11 @@
-0.000000000	silence
-0.626938775	I, a, intro, (piano)
+0.000000000	Silence
+0.626938775	I, a, Intro, (piano)
 6.249274376	a, (strings)
 13.674240362	a, (brass
 21.046870748	a, brass)
-26.590702947	J, b, interlude, (strings)
+26.590702947	J, b, Interlude, (strings)
 38.312811791	c, (trumpet)
-52.524784580	C, d, main theme, (piano
+52.524784580	C, d, Main_Theme, (piano
 59.930702947	d
 67.152108843	d, piano)
 74.396734693	d, (brass)
@@ -18,14 +18,14 @@
 123.158639455	d'
 128.465963718	d'
 133.540498866	d', piano)
-138.671814058	K, k, interlude, (strings)
-153.416485260	C, d', main theme, (piano
+138.671814058	K, k, Interlude, (strings)
+153.416485260	C, d', Main_Theme, (piano
 158.752448979	d'', piano)
-164.815238095	L, d''', bridge, (strings
+164.815238095	L, d''', Bridge, (strings
 172.930612244	d'''
 179.673786848	d'''
 187.429251700	d''', strings)
-196.113514739	C, d, improvisation, (bass clarinet
+196.113514739	C, d, Solo, (bass clarinet
 203.320340136	d
 210.306281179	d
 217.312267573	d
@@ -39,8 +39,8 @@
 299.689795918	f
 323.921927437	h
 363.428571428	f, bass clarinet)
-372.893242630	F, g, coda, (strings)
+372.893242630	F, g, Coda, (strings)
 386.779206349	m, (bass clarinet)
 414.748979591	n, (piano)
-421.923945578	silence
-425.038367346	end
+421.923945578	Silence
+425.038367346	End

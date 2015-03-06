@@ -1,41 +1,41 @@
-0.000000000	A, a, intro
+0.000000000	A, a, Intro
 3.877732426	b, (guitar
 8.993038548	b
 14.159591836	c, guitar)
-19.309092970	B, c, verse, (voice
+19.309092970	B, c, Verse, (voice
 24.483628117	d
 29.560544217	e
 34.653673469	c
-39.788185941	C, f, chorus, voice)
-47.506734693	A, c, transition, (guitar)
-52.556961451	B, c, verse, (voice
+39.788185941	C, f, Chorus, voice)
+47.506734693	A, c, Transition, (guitar)
+52.556961451	B, c, Verse, (voice
 57.628458049	d
 62.695328798	e
 67.648956916	c
-72.681564625	C, f, chorus, voice)
-80.382789115	A, c, transition, (guitar)
-85.449229024	B, c, verse, (voice
+72.681564625	C, f, Chorus, voice)
+80.382789115	A, c, Transition, (guitar)
+85.449229024	B, c, Verse, (voice
 90.496507936	d
 95.511972789	e
 100.476621315	c
-105.568911564	C, f, chorus, voice)
-113.293174603	A, b, transition, (guitar
+105.568911564	C, f, Chorus, voice)
+113.293174603	A, b, Transition, (guitar
 118.451859410	b
 123.559478458	c
 128.640725623	c, guitar)
-133.635986394	B, c, verse, (voice
+133.635986394	B, c, Verse, (voice
 138.707505668	d
 143.769024943	e
 148.759637188	c
-153.850612244	C, f, chorus, voice)
-161.527936507	A, c, transition, (guitar)
-166.693106575	B, c, verse, (voice
+153.850612244	C, f, Chorus, voice)
+161.527936507	A, c, Transition, (guitar)
+166.693106575	B, c, Verse, (voice
 171.538095238	d
 176.550975056	e
 181.487664399	c
-186.518435374	C, f, chorus
+186.518435374	C, f, Chorus
 194.142585034	f, voice)
-201.767165532	A, b, outro, (guitar
+201.767165532	A, b, Outro, (guitar
 206.808049886	b
 211.642335600	c
 216.611020408	c
@@ -43,6 +43,6 @@
 226.340521541	c
 231.201541950	c
 236.018004535	c
-240.898004535	c, fadeout
+240.898004535	c, Fade-out
 245.694512471	c, guitar)
-249.394263038	end
+249.394263038	End

@@ -1,5 +1,5 @@
-0.000000000	silence
-0.046938775	I, intro, (guitar), b
+0.000000000	Silence
+0.046938775	I, Intro, (guitar), b
 11.981836734	A, (marimba), c
 23.816099773	c
 35.631995464	B, (sax), d
@@ -16,12 +16,12 @@
 166.083242630	marimba), m
 177.916190476	D, (sax, n
 189.763151927	sax), n
-201.632448979	I', transition, (guitar), o
-213.496009070	E, solo, (percussion), p
+201.632448979	I', Transition, (guitar), o
+213.496009070	E, Solo, (percussion), p
 225.318117913	B', (sax), q
 237.259092970	A, (marimba), r
 249.071179138	B', (sax), s
 260.893106575	A, (marimba, t
-272.791179138	outro, marimba), u
-280.856621315	silence
-282.625102040	end
+272.791179138	Outro, marimba), u
+280.856621315	Silence
+282.625102040	End

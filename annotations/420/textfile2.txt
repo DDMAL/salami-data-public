@@ -9,7 +9,7 @@
 64.179954648	b'', (trombone)
 74.559274376	C, d, (sax)
 87.794648526	b'', (trombone
-95.712653061	D, e, solo
-116.958911564	f, outro, trombone)
+95.712653061	D, e, Solo
+116.958911564	f, Outro, trombone)
 127.941950113	Silence
 131.038208616	End

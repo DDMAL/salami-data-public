@@ -1,27 +1,27 @@
-0.000000000	silence
-0.065306122	A, a, intro, (piano
+0.000000000	Silence
+0.065306122	A, a, Intro, (piano
 8.943786848	b, piano)
-16.039229024	A', a, verse, (voice
+16.039229024	A', a, Verse, (voice
 22.708956916	c
-29.901972789	A, a, verse
+29.901972789	A, a, Verse
 37.084875283	b
-52.996009070	A', a, chorus
+52.996009070	A', a, Chorus
 59.968979591	c
-66.844965986	B, d, chorus
+66.844965986	B, d, Chorus
 76.141315192	b, voice)
-90.229138321	A, a, instrumental, (piano
+90.229138321	A, a, Instrumental, (piano
 96.421201814	b, piano)
-104.253038548	C, e, theme, (voice
+104.253038548	C, e, Theme, (voice
 111.517120181	c
-120.036893424	A, a, verse
+120.036893424	A, a, Verse
 127.925374149	b
-149.002448979	A', a, chorus
+149.002448979	A', a, Chorus
 156.081927437	c
-162.897868480	B, d, chorus
+162.897868480	B, d, Chorus
 172.457800453	b, voice)
-185.121859410	A', a, instrumental, (piano
+185.121859410	A', a, Instrumental, (piano
 191.401746031	c, piano)
-198.065782312	B, d, outro, (voice
+198.065782312	B, d, Outro, (voice
 208.521564625	b, voice)
-225.930158730	silence
-230.122176870	end
+225.930158730	Silence
+230.122176870	End

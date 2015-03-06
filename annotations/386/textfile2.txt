@@ -1,25 +1,25 @@
-0.000000000	silence
-0.314172335	A, intro, b
-7.214965986	B, refrain, (organ, c
+0.000000000	Silence
+0.314172335	A, Intro, b
+7.214965986	B, Chorus, (organ, c
 14.010657596	d
-20.771020408	B, refrain, e
+20.771020408	B, Chorus, e
 27.539569160	f
 34.228594104	C, g
 41.039773242	h
 47.799138321	C, i
 54.570181405	j
-61.233469387	D, transition, k
+61.233469387	D, Transition, k
 68.001383219	organ), k
-74.689160997	E, solo, (percussion), l
-81.212403628	B, refrain, (organ, m
+74.689160997	E, Solo, (percussion), l
+81.212403628	B, Chorus, (organ, m
 87.718866213	n
-94.379070294	B, refrain, o
+94.379070294	B, Chorus, o
 100.991088435	p
-107.583968253	B, solo, (organ, q
+107.583968253	B, Solo, (organ, q
 114.254444444	r
-120.925668934	B, solo, s
+120.925668934	B, Solo, s
 127.634875283	t
 134.309342403	u
 137.672993197	organ), u
-140.518684807	silence
-143.699591836	end
+140.518684807	Silence
+143.699591836	End

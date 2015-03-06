@@ -1,56 +1,56 @@
-0.000000000	silence
-0.438820861	m, N, intro, (piano
+0.000000000	Silence
+0.438820861	m, N, Intro, (piano
 39.915102040	a, A, piano)
 54.311473922	b, (saxophones
 61.355668934	b'
 68.318231292	c
 75.304058956	d, saxophones)
 82.296190476	e, E, (brass)
-89.363015873	f, B, main theme, (saxophones
+89.363015873	f, B, Main_Theme, (saxophones
 96.112154195	g, saxophones)
 103.008208616	h, (brass
 109.876825396	i
 116.641836734	j
 123.672176870	k, brass)
-130.528140589	f, B, main theme, (saxophones
+130.528140589	f, B, Main_Theme, (saxophones
 137.590249433	g, saxophones)
 144.384285714	h, (brass
 151.219705215	i
 158.000181405	j
 165.016507936	k, brass)
-171.960181405	f', B', main theme, (winds
+171.960181405	f', B', Main_Theme, (winds
 179.000385487	g', winds)
 186.065532879	h', (brass
 193.016122448	i', brass)
 199.964489795	l, (piano
 206.854126984	o, piano)
-213.739682539	p, C, secondary theme, (saxophones
+213.739682539	p, C, Secondary_Theme, (saxophones
 220.568185941	q
 227.610884353	r
 234.384263038	s
-241.337959183	f, B, main theme
+241.337959183	f, B, Main_Theme
 248.248117913	g, saxophones)
 255.088276643	h, (brass
 261.964965986	i
 268.808208616	j
 275.804444444	k
-282.763922902	t, D, secondary theme
+282.763922902	t, D, Secondary_Theme
 289.849795918	u
 296.840204081	v
 303.808367346	w
 310.664126984	j
 317.616439909	k
-324.563197278	p, C, secondary theme
+324.563197278	p, C, Secondary_Theme
 331.528185941	q
 338.556417233	r
 345.584195011	s
 352.544285714	e, E
-359.464897959	f, B, main theme
+359.464897959	f, B, Main_Theme
 366.476235827	g, brass)
-373.334671201	h, solo, (piano
+373.334671201	h, Solo, (piano
 380.236326530	i
 387.092585034	j
 394.057551020	k
-400.913242630	m', N', outro, piano)
-446.187505668	silence
-447.597596371	end
+400.913242630	m', N', Outro, piano)
+446.187505668	Silence
+447.597596371	End

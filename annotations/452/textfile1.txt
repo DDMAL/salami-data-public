@@ -1,17 +1,17 @@
-0.000000000	silence
-0.348299319	I, i, intro, (strings)
-14.644897959	H, a, head, (trumpet
+0.000000000	Silence
+0.348299319	I, i, Intro, (strings)
+14.644897959	H, a, Head, (trumpet
 28.816122448	b
 42.868231292	a
 56.792312925	b
-70.681043083	H, a, head
+70.681043083	H, a, Head
 84.960068027	b
 99.496167800	a
 113.975941043	b, trumpet)
-128.296984126	H, a, head, (strings)
+128.296984126	H, a, Head, (strings)
 142.859229024	b, (trumpet
 157.320000000	a
 171.659773242	b, trumpet)
-186.168911564	I, i, outro, (strings)
-210.527369614	silence
-211.657777777	end
+186.168911564	I, i, Outro, (strings)
+210.527369614	Silence
+211.657777777	End

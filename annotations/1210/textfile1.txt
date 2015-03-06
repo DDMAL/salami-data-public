@@ -1,36 +1,36 @@
-0.000000000	silence
+0.000000000	Silence
 0.046439909	z, Z
-0.185759637	a, A, intro, (drums
+0.185759637	a, A, Intro, (drums
 5.112925170	a, drums)
 9.522834467	a, (guitar
 13.894353741	a
 18.207709750	a
 22.546575963	a, guitar)
-26.893242630	a, B, chorus, (fiddle
+26.893242630	a, B, Chorus, (fiddle
 31.306643990	b
 35.658027210	a
 40.100884353	b, fiddle)
-44.444217687	a, A, interlude, (guitar
+44.444217687	a, A, Interlude, (guitar
 48.860022675	a, guitar)
-53.231995464	a, B, chorus, (fiddle
+53.231995464	a, B, Chorus, (fiddle
 57.612426303	b
 62.035442176	a
 66.483038548	b, fiddle)
-70.800544217	a, A, interlude, (drums
+70.800544217	a, A, Interlude, (drums
 75.155328798	a, drums)
-79.504353741	c, C, verse, (fiddle
+79.504353741	c, C, Verse, (fiddle
 83.986009070	b
 88.314603174	c
 92.780612244	b, fiddle)
-97.227392290	a, A, interlude, (guitar
+97.227392290	a, A, Interlude, (guitar
 101.589977324	a, guitar)
-106.005011337	a, B, chorus, (fiddle
+106.005011337	a, B, Chorus, (fiddle
 110.441678004	b
 114.812811791	a
 119.265827664	b
-123.609931972	c, C, verse
+123.609931972	c, C, Verse
 128.083968253	b
 132.481541950	c
 136.912335600	b, fiddle)
-140.939319727	silence
-140.982857142	end
+140.939319727	Silence
+140.982857142	End

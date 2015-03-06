@@ -1,31 +1,31 @@
 0.000000000	Z
-1.579270833	A, a, intro, (guitar
+1.579270833	A, a, Intro, (guitar
 10.390812500	a
-18.069333333	B, b, theme
-25.551687500	A, a, refrain
-33.154916666	B, b, theme
-40.618937500	A, a, refrain
-48.240395833	C, c, theme
-55.678125000	A', a, refrain
-63.216458333	E, e, theme
-70.534333333	A, a, refrain
+18.069333333	B, b, Theme
+25.551687500	A, a, Chorus
+33.154916666	B, b, Theme
+40.618937500	A, a, Chorus
+48.240395833	C, c, Theme
+55.678125000	A', a, Chorus
+63.216458333	E, e, Theme
+70.534333333	A, a, Chorus
 78.060520833	a
-85.516208333	D, d, theme
-93.072520833	A, a, refrain
-100.556645833	D, d, theme
-107.862312500	A, a, refrain
-115.343541666	C, c, theme
-122.781687500	A', a, refrain
-130.030875000	E, e, theme
-137.335291666	C, c, bridge
+85.516208333	D, d, Theme
+93.072520833	A, a, Chorus
+100.556645833	D, d, Theme
+107.862312500	A, a, Chorus
+115.343541666	C, c, Theme
+122.781687500	A', a, Chorus
+130.030875000	E, e, Theme
+137.335291666	C, c, Bridge
 144.644833333	c
 152.028875000	c
 159.336166666	c
-166.634333333	A', a, refrain
-174.180187500	E, e, theme
-181.463187500	F, f, theme
-188.815645833	E, e, theme
-196.046854166	A, a, outro
+166.634333333	A', a, Chorus
+174.180187500	E, e, Theme
+181.463187500	F, f, Theme
+188.815645833	E, e, Theme
+196.046854166	A, a, Outro
 203.508000000	a, guitar)
 211.188166666	Z
-240.576000000	end
+240.576000000	End

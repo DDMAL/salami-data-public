@@ -1,35 +1,35 @@
-0.000000000	silence
-0.592176870	I, intro, b
-3.498594104	A, intro, c
+0.000000000	Silence
+0.592176870	I, Intro, b
+3.498594104	A, Intro, c
 8.654988662	c
 14.007074829	c
 19.399614512	c
-24.829886621	A, verse, (vocal, d
+24.829886621	A, Verse, (vocal, d
 30.166235827	d
 35.744308390	d
 41.117823129	d
-46.481768707	B, chorus, e
+46.481768707	B, Chorus, e
 51.882312925	e
-57.333129251	A, transition, f
-62.885442176	A, verse, g
+57.333129251	A, Transition, f
+62.885442176	A, Verse, g
 68.214625850	g
 73.453990929	g
 78.821859410	g
-84.234149659	B, chorus, h
+84.234149659	B, Chorus, h
 89.637936507	vocal), h
-95.019251700	C, transition, i
-105.814920634	C, transition, (vocal, j
-116.564625850	D, bridge, k
+95.019251700	C, Transition, i
+105.814920634	C, Transition, (vocal, j
+116.564625850	D, Bridge, k
 127.332539682	k
-138.117777777	E, bridge, l
+138.117777777	E, Bridge, l
 143.533900226	l
-148.869297052	A, transition, m
+148.869297052	A, Transition, m
 154.226893424	C, n
 164.991383219	n
-175.828367346	A, verse, o
-186.581224489	A, pre-chorus, p
-191.958185941	B, chorus, q
+175.828367346	A, Verse, o
+186.581224489	A, Pre-Chorus, p
+191.958185941	B, Chorus, q
 197.381700680	q
-202.757256235	B, chorus, outro, vocal), r
-241.501156462	silence
-242.998276643	end
+202.757256235	B, Chorus, Outro, vocal), r
+241.501156462	Silence
+242.998276643	End

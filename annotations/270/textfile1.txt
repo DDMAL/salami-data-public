@@ -1,8 +1,8 @@
-0.000000000	silence
-0.364240362	m, N, intro, (brass)
+0.000000000	Silence
+0.364240362	m, N, Intro, (brass)
 10.544557823	n, (strings
 15.784829931	o
-26.284988662	a, A, refrain, strings)
+26.284988662	a, A, Chorus, strings)
 31.636235827	b, (violin)
 37.105487528	a', (strings)
 42.422857142	b', (violin)
@@ -14,7 +14,7 @@
 95.201814058	d
 107.192358276	h
 118.981292517	i, violin)
-135.265873015	a, A', refrain, (strings
+135.265873015	a, A', Chorus, (strings
 140.628911564	j, string)
 160.031927437	b, (violin
 165.511836734	d', C, violin)
@@ -23,14 +23,14 @@
 181.857029478	d''
 192.579886621	l
 205.431088435	p, violin)
-217.896054421	a, A, refrain, (strings
+217.896054421	a, A, Chorus, (strings
 223.400249433	a, strings)
-240.042585034	d, D, outro, (violin
+240.042585034	d, D, Outro, (violin
 251.336258503	d
 264.290453514	q
 275.040362811	r
 280.450612244	s, violin)
 302.370249433	t, (strings)
 313.161882086	d, (violin)
-325.125804988	silence
-334.811428571	end
+325.125804988	Silence
+334.811428571	End

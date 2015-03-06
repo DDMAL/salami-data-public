@@ -1,4 +1,4 @@
-0.000000000	silence
+0.000000000	Silence
 0.394444444	a, A, (solo voice
 14.524240362	c
 24.471020408	c', solo voice)
@@ -14,6 +14,6 @@
 235.447165532	c', (vocal choir
 260.741814058	d''
 283.654965986	h
-294.566213151	i, outro, vocal choir)
-320.503424036	silence
-321.221496598	end
+294.566213151	i, Outro, vocal choir)
+320.503424036	Silence
+321.221496598	End

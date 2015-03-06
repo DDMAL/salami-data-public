@@ -1,5 +1,5 @@
 0.000000000	Silence
-0.185759637	A, a, intro, (percussion
+0.185759637	A, a, Intro, (percussion
 6.624648526	a
 13.029229024	a
 19.318798185	a, percussion)
@@ -35,7 +35,7 @@
 213.047074829	a'''
 216.422539682	a, (percussion
 222.704535147	a, percussion)
-229.025442176	C', c, outro
+229.025442176	C', c, Outro
 235.490952380	c
 241.789387755	Z
 255.001541950	Silence

@@ -1,55 +1,55 @@
-0.000000000	silence
-0.179954648	a, A, intro, (bass
+0.000000000	Silence
+0.179954648	a, A, Intro, (bass
 5.361859410	a, bass)
-11.295600907	b, B, verse, (voice)
+11.295600907	b, B, Verse, (voice)
 17.020657596	a, (bass)
 22.794376417	b, (voice)
 28.491519274	a, (bass)
 34.211587301	a, (guitar)
-40.153401360	b, B, verse, (voice)
+40.153401360	b, B, Verse, (voice)
 46.109727891	a, (organ)
 52.129546485	b, (voice)
 57.995487528	a, (organ)
-63.923673469	a, A, solo, (guitar
+63.923673469	a, A, Solo, (guitar
 69.977573696	a
 76.008752834	a
 81.977097505	a, guitar)
-87.935714285	b, B, verse, (voice)
+87.935714285	b, B, Verse, (voice)
 93.877324263	a, (organ)
 99.949319727	b, (voice)
 105.928049886	a, (organ
 112.015102040	a
-117.916643990	c, C, instrumental
+117.916643990	c, C, Instrumental
 123.915170068	c
 129.997868480	c
 136.022653061	c, organ)
 141.919138321	a, (guitar)
-147.970702947	d, D, bridge, (voice
+147.970702947	d, D, Bridge, (voice
 152.556326530	e'
 157.139523809	d
 161.731473922	e, voice)
 167.782517006	f', (keyboard)
-170.906598639	f, E, chorus, (voice
+170.906598639	f, E, Chorus, (voice
 176.876984126	g
 182.785714285	f
 188.743401360	g
-194.814897959	f, E, chorus
+194.814897959	f, E, Chorus
 200.788662131	g
 206.793424036	f
 212.834399092	g
-218.859773242	f, E, chorus
+218.859773242	f, E, Chorus
 224.859092970	g
 230.739795918	f
 236.755260770	g, voice)
-242.631678004	f, E, instrumental, (keyboard
+242.631678004	f, E, Instrumental, (keyboard
 248.573537414	g
 254.443741496	f
 260.417891156	g, keyboard)
-266.286439909	f, E, chorus, (voice
+266.286439909	f, E, Chorus, (voice
 272.268072562	g
 278.130816326	f
 284.135328798	g, voice)
-287.088730158	a, A, coda, (guitar)
+287.088730158	a, A, Coda, (guitar)
 293.667800453	z, Z
-317.155555555	silence
-317.361632653	end
+317.155555555	Silence
+317.361632653	End

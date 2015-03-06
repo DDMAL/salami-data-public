@@ -1,0 +1,194 @@
+&pause	&pause
+?	
+A a	A, a
+Break	Break
+Bridge	Bridge
+Chorus	Chorus
+Chrous	Chorus
+End	End
+First theme	Main_Theme
+Head	Head
+Interlude	Interlude
+Intrelude	Interlude
+Intro	Intro
+Main Theme	Main_Theme
+Main theme	Main_Theme
+New Point	
+Outro	Outro
+Pre-Chorus	Pre-Chorus
+Pre-Verse	Pre-Verse
+Pre-chorus	Pre-Chorus
+Pre-verse	Pre-Verse
+Second theme	Secondary_theme
+Silence	Silence
+Solo	Solo
+Theme	Theme
+Transition	Transition
+Verse	Verse
+a head	a, Head
+a solo	a, Solo
+a'/a''	a'/a''
+applause	applause
+b/c'	b/c'
+backing	backing
+bagpipes	bagpipes
+banjo	banjo
+bass	bass
+break	break
+bridge	Bridge
+brigde	Bridge
+brige	Bridge
+build	build
+c chorus	c, Chorus
+c instrumental	c, Instrumental
+c verse	c, Verse
+cadential	outro
+cadenza	outro
+call and response	call_and_response
+car	car
+chorus	Chorus
+chorus 1	Chorus
+chorus 2	Chorus
+chours	Chorus
+chous	Chorus
+closing	Outro
+closing material	Outro
+closing section	Outro
+closing theme	Outro
+coda	Coda
+codetta	Code
+contrasing middle	contrasting_middle
+contrasting middle	contrasting_middle
+count-in	count-in
+crowd sounds	crowd_sounds
+d solo	d, Solo
+d/b	d/b
+da capo	da_capo
+development	Development
+dialog	dialog
+e intro	e, Intro
+end	End
+episode	Theme
+exposition	Exposition
+exposition repeated	Exposition
+fade	Fade-out
+fade out	Fade-out
+fade-in	Intro
+fade-out	Fade-out
+Fade-out	Fade-out
+fadeout	Fade-out
+female	female
+finale	Outro
+first	first
+flute	flute
+g solo	g, Solo
+groove	groove
+guitar	guitar
+gypsy	gypsy
+h bridge	h, Bridge
+hammond	hammond
+harpsichord	harpsichord
+head	Head
+hook	Chorus
+i verse	i, Verse
+improv	Solo
+improvisation	Solo
+inerlude	Interlude
+insrumental	Instrumental
+instrmental	Instrumental
+instrumenal	Instrumental
+instrumental	Instrumental
+instrumetnal	Instrumental
+instumental	Instrumental
+insturmental	Instrumental
+int	Intro
+interlude	Interlude
+interruption	Interlude
+interude	Interlude
+into	Intro
+intro	Intro
+introduction	Intro
+intrumental	Instrumental
+intsrumental	Instrumental
+intstumenal	Instrumental
+isntrumental	Instrumental
+k instrumental	k, Instrumental
+main	Main_Theme
+main theme	Main_Theme
+male	male
+muted	muted
+organ	organ
+ostinato	ostinato
+out	out
+outro	Outro
+pan	pan
+penny	penny
+piano	piano
+pick-up	pick-up
+piece 1	piece_1
+piece 2	piece_2
+post-cadential	post-cadential
+post-chorus	post-chorus
+post-verse	post-verse
+pre-chorus	Pre-Chorus
+pre-chrous	Pre-Chorus
+pre-intro	Intro
+pre-verse	Pre-Verse
+prechorus	Pre-Chorus
+recap	Recap
+recapitulation	Recap
+refrain	Chorus
+regrain	Chorus
+response	response
+ritornello	ritornello
+secodary theme	Secondary_Theme
+second	Secondary_Theme
+second theme	Secondary_Theme
+secondary	Secondary_Theme
+secondary idea	Secondary_Theme
+secondary them	Secondary_Theme
+secondary theme	Secondary_Theme
+sielence	Silence
+siilence	Silence
+silence	Silence
+slow down	slow_down
+solo	Solo
+solo.	Solo
+solos	Solo
+sounds	sounds
+spoke voice	spoke_voice
+spoken	spoken
+spoken voice	spoken_voice
+stage sounds	stage_sounds
+stage speaking	stage_speaking
+stage talk	stage_talk
+steel	steel
+strings	strings
+subordinate theme	Secondary_Theme
+tag	tag
+tertiary theme	Theme
+them 3	Theme
+theme	Theme
+theme 1	Theme
+theme 2	Theme
+theme 3	Theme
+theme 4	Theme
+third	third
+trans	Transition
+transition	Transition
+transtion	Transition
+trumpet	trumpet
+vamp	Intro
+variation	variation
+variation 1	variation_1
+variation 2	variation_2
+verse	Verse
+versee	Verse
+violin	violin
+vocal	vocal
+vocalizations	vocalizations
+vocals	vocals
+voice	voice
+voice_	voice
+w/dialog	w/dialog
+whistle	whistle

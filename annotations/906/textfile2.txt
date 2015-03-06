@@ -1,36 +1,36 @@
-0.000000000	silence
-0.255419501	A, a, intro, (drums
+0.000000000	Silence
+0.255419501	A, a, Intro, (drums
 9.233333333	a
 17.913061224	a, drums)
-26.824331065	A, a, chorus, (voice
+26.824331065	A, a, Chorus, (voice
 35.655464852	a, voice)
-44.426893424	A, a, interlude, (spoken), (drums)
-53.225419501	A, a, verse, (voice
+44.426893424	A, a, Interlude, (spoken), (drums)
+53.225419501	A, a, Verse, (voice
 62.147074829	a
 70.913514739	a
 79.745578231	a
-88.497437641	A, a, refrain
+88.497437641	A, a, Chorus
 97.382970521	a
 106.229931972	a
 115.017369614	a, voice)
-123.713038548	B, b, instrumental, (drums
+123.713038548	B, b, Instrumental, (drums
 133.304920634	b
 142.513083900	b', drums)
-156.042040816	C, c, chorus, (voice
+156.042040816	C, c, Chorus, (voice
 162.649977324	c
 168.380045351	d
-174.180113378	D, e, chorus
+174.180113378	D, e, Chorus
 181.092539682	e
 187.456167800	e
 192.552993197	e
 198.695555555	e
 205.175668934	e, voice)
-210.808775510	E, f, solo, (drums)
-259.295850340	D, e, outro, (voice
+210.808775510	E, f, Solo, (drums)
+259.295850340	D, e, Outro, (voice
 267.527913832	e
 273.728117913	e
 280.360204081	e
 286.519795918	e
 292.882675736	e
-300.192698412	silence
-305.756553287	end
+300.192698412	Silence
+305.756553287	End

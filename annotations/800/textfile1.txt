@@ -1,23 +1,23 @@
-0.000000000	silence
-1.300317460	I, i, intro, (bells)
+0.000000000	Silence
+1.300317460	I, i, Intro, (bells)
 14.907210884	a, (guitar)
-26.993265306	A, a, verse, (voice
+26.993265306	A, a, Verse, (voice
 39.183741496	a
 51.293038548	a, voice)
-63.367414965	B, b, transition, (trumpet)
+63.367414965	B, b, Transition, (trumpet)
 71.104557823	c, (voice
-75.673990929	A, a, verse
+75.673990929	A, a, Verse
 87.632267573	a
 99.683424036	a, voice)
-111.804240362	B, b, transition, (trumpet)
+111.804240362	B, b, Transition, (trumpet)
 119.518458049	c, (voice
-124.008843537	A, a, verse
+124.008843537	A, a, Verse
 136.013401360	a
 148.162154195	a, voice)
-160.259750566	A, a, solo, (whistling
+160.259750566	A, a, Solo, (whistling
 172.380566893	e, whistling)
-184.663922902	A, a, solo, (trumpet
+184.663922902	A, a, Solo, (trumpet
 196.738299319	a', trumpet)
-206.397800453	I, i, outro, (bells)
-220.863832199	silence
-224.626938775	end
+206.397800453	I, i, Outro, (bells)
+220.863832199	Silence
+224.626938775	End

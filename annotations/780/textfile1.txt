@@ -1,39 +1,39 @@
-0.000000000	silence
-0.073469387	A, a, intro, (trumpet
+0.000000000	Silence
+0.073469387	A, a, Intro, (trumpet
 7.314195011	a
 14.331065759	a'
 21.275215419	a', trumpet)
-28.282494331	B, b, verse, (voice
+28.282494331	B, b, Verse, (voice
 35.602267573	b
-42.762244897	C, c, pre-chorus
+42.762244897	C, c, Pre-Chorus
 50.055736961	c
-57.210249433	D, d, chorus
+57.210249433	D, d, Chorus
 64.292018140	d, voice)
-71.426326530	A, a, instrumental, (trumpet
+71.426326530	A, a, Instrumental, (trumpet
 78.451451247	a
 85.428344671	a'
 92.490158730	a', trumpet)
-99.659954648	B, b, verse, (voice
+99.659954648	B, b, Verse, (voice
 107.066916099	b
-114.103741496	C, c, pre-chorus
+114.103741496	C, c, Pre-Chorus
 121.290317460	c
-128.570385487	D, d, chorus
+128.570385487	D, d, Chorus
 135.738276643	d, voice)
-142.788616780	A, a, improvisation, (accordion
+142.788616780	A, a, Solo, (accordion
 149.826417233	a
 156.945351473	a
 163.966167800	a, accordion)
-171.186530612	A, a, instrumental, (trumpet
+171.186530612	A, a, Instrumental, (trumpet
 178.274444444	a
 185.338095238	a'
 192.442426303	a', trumpet)
-199.690317460	B, b, verse, (voice
+199.690317460	B, b, Verse, (voice
 207.012879818	b
-214.275215419	C, c, pre-chorus
+214.275215419	C, c, Pre-Chorus
 221.505442176	c
-228.835623582	D, d, chorus
+228.835623582	D, d, Chorus
 235.751496598	d
-242.728027210	D, d, coda
+242.728027210	D, d, Coda
 249.794489795	d', voice)
-267.958276643	silence 
-268.385578231	end
+267.958276643	Silence
+268.385578231	End

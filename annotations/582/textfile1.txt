@@ -1,39 +1,39 @@
-0.000000000	silence
-0.394716553	n, N, intro, (spoken voice
+0.000000000	Silence
+0.394716553	n, N, Intro, (spoken voice
 8.452040816	n
 16.416485260	n, (guitar
 24.440816326	n
 32.474897959	a
 40.485782312	a
 48.473469387	a, guitar)
-56.507551020	b, A', main theme, (brass
+56.507551020	b, A', Main_Theme, (brass
 64.538775510	b
 72.526417233	b
 80.514058956	b, brass)
-88.489795918	a, B, verse, (voice
+88.489795918	a, B, Verse, (voice
 96.523877551	a, voice)
-104.511541950	b, A, main theme, (brass
+104.511541950	b, A, Main_Theme, (brass
 112.545646258	b, brass)
-120.579750566	d, C, solo, (trombone
+120.579750566	d, C, Solo, (trombone
 128.555102040	d
 136.635623582	d
 144.553628117	d, trombone)
-152.564512471	b, A, main theme, (brass
+152.564512471	b, A, Main_Theme, (brass
 160.621836734	b, brass)
-168.609501133	e, D, interlude, brass)
+168.609501133	e, D, Interlude, brass)
 176.713265306	e, (guitar)
-184.631269841	f, E, pre-verse, (voice
+184.631269841	f, E, Pre-Verse, (voice
 192.665374149	f
-200.620408163	a, B', verse
+200.620408163	a, B', Verse
 208.654489795	a
 216.665374149	a
 224.583378684	a
 232.640702947	a
 240.628367346	a
-248.708911564	b, A'', main theme, (brass
+248.708911564	b, A'', Main_Theme, (brass
 256.673356009	b
 264.661020408	b
 272.718344671	b
-276.712176870	b, outro, brass), voice)
-284.374761904	silence
-286.981224489	end
+276.712176870	b, Outro, brass), voice)
+284.374761904	Silence
+286.981224489	End

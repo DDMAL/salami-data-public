@@ -1,58 +1,58 @@
-0.000000000	silence
-0.023945578	A, a, intro
+0.000000000	Silence
+0.023945578	A, a, Intro
 5.438458049	a
 10.498571428	a
-15.626938775	A, a, verse, (voice
+15.626938775	A, a, Verse, (voice
 20.795056689	a
 25.915555555	a
 31.029455782	a, voice)
-36.162607709	A, a, theme, (strings
+36.162607709	A, a, Theme, (strings
 41.290839002	a
 46.420725623	a
 51.508185941	a, strings)
-56.659024943	A, a, solo, (sitar
+56.659024943	A, a, Solo, (sitar
 61.810770975	a, sitar)
-66.874965986	A, a, refrain, (voice
+66.874965986	A, a, Chorus, (voice
 72.041768707	a
-77.176145124	A, a, interlude, voice)
+77.176145124	A, a, Interlude, voice)
 82.304671201	a
-87.585442176	A, a, verse, (voice
+87.585442176	A, a, Verse, (voice
 92.937845804	a
 97.729614512	a
 102.801882086	a, voice)
-107.962063492	A, a, theme, (strings
+107.962063492	A, a, Theme, (strings
 113.097913832	a, strings)
-118.234081632	A, a, solo, (sitar
+118.234081632	A, a, Solo, (sitar
 123.345736961	a, sitar)
-128.473945578	A, a, refrain, (voice
+128.473945578	A, a, Chorus, (voice
 133.569659863	a
 138.707551020	a
 143.865850340	a
-149.004149659	A, a, interlude, voice)
-154.123061224	A, a, solo, (sitar)
-159.241723356	A, a, verse, (voice
+149.004149659	A, a, Interlude, voice)
+154.123061224	A, a, Solo, (sitar)
+159.241723356	A, a, Verse, (voice
 164.382358276	a
 169.481927437	a
 174.586235827	a, voice)
-179.794920634	A, a, theme, (strings
+179.794920634	A, a, Theme, (strings
 184.909637188	a, strings)
-190.033945578	A, a, solo, (sitar
+190.033945578	A, a, Solo, (sitar
 195.154829931	a, sitar)
-200.250589569	A, a, refrain, (voice
+200.250589569	A, a, Chorus, (voice
 205.418503401	a
 210.522040816	a
 215.682154195	a, voice)
-220.809659863	A, a, solo, (sitar
+220.809659863	A, a, Solo, (sitar
 225.929750566	a, sitar)
-231.057936507	A, a, verse, (voice
+231.057936507	A, a, Verse, (voice
 236.185668934	a
 241.337936507	a
 246.425668934	a
-251.601768707	A, a, theme, (strings
+251.601768707	A, a, Theme, (strings
 256.713560090	a, strings)
-261.826009070	A, a, interlude
+261.826009070	A, a, Interlude
 266.929569160	a
-272.083083900	A, a, refrain, (voice
+272.083083900	A, a, Chorus, (voice
 277.209909297	a
 282.377913832	a
 287.474376417	a
@@ -62,6 +62,6 @@
 308.001950113	a
 313.153333333	a
 318.281655328	a
-323.379251700	a, outro, fadeout, voice)
-337.122766439	silence
-337.122766439	end
+323.379251700	a, Outro, Fade-out, voice)
+337.122766439	Silence
+337.122766439	End

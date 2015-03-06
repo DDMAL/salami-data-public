@@ -1,22 +1,22 @@
-0.000000000	silence
-0.267029478	A, a, intro, (sampler
+0.000000000	Silence
+0.267029478	A, a, Intro, (sampler
 11.611156462	a, sampler)
-21.497664399	A, a, verse, (voice
+21.497664399	A, a, Verse, (voice
 31.338820861	a
-41.309886621	A, a, verse
+41.309886621	A, a, Verse
 51.221088435	a
-61.058843537	A, a, verse
+61.058843537	A, a, Verse
 71.004648526	a
-80.947414965	A, a, verse
+80.947414965	A, a, Verse
 90.796462585	a
-100.718639455	F, f, bridge
+100.718639455	F, f, Bridge
 110.626122448	f
-120.593469387	A, a, verse
+120.593469387	A, a, Verse
 130.434897959	a
-140.384852607	A, a, verse
+140.384852607	A, a, Verse
 150.232721088	a
-160.201043083	A, a, verse
+160.201043083	A, a, Verse
 170.120612244	a
-179.969523809	A, a, verse, fadeout, voice)
-200.061065759	silence
-204.419115646	end
+179.969523809	A, a, Verse, Fade-out, voice)
+200.061065759	Silence
+204.419115646	End

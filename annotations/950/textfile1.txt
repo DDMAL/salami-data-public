@@ -1,24 +1,24 @@
-0.000000000	silence
-0.391836734	A, a, intro, (sax)
-16.787573696	B, b, verse, (voice
+0.000000000	Silence
+0.391836734	A, a, Intro, (sax)
+16.787573696	B, b, Verse, (voice
 31.330045351	b
-45.996371882	A, a, chorus
-60.396190476	B, b, verse
-75.096303854	A, a, chorus
+45.996371882	A, a, Chorus
+60.396190476	B, b, Verse
+75.096303854	A, a, Chorus
 89.312947845	a, voice)
-103.527528344	B, b, improvisation, (sax
+103.527528344	B, b, Solo, (sax
 118.256575963	b''
-132.764126984	A, a, improvisation, sax)
-147.053446712	B, b, verse, (voice
-161.923764172	A, a, chorus
+132.764126984	A, a, Solo, sax)
+147.053446712	B, b, Verse, (voice
+161.923764172	A, a, Chorus
 176.171065759	a
-190.411111111	C, b', coda
+190.411111111	C, b', Coda
 204.882947845	b'
 219.426757369	b'
 233.902335600	b'
 248.368548752	b'
 262.990249433	b', voice)
 277.253083900	b', (whistling
-291.622063492	b', fadeout, whistling)
-312.491746031	silence
-322.045986394	end
+291.622063492	b', Fade-out, whistling)
+312.491746031	Silence
+322.045986394	End

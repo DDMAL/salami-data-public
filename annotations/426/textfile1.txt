@@ -1,20 +1,20 @@
-0.000000000	silence
-0.348299319	A, a, head, (brass
+0.000000000	Silence
+0.348299319	A, a, Head, (brass
 8.713900226	a
 16.927346938	b
 25.959909297	c
 32.943560090	a
 39.884149659	b, brass)
-46.963832199	B, d, solo, (trumpet)
-132.051882086	B, d, solo, (saxophone)
-215.434739229	B, d, solo, (trombone)
-298.562176870	B, d, solo, (vibraphone
-382.386213151	B, d, solo, (bass)
-419.920884353	A, a, head, (brass
+46.963832199	B, d, Solo, (trumpet)
+132.051882086	B, d, Solo, (saxophone)
+215.434739229	B, d, Solo, (trombone)
+298.562176870	B, d, Solo, (vibraphone
+382.386213151	B, d, Solo, (bass)
+419.920884353	A, a, Head, (brass
 427.537188208	a
 435.273038548	b
 443.977029478	c
 450.732970521	a
 457.347573696	b, brass)
-470.593356009	silence
-473.473832199	end
+470.593356009	Silence
+473.473832199	End

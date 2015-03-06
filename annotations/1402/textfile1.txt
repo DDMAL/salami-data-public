@@ -1,34 +1,34 @@
 0.000000000	Z
-27.087188208	A, a, intro, (guitar
+27.087188208	A, a, Intro, (guitar
 37.380566893	a
 48.065374149	b, guitar)
-56.894852607	B, c, verse, (voice
+56.894852607	B, c, Verse, (voice
 66.074671201	c
-76.065328798	C, d, chorus
+76.065328798	C, d, Chorus
 86.020385487	d', voice)
-96.022993197	D, f, trans, (guitar
+96.022993197	D, f, Transition, (guitar
 106.131678004	g, guitar)
-116.359977324	B, c, verse, (voice
+116.359977324	B, c, Verse, (voice
 126.355351473	c
-136.229637188	C, d, chorus
+136.229637188	C, d, Chorus
 146.364739229	d', voice)
-156.336190476	D, f, trans, (guitar
+156.336190476	D, f, Transition, (guitar
 166.469614512	g, guitar)
-176.644331065	E, h, bridge, (voice
+176.644331065	E, h, Bridge, (voice
 186.721496598	i
 196.637074829	h
 206.659206349	i, voice)
-216.619546485	D, f, trans, (guitar
+216.619546485	D, f, Transition, (guitar
 227.235328798	g
-237.167188208	G, j, solo
+237.167188208	G, j, Solo
 247.269138321	j
 257.337052154	k
 267.468888888	l, guitar)
-277.920975056	B, c, verse, (voice
+277.920975056	B, c, Verse, (voice
 287.810090702	c, voice)
-300.617052154	B, c, solo, (bass
+300.617052154	B, c, Solo, (bass
 310.555918367	c, bass)
-320.549047619	F, m, solo, (piano
+320.549047619	F, m, Solo, (piano
 330.652743764	n, piano)
 341.071519274	m, (keys
 351.243401360	n
@@ -52,9 +52,9 @@
 535.585736961	p
 545.560385487	p
 555.843854875	p
-566.304467120	H, r, trans
+566.304467120	H, r, Transition
 576.582448979	s
-586.855600907	I, t, solo
+586.855600907	I, t, Solo
 596.956122448	t
 607.126145124	t
 617.234943310	u
@@ -62,4 +62,4 @@
 637.832222222	u
 648.196462585	v, guitar)
 669.118231292	Z
-677.328979591	end
+677.328979591	End

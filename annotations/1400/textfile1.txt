@@ -1,17 +1,17 @@
-0.000000000	silence
-0.040634920	A, a, intro, (guitar)
-11.717324263	B, b, head, (keyboard
+0.000000000	Silence
+0.040634920	A, a, Intro, (guitar)
+11.717324263	B, b, Head, (keyboard
 20.453446712	b, keyboard)
-29.157528344	B, b, verse, (voice
+29.157528344	B, b, Verse, (voice
 37.862335600	b
-46.501043083	C, c, refrain, voice)
-55.252947845	B, b, head, (keyboard
+46.501043083	C, c, Chorus, voice)
+55.252947845	B, b, Head, (keyboard
 63.885034013	b, keyboard)
-72.536167800	B, b, verse, (voice
+72.536167800	B, b, Verse, (voice
 81.181292517	b
-89.773015873	C, c, refrain, voice)
-98.653333333	A, a, bridge, (guitar
-107.293061224	B, b, instrumental, solo
+89.773015873	C, c, Chorus, voice)
+98.653333333	A, a, Bridge, (guitar
+107.293061224	B, b, Instrumental, Solo
 116.109365079	b
 124.854036281	b
 133.726031746	b
@@ -19,16 +19,16 @@
 150.869138321	b
 159.341179138	b
 167.773151927	b, guitar)
-176.245102040	B, b, verse, (voice
+176.245102040	B, b, Verse, (voice
 185.061451247	b
 193.790975056	b
 202.292993197	b
-210.797460317	C, c, refrain
+210.797460317	C, c, Chorus
 219.517278911	c
-228.109886621	A, a, outro, (guitar
+228.109886621	A, a, Outro, (guitar
 236.693129251	a
 245.213582766	a
 253.885351473	a', voice), guitar)
 264.393900226	Z
-334.329614512	silence
-334.367346938	end
+334.329614512	Silence
+334.367346938	End

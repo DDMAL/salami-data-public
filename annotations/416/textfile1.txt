@@ -1,5 +1,5 @@
-0.000000000	silence
-0.034829931	I, j, intro, (cowbell
+0.000000000	Silence
+0.034829931	I, j, Intro, (cowbell
 6.636553287	j
 13.108707482	j, cowbell)
 19.349637188	j, (drums)
@@ -7,37 +7,37 @@
 31.797188208	j, brass)
 38.125396825	j, (drums)
 44.348730158	j, (brass)
-50.709160997	I, j, main theme , (trumpet
+50.709160997	I, j, Main_Theme, (trumpet
 57.112607709	j
 63.469229024	j, trumpet)
 69.914263038	j, (trombone
 76.325283446	j, trombone)
-82.791814058	D, d, interlude, (brass
+82.791814058	D, d, Interlude, (brass
 92.365714285	j
-98.724920634	K, j, development, brass)
+98.724920634	K, j, Development, brass)
 105.144308390	j, (trumpet
 111.537029478	j, trumpet)
 116.368843537	j, (brass)
 122.731791383	j, (trombone
 129.198163265	j, trombone)
-132.594625850	C, j, interlude, (drums)
+132.594625850	C, j, Interlude, (drums)
 139.015578231	j, (brass
 145.418117913	j, brass)
 150.280498866	j, (drums
 153.390136054	j
 159.716507936	j, drums)
-164.440816326	A, a, theme, (trumpet
+164.440816326	A, a, Theme, (trumpet
 170.948888888	b
 177.493424036	a'
 183.980884353	b', trumpet)
-193.774195011	K, j, interlude, (trombone)
-200.163605442	A, a, improvisation, (drums)
-206.608163265	C, a, transition, (brass
+193.774195011	K, j, Interlude, (trombone)
+200.163605442	A, a, Solo, (drums)
+206.608163265	C, a, Transition, (brass
 213.043786848	a, brass)
-219.547936507	C, j, interlude, (drums
+219.547936507	C, j, Interlude, (drums
 225.883537414	j, drums)
-229.025578231	Y, j, coda, (trombone
+229.025578231	Y, j, Coda, (trombone
 235.560476190	j, trombone)
 242.540000000	Z, (applause)
-254.780068027	silence
-255.434965986	end
+254.780068027	Silence
+255.434965986	End

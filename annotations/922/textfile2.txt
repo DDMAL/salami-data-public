@@ -1,6 +1,6 @@
-0.000000000	silence
-0.404081632	A, a, intro, (strings
-9.690113378	B, b, theme
+0.000000000	Silence
+0.404081632	A, a, Intro, (strings
+9.690113378	B, b, Theme
 38.266485260	c, (flute
 51.433945578	d
 70.130340136	d'
@@ -10,6 +10,6 @@
 144.968163265	C, g
 159.763401360	h
 180.490340136	i
-200.498843537	j, outro, strings), flute)
-212.694784580	silence
-217.563741496	end
+200.498843537	j, Outro, strings), flute)
+212.694784580	Silence
+217.563741496	End

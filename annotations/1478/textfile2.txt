@@ -1,40 +1,40 @@
-0.000000000	silence
+0.000000000	Silence
 0.334693877	Z
-3.575873015	A, a, intro, (guitar
+3.575873015	A, a, Intro, (guitar
 16.198503401	a'
-29.203219954	b, transition
-38.526530612	B, b, head
+29.203219954	b, Transition
+38.526530612	B, b, Head
 47.396621315	b, guitar)
-56.225895691	C, c, verse, (voice
+56.225895691	C, c, Verse, (voice
 65.105714285	c
-73.969841269	D, d, pre-chorus
+73.969841269	D, d, Pre-Chorus
 82.814240362	d, voice)
-91.609569160	E, e, instrumental, (saxophone
+91.609569160	E, e, Instrumental, (saxophone
 100.553560090	f, saxophone)
-105.035079365	F, g, chorus, (voice
+105.035079365	F, g, Chorus, (voice
 113.847732426	g, voice)
-122.417959183	h, bridge, (saxophone)
-128.261428571	C, c, verse, (voice
+122.417959183	h, Bridge, (saxophone)
+128.261428571	C, c, Verse, (voice
 137.309455782	c
-146.167868480	D, d, pre-chorus
+146.167868480	D, d, Pre-Chorus
 154.925487528	d, voice)
-163.693514739	E, e, instrumental, (saxophone
+163.693514739	E, e, Instrumental, (saxophone
 172.645510204	f, saxophone)
-176.965464852	F, g, chorus, (voice
+176.965464852	F, g, Chorus, (voice
 185.644784580	g, voice)
-194.211700680	h, bridge, (saxophone
-200.106326530	G, i, head
+194.211700680	h, Bridge, (saxophone
+200.106326530	G, i, Head
 209.606530612	i
 218.650770975	i
 227.506281179	i
-236.146281179	G, i, instrumental, solo
+236.146281179	G, i, Instrumental, Solo
 244.898299319	i
-253.778276643	H, j, head
+253.778276643	H, j, Head
 263.434308390	j
-272.412131519	H, j, solo, (bass
+272.412131519	H, j, Solo, (bass
 281.309750566	j, bass)
-289.472789115	f, bridge, (saxophone)
-294.452244897	F, g, solo, (vocoder
+289.472789115	f, Bridge, (saxophone)
+294.452244897	F, g, Solo, (vocoder
 303.504399092	g
 312.438752834	g
 321.470770975	g
@@ -42,11 +42,11 @@
 339.278775510	g
 348.084036281	g
 356.830816326	g, vocoder)
-365.598798185	F, g, chorus, (voice
+365.598798185	F, g, Chorus, (voice
 374.294739229	g
 385.465079365	g
 394.154875283	g, voice)
-402.649070294	h, outro, saxophone)
+402.649070294	h, Outro, saxophone)
 409.485714285	Z
-440.995918367	silence
-441.025306122	end
+440.995918367	Silence
+441.025306122	End

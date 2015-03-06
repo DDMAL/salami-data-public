@@ -1,31 +1,31 @@
 0.000000000	Z
-1.264920634	A, a, intro, (horns)
-11.510340136	B, b, verse, (voice
+1.264920634	A, a, Intro, (horns)
+11.510340136	B, b, Verse, (voice
 19.692834467	b
 27.772494331	c
 35.852653061	c
-43.921496598	C, d, chorus
+43.921496598	C, d, Chorus
 52.240770975	e, voice)
-60.643333333	A, a, trans, (horns)
-68.862721088	B, b, verse, (voice
+60.643333333	A, a, Transition, (horns)
+68.862721088	B, b, Verse, (voice
 77.192585034	b
 85.401133786	c
 93.776734693	c
-102.063038548	C, d, chorus
+102.063038548	C, d, Chorus
 110.441882086	e, voice)
-118.977029478	A, a, trans, (horns)
-127.221587301	D, f, bridge, (voice
+118.977029478	A, a, Transition, (horns)
+127.221587301	D, f, Bridge, (voice
 135.445215419	g, voice)
-143.776575963	C, d, solo, (sax
+143.776575963	C, d, Solo, (sax
 152.085668934	d, sax)
-160.310498866	B, b, verse, (voice
+160.310498866	B, b, Verse, (voice
 168.591791383	b
 176.898049886	c
 185.143446712	c
-193.372403628	C, d, chorus
+193.372403628	C, d, Chorus
 201.774331065	e, voice)
-210.317278911	A, a, trans, (horns)
-218.417709750	C, d, outro, (voice
+210.317278911	A, a, Transition, (horns)
+218.417709750	C, d, Outro, (voice
 226.830453514	e', voice)
 248.884648526	Z
-261.355102040	end
+261.355102040	End

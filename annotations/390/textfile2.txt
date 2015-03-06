@@ -1,24 +1,24 @@
-0.000000000	silence
+0.000000000	Silence
 0.000000000	(organ, b
-0.420249433	A, intro, (organ), c
-11.186326530	B, main, theme, (piano, (spoken, d
+0.420249433	A, Intro, (organ), c
+11.186326530	B, Main_Theme, Theme, (piano, (spoken, d
 17.348049886	piano), e
 22.609727891	(organ), f
-32.722086167	B, main, theme, (piano, g
+32.722086167	B, Main_Theme, Theme, (piano, g
 38.193877551	piano), h
 43.815918367	(organ), i
-53.201632653	C, second, theme, j
+53.201632653	C, Secondary_Theme, Theme, j
 59.706825396	k
-65.155192743	C, second, theme, l
+65.155192743	C, Secondary_Theme, Theme, l
 73.403582766	spoken), m
-83.080997732	B, main, theme, (organ, n
+83.080997732	B, Main_Theme, Theme, (organ, n
 88.736349206	o
 94.049977324	p
 97.663129251	organ), q
-103.809569160	B, main, theme, (piano, (spoken, r
+103.809569160	B, Main_Theme, Theme, (piano, (spoken, r
 109.598185941	piano), s
-122.554920634	D, closing, theme, (organ, spoken), t
-137.097755102	outro, u
-142.769705215	outro, organ), v
-148.241995464	silence
-150.057346938	end
+122.554920634	D, Outro, Theme, (organ, spoken), t
+137.097755102	Outro, u
+142.769705215	Outro, organ), v
+148.241995464	Silence
+150.057346938	End

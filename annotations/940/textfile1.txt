@@ -1,25 +1,25 @@
-0.000000000	silence
+0.000000000	Silence
 0.522448979	Z, (applause)
-5.479909297	B, c, intro, (piano
+5.479909297	B, c, Intro, (piano
 37.638412698	d', piano)
-74.976916099	A, a, main theme, (accordion
+74.976916099	A, a, Main_Theme, (accordion
 96.002925170	b, accordion)
-121.175306122	B, c, secondary theme, (violin
+121.175306122	B, c, Secondary_Theme, (violin
 150.932222222	d
 182.923015873	c
 198.008163265	d, violin)
 207.252312925	e, (accordion
-217.787936507	A, a, development
+217.787936507	A, a, Development
 231.397551020	a'
 244.534172335	a''
 257.772811791	a
 275.823242630	f, break
-280.148934240	B, c, secondary theme
+280.148934240	B, c, Secondary_Theme
 296.784467120	d
 311.197823129	c
 326.181564625	d
-342.009206349	C, c', coda
+342.009206349	C, c', Coda
 355.966145124	c'', accordion)
 406.133764172	Z, (applause)
-411.742131519	silence
-419.475056689	end
+411.742131519	Silence
+419.475056689	End

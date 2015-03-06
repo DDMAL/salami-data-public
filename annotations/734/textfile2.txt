@@ -1,32 +1,32 @@
-0.000000000	D, f, intro, (percussion)
-15.570226757	C, d, chorus, (voice
+0.000000000	D, f, Intro, (percussion)
+15.570226757	C, d, Chorus, (voice
 25.832494331	d, voice)
-36.131496598	B, b, trans, (strings
+36.131496598	B, b, Transition, (strings
 46.311360544	b
 56.629909297	a, strings)
-66.875374149	A', a, verse, (voice
+66.875374149	A', a, Verse, (voice
 77.218049886	e
-87.474399092	C, d, chorus
+87.474399092	C, d, Chorus
 97.582630385	d, voice)
-107.907777777	B, b, trans, (strings
+107.907777777	B, b, Transition, (strings
 118.129909297	b, strings)
-128.450793650	A, a, verse, (voice
+128.450793650	A, a, Verse, (voice
 138.653469387	a
 148.900340136	e
-159.212970521	C, d, chorus
+159.212970521	C, d, Chorus
 164.305328798	d', voice)
-179.726054421	B, b, trans, (strings
+179.726054421	B, b, Transition, (strings
 190.176825396	b, strings)
-200.169750566	A, a, verse, (voice
+200.169750566	A, a, Verse, (voice
 210.472947845	a, voice)
-220.682562358	B, b, trans, (strings)
-230.969523809	C, d, chorus, (voice
+220.682562358	B, b, Transition, (strings)
+230.969523809	C, d, Chorus, (voice
 241.240136054	d, voice)
-251.454693877	B, b, trans, (strings
+251.454693877	B, b, Transition, (strings
 261.769909297	b, strings)
-272.029138321	A, a, outro, (voice
+272.029138321	A, a, Outro, (voice
 282.307732426	a
 292.554739229	a
 302.746213151	a
-323.353650793	a, fadeout, voice)
-337.122698412	end
+323.353650793	a, Fade-out, voice)
+337.122698412	End

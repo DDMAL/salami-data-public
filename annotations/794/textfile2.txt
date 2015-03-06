@@ -1,11 +1,11 @@
-0.000000000	silence
-0.278639455	A, a, main theme, (fiddle
+0.000000000	Silence
+0.278639455	A, a, Main_Theme, (fiddle
 10.808911564	b
-19.855646258	A, a, main theme
+19.855646258	A, a, Main_Theme
 29.264263038	b
-37.023401360	C, c, theme
+37.023401360	C, c, Theme
 47.949750566	d
-59.512902494	D, e, theme
+59.512902494	D, e, Theme
 73.451655328	a, fiddle)
-86.167777777	silence
-89.200521541	end
+86.167777777	Silence
+89.200521541	End

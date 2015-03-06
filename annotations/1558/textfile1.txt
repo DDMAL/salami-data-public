@@ -1,37 +1,37 @@
-0.000000000	silence
-0.069659863	M, m, intro
-7.105895691	a, intro, (synthesizer
+0.000000000	Silence
+0.069659863	M, m, Intro
+7.105895691	a, Intro, (synthesizer
 14.194489795	b, trumpet)
 17.738253968	c, (guitar)
 24.738117913	d
-31.833741496	E, e, verse, (vocal
+31.833741496	E, e, Verse, (vocal
 38.861292517	f
 49.485079365	g
 60.128117913	h
-67.096780045	I, i, chorus
+67.096780045	I, i, Chorus
 74.181995464	j, vocal)
-84.732154195	L, l, trans, (guitar
+84.732154195	L, l, Transition, (guitar
 91.793968253	n, guitar)
 98.868253968	d
-105.924784580	E, e, verse, (vocal
+105.924784580	E, e, Verse, (vocal
 113.016303854	f
 123.616462585	g
 134.180294784	h
-141.188276643	I, i, chorus
+141.188276643	I, i, Chorus
 148.259931972	j, vocal)
-158.870498866	C, c, trans, (guitar)
+158.870498866	C, c, Transition, (guitar)
 165.964988662	d
-173.004943310	E, e, verse, (vocal
+173.004943310	E, e, Verse, (vocal
 180.102879818	f
 190.682040816	g
 201.230816326	h
-208.272743764	I, i, chorus
+208.272743764	I, i, Chorus
 215.303605442	j
-222.528775510	M, m, outro, vocal)
+222.528775510	M, m, Outro, vocal)
 229.510816326	a, (synthesizer
 236.494761904	b, synthesizer)
 240.070793650	c, (guitar)
 247.089591836	d
-251.262766439	o, coda
-265.161746031	silence
-270.125600907	end
+251.262766439	o, Coda
+265.161746031	Silence
+270.125600907	End

@@ -1,20 +1,20 @@
-0.000000000	A, a, intro, (trumpet
+0.000000000	A, a, Intro, (trumpet
 8.459251700	b, trumpet)
-12.492743764	B, c, verse, (voice
+12.492743764	B, c, Verse, (voice
 20.812312925	c
-29.039841269	C, d, chorus
+29.039841269	C, d, Chorus
 38.127142857	d'
-45.292630385	B, c, verse
+45.292630385	B, c, Verse
 53.584217687	c, voice)
-61.821995464	A, b, trans, (flute)
-66.046349206	E, e, bridge, (voice
+61.821995464	A, b, Transition, (flute)
+66.046349206	E, e, Bridge, (voice
 73.989024943	e, voice)
-81.509002267	A, a, trans, (trumpet
+81.509002267	A, a, Transition, (trumpet
 90.028208616	b, trumpet)
-94.241950113	E, e, bridge, (voice
+94.241950113	E, e, Bridge, (voice
 102.388730158	e
-110.579251700	C, d, chorus
+110.579251700	C, d, Chorus
 119.768684807	d'
-126.380453514	D, outro, voice)
-133.975419501	silence
-136.989795918	end
+126.380453514	D, Outro, voice)
+133.975419501	Silence
+136.989795918	End

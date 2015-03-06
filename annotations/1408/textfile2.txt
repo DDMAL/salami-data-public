@@ -1,17 +1,17 @@
 0.000000000	Z
-4.493174603	A, a, intro, (keys)
-16.439274376	B, b, theme, (voice
-28.497868480	C, c, theme
+4.493174603	A, a, Intro, (keys)
+16.439274376	B, b, Theme, (voice
+28.497868480	C, c, Theme
 36.526031746	c, voice)
 44.654376417	c, (synthesizer)
-52.432721088	D, d, theme, (voice
+52.432721088	D, d, Theme, (voice
 60.451791383	d
-68.510498866	E, e, bridge
+68.510498866	E, e, Bridge
 80.459229024	e
 92.489092970	f
 104.343106575	f
-119.480430839	F, f, theme
+119.480430839	F, f, Theme
 129.026916099	f
 138.728027210	f
-148.360158730	G, g, outro, voice)
-161.185419501	end
+148.360158730	G, g, Outro, voice)
+161.185419501	End

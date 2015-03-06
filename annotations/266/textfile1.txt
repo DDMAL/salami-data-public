@@ -1,5 +1,5 @@
-0.000000000	silence
-0.443492063	n, N, intro, (strings)
+0.000000000	Silence
+0.443492063	n, N, Intro, (strings)
 5.126530612	m, (brass)
 11.534421768	a, A, (strings
 21.394308390	b, strings)
@@ -17,5 +17,5 @@
 114.945646258	d', flute)
 123.833968253	d', (strings
 133.699002267	d'', strings), (orchestra)
-142.706122448	silence
-142.726326530	end
+142.706122448	Silence
+142.726326530	End

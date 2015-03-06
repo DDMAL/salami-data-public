@@ -1,6 +1,6 @@
 0.000000000	Silence
 0.185759637	Z
-1.578956916	A, a, intro, (percussion
+1.578956916	A, a, Intro, (percussion
 10.880702947	a', percussion)
 20.108480725	B, b, Pre-Verse, (synth
 24.752471655	g

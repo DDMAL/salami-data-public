@@ -1,4 +1,4 @@
-0.000000000	silence
+0.000000000	Silence
 0.400000000	a, A, (spoken voice
 8.919433106	a
 16.882222222	a
@@ -32,8 +32,8 @@
 240.887369614	b
 248.880362811	b
 256.847528344	b, spoken voice)
-264.890090702	d, D, solo, (saxophone
+264.890090702	d, D, Solo, (saxophone
 272.874920634	d
-280.890952380	d', outro, saxophone)
-292.076235827	silence
-294.045396825	end
+280.890952380	d', Outro, saxophone)
+292.076235827	Silence
+294.045396825	End

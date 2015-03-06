@@ -1,26 +1,26 @@
-0.000000000	silence
+0.000000000	Silence
 0.000000000	Z
-16.439727891	A, a, intro, (mandolin
+16.439727891	A, a, Intro, (mandolin
 25.045238095	a
-31.741451247	b, transition, mandolin)
-36.930045351	B, c, verse, (voice
+31.741451247	b, Transition, mandolin)
+36.930045351	B, c, Verse, (voice
 43.921791383	c
-52.669387755	C, d, chorus
+52.669387755	C, d, Chorus
 59.446031746	d', voice)
-67.948253968	C, d, instrumental, solo, (mandolin
+67.948253968	C, d, Instrumental, Solo, (mandolin
 74.420408163	d, mandolin)
 81.060907029	d, (fiddle
 87.740158730	d
-94.460408163	b, transition, fiddle)
-99.468299319	B, c, verse, (voice
+94.460408163	b, Transition, fiddle)
+99.468299319	B, c, Verse, (voice
 106.220748299	c
-114.811791383	C, d, chorus
+114.811791383	C, d, Chorus
 121.529977324	d, voice)
-126.575918367	D, e, instrumental, solo, (fiddle
+126.575918367	D, e, Instrumental, Solo, (fiddle
 131.805963718	e
 137.144172335	e
 142.358027210	e
-147.753287981	E, f, interlude
+147.753287981	E, f, Interlude
 153.350839002	f, fiddle)
 159.008412698	f, (mandolin
 164.529070294	f
@@ -48,15 +48,15 @@
 285.076190476	f
 290.525759637	f
 296.043696145	f, mandolin)
-303.415532879	g, transition, (guitar
+303.415532879	g, Transition, (guitar
 314.341655328	g', guitar)
 323.174625850	A, a, (banjo
 329.855328798	a, banjo)
-338.412834467	B, c, verse, (voice
+338.412834467	B, c, Verse, (voice
 345.263424036	c
-354.015691609	C, d, chorus
+354.015691609	C, d, Chorus
 360.727256235	d', voice)
-367.503900226	b, outro, (mandolin)
+367.503900226	b, Outro, (mandolin)
 371.703877551	Z
-417.488979591	silence
-417.488979591	end
+417.488979591	Silence
+417.488979591	End

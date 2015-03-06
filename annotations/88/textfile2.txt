@@ -1,12 +1,12 @@
-0.000000000	silence
-0.464399092	A, a, intro, (low brass)
-7.598571428	B, b, theme, (oboe)
+0.000000000	Silence
+0.464399092	A, a, Intro, (low brass)
+7.598571428	B, b, Theme, (oboe)
 20.505238095	c, (flute)
 30.241224489	b, (strings)
-41.563718820	C, d, theme, (oboe)
+41.563718820	C, d, Theme, (oboe)
 55.100362811	d, (strings
 66.263650793	d', strings)
-79.260634920	D, e, trans, (brass)
+79.260634920	D, e, Transition, (brass)
 86.749750566	e', (strings
 95.744308390	f
 115.101315192	f'
@@ -15,15 +15,15 @@
 138.137074829	h
 142.788321995	h
 148.381814058	h', strings)
-164.012222222	E, i, theme, (trumpet
+164.012222222	E, i, Theme, (trumpet
 184.111020408	i', trumpet)
-203.858276643	F, trans, (strings)
-213.972108843	E, i, theme, (trumpet
-246.572698412	G, j, trans, (oboe)
+203.858276643	F, Transition, (strings)
+213.972108843	E, i, Theme, (trumpet
+246.572698412	G, j, Transition, (oboe)
 263.918004535	k, (violin)
 272.545283446	j', (oboe)
 284.307573696	i, (trumpet)
-301.093151927	A', a', trans, (strings)
-303.949206349	B, b, theme, (oboe)
-320.869795918	silence
-326.189614512	end
+301.093151927	A', a', Transition, (strings)
+303.949206349	B, b, Theme, (oboe)
+320.869795918	Silence
+326.189614512	End

@@ -1,14 +1,14 @@
-0.000000000	B, d, intro, (guitar)
-14.704739229	A, a, verse, (voice
+0.000000000	B, d, Intro, (guitar)
+14.704739229	A, a, Verse, (voice
 27.832993197	b
 40.977891156	c
-54.070136054	A, a, verse
+54.070136054	A, a, Verse
 66.905804988	b
 80.014149659	c, voice)
-93.137301587	A, a, solo, (guitar
+93.137301587	A, a, Solo, (guitar
 105.588730158	b
 118.017619047	c, guitar)
-130.637755102	A, a, verse, (voice
+130.637755102	A, a, Verse, (voice
 143.668231292	b
 156.864081632	c', voice)
-170.343446712	end
+170.343446712	End

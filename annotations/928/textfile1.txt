@@ -1,15 +1,15 @@
-0.000000000	silence
-0.352653061	A, a, intro
-18.856394557	B, b, verse, (voice)
-30.094829931	A, a, interlude
-47.989523809	B, b, verse, (voice)
-59.613968253	A, a, interlude
-77.235895691	B, b, verse, (voice)
-88.692267573	A, a, interlude
-106.372811791	B, b, verse, (voice)
-117.388117913	A, a, interlude
-135.551678004	B, b, verse, (voice)
-146.627029478	A, a, interlude
-164.544240362	B, b, verse, (voice)
-175.908820861	A, a, outro
-198.557981859	end
+0.000000000	Silence
+0.352653061	A, a, Intro
+18.856394557	B, b, Verse, (voice)
+30.094829931	A, a, Interlude
+47.989523809	B, b, Verse, (voice)
+59.613968253	A, a, Interlude
+77.235895691	B, b, Verse, (voice)
+88.692267573	A, a, Interlude
+106.372811791	B, b, Verse, (voice)
+117.388117913	A, a, Interlude
+135.551678004	B, b, Verse, (voice)
+146.627029478	A, a, Interlude
+164.544240362	B, b, Verse, (voice)
+175.908820861	A, a, Outro
+198.557981859	End

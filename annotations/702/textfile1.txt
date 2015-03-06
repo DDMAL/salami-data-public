@@ -1,30 +1,30 @@
-0.000000000	silence
-0.116099773	a, intro, (piano)
-6.595215419	A, a, verse, (vocal
+0.000000000	Silence
+0.116099773	a, Intro, (piano)
+6.595215419	A, a, Verse, (vocal
 13.119773242	a
 19.703628117	b
-29.363832199	c, refrain, vocal)
-39.188571428	a, interlude, (piano)
-45.508707482	A, a, verse, (vocal
+29.363832199	c, Chorus, vocal)
+39.188571428	a, Interlude, (piano)
+45.508707482	A, a, Verse, (vocal
 51.969297052	a
 58.532721088	b
-68.277709750	c, refrain, vocal)
-78.046734693	a, interlude, (piano)
-84.450498866	A', a, chorus, (children's choir
+68.277709750	c, Chorus, vocal)
+78.046734693	a, Interlude, (piano)
+84.450498866	A', a, Chorus, (children's choir
 90.890113378	a
 97.414104308	b
 103.861723356	c, children's choir)
-110.465442176	a, interlude, (piano)
-116.974263038	A, a, verse, (vocal
+110.465442176	a, Interlude, (piano)
+116.974263038	A, a, Verse, (vocal
 123.406553287	a
 129.877800453	b
-139.645986394	c, refrain, vocal)
-149.414126984	a, interlude, (piano)
-155.762698412	A', a, chorus, (children's choir
+139.645986394	c, Chorus, vocal)
+149.414126984	a, Interlude, (piano)
+155.762698412	A', a, Chorus, (children's choir
 162.228140589	a
 168.726870748	b
 175.282970521	c, children's choir)
-181.965941043	a, outro, (piano
+181.965941043	a, Outro, (piano
 188.242721088	a, piano)
-204.218888888	silence
-209.121111111	end
+204.218888888	Silence
+209.121111111	End

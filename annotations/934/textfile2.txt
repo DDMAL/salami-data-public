@@ -1,32 +1,32 @@
-0.000000000	silence
-0.371519274	A', a, intro, (accordion
+0.000000000	Silence
+0.371519274	A', a, Intro, (accordion
 18.990521541	b
 37.324081632	c, accordion)
-60.186122448	A, a, theme, (violin
+60.186122448	A, a, Theme, (violin
 79.249705215	b
 94.910068027	d
 110.712743764	e
-127.479251700	C, h, theme
+127.479251700	C, h, Theme
 138.304263038	i
-148.064489795	j, trans
-163.793560090	A'', a, theme
+148.064489795	j, Transition
+163.793560090	A'', a, Theme
 180.792426303	b
-201.957029478	k, interlude, violin)
-223.052698412	D, m, theme, (accordion
+201.957029478	k, Interlude, violin)
+223.052698412	D, m, Theme, (accordion
 237.007732426	n
 248.630884353	m, (violin, accordion)
 263.374920634	o
 274.021541950	m
-287.656462585	p, trans, (accordion)
+287.656462585	p, Transition, (accordion)
 303.218730158	m
-321.353696145	q, trans
-335.386031746	A, a, theme
+321.353696145	q, Transition
+335.386031746	A, a, Theme
 353.482222222	b
 368.764829931	d
 384.396734693	e
-400.725283446	C', h, theme
+400.725283446	C', h, Theme
 410.269251700	i
-419.411111111	j', trans
-451.064648526	A''', a', outro, violin)
-468.506507936	end
-475.015578231	silence
+419.411111111	j', Transition
+451.064648526	A''', a', Outro, violin)
+468.506507936	End
+475.015578231	Silence

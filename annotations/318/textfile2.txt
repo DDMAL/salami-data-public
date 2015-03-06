@@ -1,48 +1,48 @@
-0.000000000	silence
-0.417959183	A, a, intro
+0.000000000	Silence
+0.417959183	A, a, Intro
 5.315782312	b
 9.990408163	c
-14.631814058	A, a, verse, (vocal
+14.631814058	A, a, Verse, (vocal
 19.535079365	b
 24.246780045	c
-28.850839002	B, d, chorus
+28.850839002	B, d, Chorus
 33.698458049	e
-38.403106575	A, a, verse
+38.403106575	A, a, Verse
 43.202380952	b
 47.786462585	c
-52.410476190	B, d, chorus
+52.410476190	B, d, Chorus
 57.282108843	e, vocal)
-61.839206349	A, a, improvisation, (guitar
+61.839206349	A, a, Solo, (guitar
 66.546439909	b
 71.258412698	c, guitar)
-76.030657596	A, a, verse, (vocal
+76.030657596	A, a, Verse, (vocal
 80.690521541	b
 85.386598639	c
-90.072607709	B, d, chorus
+90.072607709	B, d, Chorus
 94.832789115	e
-99.425102040	A, a, verse
+99.425102040	A, a, Verse
 104.040861678	b
 108.754693877	c
-113.336870748	B, d, chorus
+113.336870748	B, d, Chorus
 118.168888888	e, vocal)
-122.832879818	A, a, improvisation, (trumpet
+122.832879818	A, a, Solo, (trumpet
 127.600725623	b
 132.169024943	c, trumpet)
-136.792902494	B', d', chorus, (vocal
+136.792902494	B', d', Chorus, (vocal
 141.648820861	d'
 146.281473922	e, vocal)
-151.058049886	A, a, improvisation, (guitar
+151.058049886	A, a, Solo, (guitar
 155.898299319	b
 160.553242630	c, guitar)
-165.225464852	A, a, improvisation, (fiddle
+165.225464852	A, a, Solo, (fiddle
 169.977188208	b
 174.752879818	c, fiddle)
-179.425260770	B', d', chorus, (vocal
+179.425260770	B', d', Chorus, (vocal
 184.049229024	d'
 188.573718820	e
-193.364353741	B', d', chorus
+193.364353741	B', d', Chorus
 198.241428571	d'
 202.881088435	e, vocal)
-207.633083900	C, f, outro
-215.634943310	silence
-220.148934240	end
+207.633083900	C, f, Outro
+215.634943310	Silence
+220.148934240	End

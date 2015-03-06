@@ -1,27 +1,27 @@
-0.000000000	silence
-0.195918367	A, head, (violin, (gypsy, guitar, b
+0.000000000	Silence
+0.195918367	A, Head, (violin, (gypsy, guitar, b
 7.662562358	violin), b
-15.232267573	A, solo, c
-22.685873015	A, head, (violin), d
-29.930498866	A, solo, e
+15.232267573	A, Solo, c
+22.685873015	A, Head, (violin), d
+29.930498866	A, Solo, e
 37.314444444	e
 44.605510204	e
 51.896575963	gypsy, guitar), e
-59.210861678	A, solo, (violin, f
+59.210861678	A, Solo, (violin, f
 66.641247165	f
 74.025192743	f
 81.316258503	violin), f
-88.676984126	A, solo, (guitar, g
+88.676984126	A, Solo, (guitar, g
 96.037709750	g
 103.375215419	g
 110.712721088	guitar), g
-118.027006802	A, solo, (gypsy, guitar, h
+118.027006802	A, Solo, (gypsy, guitar, h
 125.387732426	h
 132.678798185	h
 140.062743764	h
-147.493129251	A, head, (violin, i
+147.493129251	A, Head, (violin, i
 154.853854875	violin), (gypsy, guitar), i
 162.261020408	(guitar), j
-169.742040816	A', outro, (violin), (gypsy, guitar), k
-176.661587301	silence
-179.670204081	end
+169.742040816	A', Outro, (violin), (gypsy, guitar), k
+176.661587301	Silence
+179.670204081	End

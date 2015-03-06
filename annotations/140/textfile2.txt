@@ -1,14 +1,14 @@
 0.000000000	Silence
-0.882358276	A, a, Main theme, (trumpet 
+0.882358276	A, a, Main_Theme, (trumpet
 12.720612244	a', trumpet)
-24.772131519	B, b, episode, (strings 
+24.772131519	B, b, Theme, (strings
 30.548185941	b, strings)
-36.513832199	A, a', Main theme, (trumpet
-48.385283446	C, c, episode, (strings
+36.513832199	A, a', Main_Theme, (trumpet
+48.385283446	C, c, Theme, (strings
 60.330249433	d
 66.317732426	d'
 72.322380952	e, strings)
-78.181587301	A, a, Main theme
+78.181587301	A, a, Main_Theme
 90.275986394	a', trumpet)
 106.463492063	Silence
 111.103922902	End

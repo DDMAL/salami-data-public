@@ -1,38 +1,38 @@
-0.000000000	silence
-0.348299319	A, a, intro, (spoken voice
+0.000000000	Silence
+0.348299319	A, a, Intro, (spoken voice
 8.416961451	a, spoken voice)
-16.395918367	B, b, intro, (guitar
+16.395918367	B, b, Intro, (guitar
 24.419569160	b
 32.371201814	b
 40.402358276	b
 48.402086167	b, guitar)
-56.401587301	C, c, refrain, (horns
+56.401587301	C, c, Chorus, (horns
 64.458503401	c
 72.474058956	c
 80.497414965	c, horns)
-88.548956916	B, b, verse, (voice
+88.548956916	B, b, Verse, (voice
 96.423083900	b, voice)
-104.499727891	C, c, refrain, (horns
+104.499727891	C, c, Chorus, (horns
 112.503197278	c, horns)
-120.522108843	B, b, solo, (trombone
+120.522108843	B, b, Solo, (trombone
 128.554693877	b
 136.605850340	b
 144.602063492	b, trombone)
-152.670975056	C, c, refrain, (horns 
+152.670975056	C, c, Chorus, (horns
 160.639297052	c
-168.589433106	D, d, bridge, horns)
+168.589433106	D, d, Bridge, horns)
 176.539160997	d
-184.594444444	A, a, trans, (spoken voice
+184.594444444	A, a, Transition, (spoken voice
 192.602267573	a, spoken voice)
-200.644943310	B, b, verse, (voice
+200.644943310	B, b, Verse, (voice
 208.689433106	b
 216.680340136	b
 224.635804988	b
 232.644535147	b
 240.635646258	b, voice)
-248.635759637	C, c, refrain, (horns
+248.635759637	C, c, Chorus, (horns
 256.658185941	c
 264.683877551	c
 272.691836734	c, horns)
-283.758571428	silence
-287.015759637	end
+283.758571428	Silence
+287.015759637	End

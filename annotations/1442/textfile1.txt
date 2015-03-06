@@ -1,36 +1,36 @@
-0.000000000	silence
-0.047891156	A, a, intro
+0.000000000	Silence
+0.047891156	A, a, Intro
 6.339183673	b
 14.467959183	b
-22.737823129	B, b, verse, (voice
+22.737823129	B, b, Verse, (voice
 30.952335600	b, voice)
-39.230929705	D, b', interlude, (sax
+39.230929705	D, b', Interlude, (sax
 47.578004535	b', sax)
-55.825804988	B, b, verse, (voice
+55.825804988	B, b, Verse, (voice
 64.135260770	b
 72.475532879	b
 80.747573696	b, voice)
-89.250702947	C, c, bridge
+89.250702947	C, c, Bridge
 97.830362811	c'
-106.337392290	D, b', interlude, (sax
+106.337392290	D, b', Interlude, (sax
 114.686145124	b', sax)
-122.812789115	B, b, verse, (voice
+122.812789115	B, b, Verse, (voice
 131.089092970	b, voice)
 139.408095238	b
 147.888072562	b
-156.221247165	B, b, refrain, (voice
+156.221247165	B, b, Chorus, (voice
 164.475147392	b, voice)
-172.776009070	C, c, bridge
+172.776009070	C, c, Bridge
 181.501224489	c'
-190.456961451	D, b', interlude, (sax
+190.456961451	D, b', Interlude, (sax
 198.273582766	b', sax)
-206.505941043	B, b, verse, (voice
+206.505941043	B, b, Verse, (voice
 214.852040816	b, voice)
 223.199092970	b
 231.623877551	b
-239.967142857	B, b, refrain, (voice
+239.967142857	B, b, Chorus, (voice
 248.249841269	b, voice)
-256.770498866	C, c, outro
+256.770498866	C, c, Outro
 265.527800453	c''
 277.355668934	Z
-306.108231292	end
+306.108231292	End

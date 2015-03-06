@@ -1,14 +1,14 @@
-0.000000000	B, g, intro, (percussion
-5.282993197	A, a, verse, (voice
+0.000000000	B, g, Intro, (percussion
+5.282993197	A, a, Verse, (voice
 15.464489795	a
 26.168888888	b, voice)
-39.538934240	A, a, trans
-48.808344671	A, a, verse, (voice
+39.538934240	A, a, Transition
+48.808344671	A, a, Verse, (voice
 60.240408163	a
 70.253106575	c
 76.834829931	c
 86.290068027	d, voice)
-98.887709750	C, f, interlude
+98.887709750	C, f, Interlude
 105.859773242	D, e
 112.363990929	e
 117.356281179	e, (voice
@@ -38,7 +38,7 @@
 262.431836734	e
 268.102335600	e
 273.567256235	e
-278.781541950	e, fadeout
+278.781541950	e, Fade-out
 284.124535147	e
 289.568435374	e, percussion), voice)
-293.653945578	end
+293.653945578	End

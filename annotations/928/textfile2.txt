@@ -1,16 +1,16 @@
-0.000000000	silence
-0.348299319	A, refrain, (clarinet), (violin)
-18.825963718	B, verse, (voice)
-30.046621315	A, refrain, (clarinet), (violin)
-47.976417233	B, verse, (voice)
-59.394104308	A, refrain, (clarinet), (violin)
-77.053968253	B, verse, (voice)
-88.119727891	A, refrain, (clarinet), (violin)
-106.192018140	B, verse, (voice)
-117.509455782	A, refrain, (clarinet), (violin)
-135.269750566	B, verse, (voice)
-146.345487528	A, refrain, (clarinet), (violin)
-164.299705215	B, verse, (voice)
-175.488208616	A, refrain, (clarinet), (violin)
-193.933061224	silence
-198.568662131	end
+0.000000000	Silence
+0.348299319	A, Chorus, (clarinet), (violin)
+18.825963718	B, Verse, (voice)
+30.046621315	A, Chorus, (clarinet), (violin)
+47.976417233	B, Verse, (voice)
+59.394104308	A, Chorus, (clarinet), (violin)
+77.053968253	B, Verse, (voice)
+88.119727891	A, Chorus, (clarinet), (violin)
+106.192018140	B, Verse, (voice)
+117.509455782	A, Chorus, (clarinet), (violin)
+135.269750566	B, Verse, (voice)
+146.345487528	A, Chorus, (clarinet), (violin)
+164.299705215	B, Verse, (voice)
+175.488208616	A, Chorus, (clarinet), (violin)
+193.933061224	Silence
+198.568662131	End

@@ -1,164 +1,164 @@
-0.000000000	silence
-0.371519274	a, A, intro, (percussion
+0.000000000	Silence
+0.371519274	a, A, Intro, (percussion
 3.206825396	a
 6.096077097	a
 8.904739229	a, percussion)
-11.769569160	b, B, pre-chorus, (horns
+11.769569160	b, B, Pre-Chorus, (horns
 14.536621315	c
 17.416802721	b
 20.266984126	c'
 21.661496598	d', horns)
-24.496666666	e, C, chorus, (strings
+24.496666666	e, C, Chorus, (strings
 27.356371882	d
 30.154739229	e
 32.983174603	d, strings)
-35.765555555	a, A, trans, (percussion)
+35.765555555	a, A, Transition, (percussion)
 38.668185941	d', (horns
-40.051337868	b, B', pre-chorus, (horns
+40.051337868	b, B', Pre-Chorus, (horns
 42.874603174	d
 45.696870748	b
 48.523741496	c'
 49.931496598	d', horns)
-52.773083900	e, C, chorus, (strings
+52.773083900	e, C, Chorus, (strings
 55.602335600	d
 58.404852607	e
 61.259501133	d, strings)
-64.134852607	a, A, trans, (horns
+64.134852607	a, A, Transition, (horns
 66.907800453	a, horns)
-69.767414965	f, D, verse, (piano
+69.767414965	f, D, Verse, (piano
 74.033673469	a
 76.785714285	f
 81.097301587	a, piano)
-83.881836734	a, A, interlude, (horns
+83.881836734	a, A, Interlude, (horns
 86.711768707	a
 89.540884353	a, horns)
-92.388888888	g, D', verse, (strings
+92.388888888	g, D', Verse, (strings
 95.155714285	g
 98.037845804	f'
 103.701451247	a
 106.456734693	f
 110.729682539	d
-113.569229024	e, C, chorus
+113.569229024	e, C, Chorus
 116.396643990	d
 119.196031746	e
 122.055759637	d, strings)
-124.869478458	a, A, trans, (piano)
-127.713265306	f, D, verse, (strings
+124.869478458	a, A, Transition, (piano)
+127.713265306	f, D, Verse, (strings
 131.949229024	d
 134.808390022	f
 139.024308390	d
-141.873945578	e, C, chorus
+141.873945578	e, C, Chorus
 144.697755102	d
 147.521065759	e
 150.319433106	d, strings)
-153.199637188	a, A, trans, (piano
+153.199637188	a, A, Transition, (piano
 155.993469387	a, piano)
-158.842380952	h, E, instrumental, (strings
+158.842380952	h, E, Instrumental, (strings
 161.711020408	i
 164.490634920	j
 167.332743764	h
 170.190272108	i'
 173.050634920	j'
-175.817052154	b, B, pre-chorus
+175.817052154	b, B, Pre-Chorus
 178.640385487	c
 181.459795918	b
 184.324013605	c'
-185.747301587	h, E, instrumental
+185.747301587	h, E, Instrumental
 188.577188208	i
 191.350816326	j
 194.177596371	h
 197.077233560	i'
 199.902517006	j'
-202.684580498	b, B, pre-chorus
+202.684580498	b, B, Pre-Chorus
 205.475804988	c
 208.316507936	b
 211.166643990	c
-214.017188208	a, A, trans
+214.017188208	a, A, Transition
 216.815532879	a, strings)
 219.664988662	a'
-223.213424036	k, F, instrumental, (percussion
+223.213424036	k, F, Instrumental, (percussion
 227.393015873	k, percussion)
 231.578548752	k, (horns
 235.763015873	k, horns)
-239.946802721	k, F, verse, (strings
+239.946802721	k, F, Verse, (strings
 244.177936507	k', strings)
 248.382154195	k, (horns)
 252.517346938	k, (strings
 256.697482993	k', strings)
-260.870430839	l, G, interlude, (piano
+260.870430839	l, G, Interlude, (piano
 265.101768707	l
 269.290430839	l', piano)
 273.441020408	k, (percussion)
 277.645918367	k, (horns)
-281.797369614	k, F, verse, (strings
+281.797369614	k, F, Verse, (strings
 285.997777777	k', strings)
 290.188662131	k, (horns)
 294.361428571	k, (strings
 298.504172335	k', strings)
-302.723990929	l, G, interlude, (piano
+302.723990929	l, G, Interlude, (piano
 306.903537414	l
 311.050748299	l', piano)
-315.247074829	k, F, verse, (strings
+315.247074829	k, F, Verse, (strings
 319.473582766	k
 323.632743764	k
 327.847097505	k, strings)
-332.032743764	l, G, interlude, (piano
+332.032743764	l, G, Interlude, (piano
 336.194875283	l, piano)
 340.349274376	l', (strings
-344.491247165	k, F, verse
+344.491247165	k, F, Verse
 347.609795918	k
 350.309750566	k
 353.140430839	k
 356.019455782	k
 358.878390022	k, strings)
-361.662675736	a, A, trans, (piano)
-364.508458049	e, C, chorus, (strings
+361.662675736	a, A, Transition, (piano)
+364.508458049	e, C, Chorus, (strings
 367.336371882	d
 370.179138321	e
 372.979297052	d, strings)
-375.838775510	a, A, trans, (piano
+375.838775510	a, A, Transition, (piano
 378.642063492	a, piano)
-381.509659863	f', D, verse, (strings
+381.509659863	f', D, Verse, (strings
 387.125623582	a
 389.952426303	f
 394.203854875	d
-397.001020408	e, C, chorus
+397.001020408	e, C, Chorus
 399.867256235	d
 402.660249433	e
 405.540680272	d
-408.354376417	a, A, trans, (piano
-411.193401360	f, D, verse, piano)
+408.354376417	a, A, Transition, (piano
+411.193401360	f, D, Verse, piano)
 415.367777777	d, (strings
 418.294829931	f
 422.469092970	d
-425.312879818	e, C, chorus
+425.312879818	e, C, Chorus
 428.137346938	d
 430.965238095	e
 433.808548752	d
-436.631541950	a, A, trans, (piano
+436.631541950	a, A, Transition, (piano
 439.463287981	a, piano)
-442.318299319	h, E, instrumental, (strings
+442.318299319	h, E, Instrumental, (strings
 445.166122448	i
 447.960544217	j
 450.809773242	h
 453.605555555	i'
 456.493219954	j'
-459.244897959	b, B, pre-chorus
+459.244897959	b, B, Pre-Chorus
 462.080634920	c
 464.897823129	b
 467.777460317	c'
-469.191292517	h, E, instrumental
+469.191292517	h, E, Instrumental
 472.056621315	i
 474.823401360	j
 477.692789115	h
 480.427868480	i'
 483.347097505	j'
-486.146825396	b, B', pre-chorus
+486.146825396	b, B', Pre-Chorus
 489.000544217	c
 491.762290249	b
 494.678866213	c
 497.441746031	d
-500.284897959	m, H, verse
+500.284897959	m, H, Verse
 503.114126984	n
 505.995532879	m
 508.783673469	n', strings)
@@ -167,28 +167,28 @@
 515.832902494	n
 518.681655328	m
 521.502426303	m', strings)
-524.350000000	o, I, interlude, (guitar
+524.350000000	o, I, Interlude, (guitar
 527.132993197	p
 530.008480725	o
 532.806417233	p
 535.697868480	p'
 538.486213151	p', guitar)
 539.893378684	a, (flute)
-544.164489795	m, H, verse, (strings
+544.164489795	m, H, Verse, (strings
 546.988458049	n
 549.770702947	m
 552.615759637	n', strings)
-555.488480725	o, I, interlude, (piano
+555.488480725	o, I, Interlude, (piano
 558.289659863	p
 561.149115646	o
 563.921700680	p, piano)
 566.843378684	p', (strings
 569.593945578	p', strings)
-572.416213151	q, J, fadeout, (guitar)
+572.416213151	q, J, Fade-out, (guitar)
 573.811814058	r, (flute)
 578.089750566	q, (guitar)
 579.486757369	r, (flute)
 583.748253968	q, (guitar)
 585.186054421	r, (flute)
-587.186213151	silence
-587.937959183	end
+587.186213151	Silence
+587.937959183	End

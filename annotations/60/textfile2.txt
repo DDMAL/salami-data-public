@@ -1,12 +1,12 @@
-0.000000000	A, a, theme, (french horn
+0.000000000	A, a, Theme, (french horn
 15.818934240	a, french horn)
 30.945419501	a, (violins
 44.349546485	a, violins)
 57.437142857	d
 64.083560090	a, (strings)
 77.615850340	a, (trumpet)
-91.347301587	B, transition
-95.677301587	A', a'', theme, (brass
+91.347301587	B, Transition
+95.677301587	A', a'', Theme, (brass
 101.063424036	a''
 106.087641723	b
 108.696666666	b
@@ -18,6 +18,6 @@
 134.091995464	a'''
 146.101405895	d''
 152.156802721	d''
-158.801269841	C, c, closing, brass)
-181.154444444	silence
-194.704535147	end
+158.801269841	C, c, Outro, brass)
+181.154444444	Silence
+194.704535147	End

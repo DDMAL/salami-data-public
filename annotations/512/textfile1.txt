@@ -1,13 +1,13 @@
-0.000000000	silence
-0.255419501	H, a, intro, (double-bass
+0.000000000	Silence
+0.255419501	H, a, Intro, (double-bass
 11.077324263	b, double-bass)
-21.136439909	H, a, head, (trumpet
+21.136439909	H, a, Head, (trumpet
 31.325260770	b, trumpet)
-41.268231292	H, a, interlude, (piano
+41.268231292	H, a, Interlude, (piano
 51.171927437	b
 60.782290249	a
 70.498707482	b
-80.313968253	H, a, improvisation, (piano 
+80.313968253	H, a, Solo, (piano
 90.383083900	b
 100.294467120	a
 110.350068027	b
@@ -21,14 +21,14 @@
 191.288616780	b
 201.241247165	a
 211.051065759	b, piano)
-221.035986394	H, a, head, (trumpet
+221.035986394	H, a, Head, (trumpet
 231.087913832	b
 241.189206349	a
 251.201247165	b, trumpet)
-261.243356009	H, a, outro, (piano
+261.243356009	H, a, Outro, (piano
 271.256802721	b
 281.122154195	a
 290.890340136	b
 300.805623582	b, piano)
-321.983197278	silence
-325.659931972	end
+321.983197278	Silence
+325.659931972	End

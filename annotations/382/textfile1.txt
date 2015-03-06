@@ -1,44 +1,44 @@
-0.000000000	silence
-0.487619047	N, intro, (synth), b
+0.000000000	Silence
+0.487619047	N, Intro, (synth), b
 8.626054421	(spoken, voice), c
 44.071473922	E, (flute, d
 47.346938775	flute), d
-50.763922902	A, verse, (vocal, e
+50.763922902	A, Verse, (vocal, e
 53.991836734	f
-57.260113378	A, verse, g
+57.260113378	A, Verse, g
 60.616167800	h
-63.870634920	A, verse, i
+63.870634920	A, Verse, i
 67.173151927	j
-70.481632653	B, pre-chorus, k
+70.481632653	B, Pre-Chorus, k
 73.744557823	l
 76.995918367	m
-81.926530612	C, chorus, n
-88.506122448	C, chorus, o
-95.118367346	A, verse, p
+81.926530612	C, Chorus, n
+88.506122448	C, Chorus, o
+95.118367346	A, Verse, p
 98.353673469	q
-101.648979591	A, verse, r
+101.648979591	A, Verse, r
 104.984217687	s
-108.208185941	A, verse, t
+108.208185941	A, Verse, t
 111.480997732	u
-114.786190476	B, pre-chorus, v
+114.786190476	B, Pre-Chorus, v
 118.126281179	w
 121.371428571	vocal), x
 126.293333333	D, break, (percussion), y
-132.887800453	A, verse, (vocal, z
+132.887800453	A, Verse, (vocal, z
 136.252834467	aa
-139.543242630	A, verse, ab
+139.543242630	A, Verse, ab
 142.797233560	ac
-147.648866213	A, verse, ad
+147.648866213	A, Verse, ad
 150.968639455	ae
-154.253061224	A, verse, af
+154.253061224	A, Verse, af
 157.583673469	ag
-160.881632653	B, pre-chorus, ah
+160.881632653	B, Pre-Chorus, ah
 164.162380952	ai
 172.391836734	aj
-178.907528344	C, chorus, ak
-185.515351473	C, chorus, vocal), al
-192.097732426	E, outro, (flute, am
+178.907528344	C, Chorus, ak
+185.515351473	C, Chorus, vocal), al
+192.097732426	E, Outro, (flute, am
 195.395918367	am
 198.726530612	flute), am
-204.408163265	silence
-208.284739229	end
+204.408163265	Silence
+208.284739229	End

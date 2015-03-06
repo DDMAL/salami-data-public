@@ -1,11 +1,11 @@
-0.000000000	silence
-0.020317460	A, main, theme, (music, box), b
-24.706031746	trans, (percussion), c
-55.304126984	A', main, theme, (music, box), d
-76.892630385	trans, e
-98.542698412	B, second, theme, (synth, f
+0.000000000	Silence
+0.020317460	A, Main_Theme, Theme, (music, box), b
+24.706031746	Transition, (percussion), c
+55.304126984	A', Main_Theme, Theme, (music, box), d
+76.892630385	Transition, e
+98.542698412	B, Secondary_Theme, Theme, (synth, f
 105.047142857	(ukulele, g
 113.340634920	synth), ukulele), h
-120.367981859	fade, out, i
-138.204081632	silence
-142.175941043	end
+120.367981859	Fade-out, out, i
+138.204081632	Silence
+142.175941043	End

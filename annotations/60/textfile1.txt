@@ -1,18 +1,18 @@
-0.000000000	silence
-0.092879818	I, i, intro, (horn
+0.000000000	Silence
+0.092879818	I, i, Intro, (horn
 16.013900226	i, horn)
 31.221247165	i, (violins
 44.117913832	i
 64.303219954	i, violins)
 78.016553287	i, (trumpet)
-92.036916099	T, t, transition, (strings)
-96.165079365	I, i', main theme, (trumpet
+92.036916099	T, t, Transition, (strings)
+96.165079365	I, i', Main_Theme, (trumpet
 101.371065759	i'
 106.517891156	i''
 111.764557823	i'
 119.458231292	i'
-122.831451247	I, i', main theme
+122.831451247	I, i', Main_Theme
 135.268321995	i'''
-158.924081632	O, o, outro, trumpet)
-181.187142857	silence
-194.690612244	end
+158.924081632	O, o, Outro, trumpet)
+181.187142857	Silence
+194.690612244	End

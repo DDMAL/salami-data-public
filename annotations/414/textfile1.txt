@@ -1,23 +1,23 @@
-0.000000000	silence
-0.255419501	a, A, solo, (guitar
+0.000000000	Silence
+0.255419501	a, A, Solo, (guitar
 6.922448979	a
 13.542290249	a
 20.071882086	a
 26.634149659	a
 33.264195011	a, guitar)
-39.822222222	m', C', bridge, (saxophone)
-46.557777777	a, B, solo, (guitar
+39.822222222	m', C', Bridge, (saxophone)
+46.557777777	a, B, Solo, (guitar
 53.367165532	a
 60.040816326	a
 66.703106575	a
 73.363809523	a, guitar)
-80.011020408	m, C, bridge, (saxophone
+80.011020408	m, C, Bridge, (saxophone
 86.681292517	n
-93.367437641	e, D, secondary theme
+93.367437641	e, D, Secondary_Theme
 100.249455782	g
 106.915192743	e
 113.711678004	g, saxohphone)
-120.383854875	a, E, solo, (guitar
+120.383854875	a, E, Solo, (guitar
 127.081428571	a
 133.822403628	a
 140.465487528	a
@@ -29,8 +29,8 @@
 179.705351473	a
 186.209387755	a
 192.713446712	a, guitar)
-199.275351473	m', C', bridge, (saxophone)
-205.897392290	a, F, outro, (guitar)
+199.275351473	m', C', Bridge, (saxophone)
+205.897392290	a, F, Outro, (guitar)
 212.585396825	v, (vocal
 219.109297052	v
 225.593424036	e'
@@ -38,7 +38,7 @@
 238.609455782	e'
 245.121383219	g'
 251.387755102	y, N, break, vocal)
-256.185759637	m, C, bridge, (saxophone
+256.185759637	m, C, Bridge, (saxophone
 262.826666666	n, saxophone)
-276.572879818	silence
-280.250702947	end
+276.572879818	Silence
+280.250702947	End

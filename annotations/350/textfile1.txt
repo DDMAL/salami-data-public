@@ -1,5 +1,5 @@
-0.000000000	silence
-0.255419501	Z, intro, (spoken, voice, b
+0.000000000	Silence
+0.255419501	Z, Intro, (spoken, voice, b
 4.783310657	A, c
 10.914285714	spoken, voice), d
 17.110204081	A, (piano, e
@@ -10,7 +10,7 @@
 47.967346938	brass), i
 54.110204081	A, (spoken, voice, j
 60.322448979	spoken, voice), k
-66.497959183	D, solo, (scratch, l
+66.497959183	D, Solo, (scratch, l
 72.677551020	m
 78.848979591	n
 84.967346938	o
@@ -34,9 +34,9 @@
 196.020204081	brass), ac
 202.151020408	A, (spoken, voice, ad
 208.297959183	spoken, voice), ae
-214.484784580	D, outro, (brass, af
+214.484784580	D, Outro, (brass, af
 220.650793650	ag
 226.829206349	D, ah
 232.971428571	brass), ai
-242.828594104	silence
-243.089070294	end
+242.828594104	Silence
+243.089070294	End

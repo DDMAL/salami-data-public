@@ -1,34 +1,34 @@
-0.000000000	silence
-0.220589569	n, N, intro, (trumpet
-7.037505668	a, A, main theme
+0.000000000	Silence
+0.220589569	n, N, Intro, (trumpet
+7.037505668	a, A, Main_Theme
 13.393424036	b
 19.682630385	a
 26.201133786	c, trumpet)
-32.625147392	d, B, secondary theme, (winds
+32.625147392	d, B, Secondary_Theme, (winds
 38.980566893	e
 45.369410430	d
 51.688798185	f, winds)
-58.106235827	a', A', main theme, (clarinet
+58.106235827	a', A', Main_Theme, (clarinet
 64.513401360	b'
 70.886666666	a'
 77.437120181	c', clarinet)
-83.911224489	m, C, interlude
-90.383378684	g, D, secondary theme, (tuba), (clarinet, (saxophone
+83.911224489	m, C, Interlude
+90.383378684	g, D, Secondary_Theme, (tuba), (clarinet, (saxophone
 96.958866213	h
 103.375873015	i
 109.750702947	j
-116.262267573	g', D', secondary theme, (tuba)
+116.262267573	g', D', Secondary_Theme, (tuba)
 122.666145124	h'
 129.101859410	i'
 135.498956916	j'
-141.887823129	g, D, secondary theme, (tuba)
+141.887823129	g, D, Secondary_Theme, (tuba)
 148.255351473	h
 154.790770975	i
 161.319160997	j
-167.876870748	g', D', secondary theme, (tuba)
+167.876870748	g', D', Secondary_Theme, (tuba)
 174.327165532	h'
 180.895600907	i'
 187.366802721	j'
-193.895510204	o, outro, clarinet), saxophone)
-204.048639455	silence
-206.681768707	end
+193.895510204	o, Outro, clarinet), saxophone)
+204.048639455	Silence
+206.681768707	End

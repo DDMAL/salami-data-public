@@ -1,7 +1,7 @@
-0.000000000	silence
-0.255419501	A, a, intro, (string instrument)
+0.000000000	Silence
+0.255419501	A, a, Intro, (string instrument)
 6.340476190	b
-13.064988662	B, b, theme, (trumpets
+13.064988662	B, b, Theme, (trumpets
 19.825351473	c
 26.577301587	d
 33.233151927	e
@@ -9,13 +9,13 @@
 46.441156462	c
 53.185578231	d
 59.811473922	e, trumpets)
-66.425646258	C, f, interlude, (string instrument, (bass
+66.425646258	C, f, Interlude, (string instrument, (bass
 72.913469387	f', string instrument), bass)
-79.541609977	B', b, theme, (trumpets
+79.541609977	B', b, Theme, (trumpets
 86.138458049	c'
 92.777505668	d'
 99.376099773	e', trumpets)
-106.185124716	D, g, outro
-112.713764172	g, fadeout
-123.901678004	silence
-131.268888888	end
+106.185124716	D, g, Outro
+112.713764172	g, Fade-out
+123.901678004	Silence
+131.268888888	End

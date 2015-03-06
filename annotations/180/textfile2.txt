@@ -1,31 +1,31 @@
-0.000000000	silence
-0.000000000	A, a, intro, (harpsichord
+0.000000000	Silence
+0.000000000	A, a, Intro, (harpsichord
 7.043877551	b'
 13.766281179	c'
-18.871201814	B, b, main theme
+18.871201814	B, b, Main_Theme
 25.494399092	b
 32.390975056	b, harpsichord)
-39.166825396	C, c, solo, (guitar)
+39.166825396	C, c, Solo, (guitar)
 45.966893424	c, (harpsichord
-52.759342403	D, d, bridge
+52.759342403	D, d, Bridge
 59.447233560	d
-66.327460317	B, b, main theme, (guitar
+66.327460317	B, b, Main_Theme, (guitar
 73.481405895	b, guitar)
-82.352607709	E, e, bridge
+82.352607709	E, e, Bridge
 89.066417233	c
-94.104308390	B, b, main theme
+94.104308390	B, b, Main_Theme
 100.937052154	b
 107.856326530	b
-114.856167800	F, f, solo, (guitar
+114.856167800	F, f, Solo, (guitar
 122.137755102	f
 128.897165532	f
 136.766054421	f
-141.656507936	B, b, main theme
+141.656507936	B, b, Main_Theme
 148.152653061	b
 154.838321995	b
-161.310566893	E', c, bridge
-167.886689342	C, c, solo, guitar)
-177.536462585	B, b, main theme
+161.310566893	E', c, Bridge
+167.886689342	C, c, Solo, guitar)
+177.536462585	B, b, Main_Theme
 184.075192743	b
 190.487551020	b, (guitar
 196.974376417	b
@@ -40,6 +40,6 @@
 257.358662131	b
 264.166712018	b
 270.791451247	b
-282.334897959	b, outro, guitar), harpsichord)
-291.648480725	silence
-291.648480725	end
+282.334897959	b, Outro, guitar), harpsichord)
+291.648480725	Silence
+291.648480725	End

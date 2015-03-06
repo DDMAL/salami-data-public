@@ -1,32 +1,32 @@
-0.000000000	silence
+0.000000000	Silence
 0.046439909	Z
-8.434648526	Y, y, intro
-17.468752834	A, a, head, (piano
+8.434648526	Y, y, Intro
+17.468752834	A, a, Head, (piano
 24.699251700	a
 32.020861678	a
 39.220408163	a, piano)
-46.468616780	B, b, bridge, (guitar
-50.085442176	A, a, instrumental, guitar)
+46.468616780	B, b, Bridge, (guitar
+50.085442176	A, a, Instrumental, guitar)
 56.422471655	a, (piano)
-63.478684807	B, b, bridge
-67.129591836	A, a, refrain, (voice
+63.478684807	B, b, Bridge
+67.129591836	A, a, Chorus, (voice
 74.329954648	a, voice)
-81.433718820	B, b, bridge
-85.058775510	A, a, refrain, (voice
+81.433718820	B, b, Bridge
+85.058775510	A, a, Chorus, (voice
 92.247528344	a, voice)
-99.367392290	B, b, bridge
-104.864965986	A, a, refrain, (voice
+99.367392290	B, b, Bridge
+104.864965986	A, a, Chorus, (voice
 111.959954648	a, voice)
-118.999455782	B, b, bridge
-126.079160997	A, a, refrain, )voice)
-133.239319727	A, a, head, (piano
+118.999455782	B, b, Bridge
+126.079160997	A, a, Chorus, )voice)
+133.239319727	A, a, Head, (piano
 140.354331065	a
-147.431405895	B, b, bridge
-150.999886621	A, a, solo
+147.431405895	B, b, Bridge
+150.999886621	A, a, Solo
 158.199478458	a
 165.455736961	a
 172.631541950	a, piano)
-179.869931972	A, a, solo, (guitar
+179.869931972	A, a, Solo, (guitar
 187.066666666	a
 194.319523809	a
 201.567573696	a
@@ -36,21 +36,21 @@
 230.272766439	a
 237.495351473	a
 244.727755102	a
-251.943446712	B, b, bridge, guitar)
-255.519523809	A, a, refrain, (voice
+251.943446712	B, b, Bridge, guitar)
+255.519523809	A, a, Chorus, (voice
 262.675238095	a, voice)
-269.855374149	B, b, bridge
-273.479342403	A, a, refrain, (voice
+269.855374149	B, b, Bridge
+273.479342403	A, a, Chorus, (voice
 280.665850340	a, voice)
-287.863809523	B, b, bridge
-293.119818594	A, a, refrain, (voice
+287.863809523	B, b, Bridge
+293.119818594	A, a, Chorus, (voice
 300.263741496	a
 307.359229024	a
 314.540907029	a, voice)
-321.639387755	A, a, head, (piano
+321.639387755	A, a, Head, (piano
 328.855396825	a
-335.927505668	B, b, outro
+335.927505668	B, b, Outro
 339.599274376	b', piano)
 348.653424036	Z
-420.536598639	silence
-420.571428571	end
+420.536598639	Silence
+420.571428571	End

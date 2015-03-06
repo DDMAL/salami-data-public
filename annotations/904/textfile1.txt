@@ -1,37 +1,37 @@
-0.000000000	silence
-0.534058956	A, a, intro, (piano)
-5.734807256	A, a, head, (trumpet
+0.000000000	Silence
+0.534058956	A, a, Intro, (piano)
+5.734807256	A, a, Head, (trumpet
 10.775192743	a, trumpet)
-15.758730158	A', a', trans
-20.687029478	A, a, head, (trumpet
+15.758730158	A', a', Transition
+20.687029478	A, a, Head, (trumpet
 25.662607709	a, trumpet)
-30.574852607	A', a', trans
-35.774875283	B, b, bridge
+30.574852607	A', a', Transition
+35.774875283	B, b, Bridge
 40.926689342	b
 45.918616780	b
-50.902471655	C, c, theme, (saxophone
+50.902471655	C, c, Theme, (saxophone
 55.894784580	c
 60.950929705	c
 65.926893424	c
 70.975124716	d, saxophone)
-75.942970521	A', a', trans, (trumpet)
-78.655668934	C, c, solo, (piano
+75.942970521	A', a', Transition, (trumpet)
+78.655668934	C, c, Solo, (piano
 83.694897959	c
 88.575102040	c
 93.488072562	c
 98.382539682	c
 103.306780045	c, piano)
-108.143061224	A', a', trans, (trumpet)
-110.846938775	B, b, bridge
+108.143061224	A', a', Transition, (trumpet)
+110.846938775	B, b, Bridge
 115.959092970	b
 120.966938775	b
-125.943106575	C, c, theme, (saxophone
+125.943106575	C, c, Theme, (saxophone
 130.950975056	c
 136.032176870	c
 141.070839002	c
 146.103038548	d
-151.072131519	D, e, outro, (trumpet
+151.072131519	D, e, Outro, (trumpet
 156.207301587	e
 161.191111111	f, trumpet)
-168.149183673	silence
-173.610589569	end
+168.149183673	Silence
+173.610589569	End

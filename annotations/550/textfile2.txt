@@ -1,31 +1,31 @@
-0.000000000	silence
+0.000000000	Silence
 0.417959183	A, a, ostinato
 4.412743764	a
 7.320294784	a
 10.525283446	a
 13.537913832	a
-16.657868480	B, b, theme, (discordant ensemble
+16.657868480	B, b, Theme, (discordant ensemble
 22.907392290	c
 29.121224489	d
 35.441723356	e, discordant ensemble)
 41.264739229	a, ostinato
-44.411655328	C, f, theme, (discordant ensemble
+44.411655328	C, f, Theme, (discordant ensemble
 50.715646258	g
 56.862539682	h, discordant ensemble)
 62.939727891	a, ostinato
 66.066848072	a'
 70.275396825	a'
 76.233106575	a
-79.313650793	D, f', theme, (discordant ensemble
+79.313650793	D, f', Theme, (discordant ensemble
 85.443560090	g'
 91.476077097	h'
 97.361700680	j
 103.516371882	a'
 109.579546485	a, ostinato
-115.658956916	E, k, theme
+115.658956916	E, k, Theme
 121.954875283	m
 127.891156462	n
 133.715079365	a'
-139.898730158	o, outro, discordant ensemble)
-152.525895691	silence
-153.789002267	end
+139.898730158	o, Outro, discordant ensemble)
+152.525895691	Silence
+153.789002267	End

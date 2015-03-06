@@ -1,32 +1,32 @@
-0.000000000	silence
-0.022494331	I, intro, (synth, b
+0.000000000	Silence
+0.022494331	I, Intro, (synth, b
 31.447188208	A, c
 40.809115646	c
-49.725532879	B, main, theme, d
+49.725532879	B, Main_Theme, Theme, d
 59.064126984	d
 68.361700680	B', e
 77.666462585	e
-87.024081632	C, secondary, theme, f
+87.024081632	C, Secondary_Theme, Theme, f
 96.361337868	f
-105.625011337	B, main, theme, g
+105.625011337	B, Main_Theme, Theme, g
 114.984058956	g
 124.280340136	g
-133.576213151	C, secondary, theme, h
+133.576213151	C, Secondary_Theme, Theme, h
 142.984399092	synth), h
-152.272607709	D, bridge, (percussion, i
+152.272607709	D, Bridge, (percussion, i
 161.584172335	D', percussion), j
 170.928412698	E, (synth, k
 180.176349206	k
 189.561541950	k
 198.848412698	k
-208.168390022	E', transition, l
+208.168390022	E', Transition, l
 217.503151927	C', m
 226.816099773	C'', n
 236.174399092	C''', o
-245.504036281	B, main, theme, p
+245.504036281	B, Main_Theme, Theme, p
 254.804240362	p
-264.095850340	B'', outro, q
+264.095850340	B'', Outro, q
 273.456349206	r
 282.808163265	synth), r
-295.061224489	silence
-295.192426303	end
+295.061224489	Silence
+295.192426303	End

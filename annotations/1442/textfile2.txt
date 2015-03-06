@@ -1,36 +1,36 @@
 0.000000000	Z
-2.188594104	A, intro, (horns)
-6.333696145	B, b, intro, (guitar
+2.188594104	A, Intro, (horns)
+6.333696145	B, b, Intro, (guitar
 14.433401360	b, guitar)
-22.657573696	B, b, verse, (voice
+22.657573696	B, b, Verse, (voice
 30.941587301	b, voice)
-39.226009070	B, b, interlude, (sax, (guitar
+39.226009070	B, b, Interlude, (sax, (guitar
 47.529206349	b, guitar), sax)
-55.806031746	B, b, verse, (voice
+55.806031746	B, b, Verse, (voice
 64.145555555	b
 72.353356009	b
 80.768934240	b, voice)
-89.112585034	C, c, refrain, (horns
+89.112585034	C, c, Chorus, (horns
 97.743038548	d, horns)
-106.251451247	B, b, interlude, (guitar
+106.251451247	B, b, Interlude, (guitar
 114.529682539	b, guitar)
-122.726099773	B, b, verse, (voice
+122.726099773	B, b, Verse, (voice
 131.050294784	b, voice)
-139.344988662	B, b, interlude, (sax, (guitar
+139.344988662	B, b, Interlude, (sax, (guitar
 147.784603174	b, sax), guitar)
-156.098503401	B, b, verse, (voice
+156.098503401	B, b, Verse, (voice
 164.402834467	b, voice)
-172.627687074	C, c, refrain, (horns
+172.627687074	C, c, Chorus, (horns
 181.385986394	d, horns)
-189.932244897	B, b, interlude, (sax, (guitar
+189.932244897	B, b, Interlude, (sax, (guitar
 198.243696145	b, sax), guitar)
-206.476054421	B, b, verse, (voice
+206.476054421	B, b, Verse, (voice
 214.735487528	b, voice)
-223.045306122	B, b, interlude, (sax, (guitar
+223.045306122	B, b, Interlude, (sax, (guitar
 231.546326530	b, sax), guitar)
-239.897959183	B, b, verse, (voice
+239.897959183	B, b, Verse, (voice
 248.117256235	b, voice)
-256.669614512	C, c, refrain, (horns
+256.669614512	C, c, Chorus, (horns
 265.284965986	d, horns)
 276.417165532	Z
-306.050612244	end
+306.050612244	End

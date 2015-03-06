@@ -1,62 +1,62 @@
-0.000000000	silence
-0.371519274	A, a, intro, (guitar
+0.000000000	Silence
+0.371519274	A, a, Intro, (guitar
 4.597551020	a
 8.882335600	c, guitar)
-12.613424036	B, a, verse, (voice
+12.613424036	B, a, Verse, (voice
 16.482244897	b
-20.153378684	B, a, verse
+20.153378684	B, a, Verse
 23.912607709	b
-27.673696145	C, d, chorus
+27.673696145	C, d, Chorus
 31.600476190	e, voice)
 35.434829931	c, (guitar)
-39.489818594	B, a, verse, (voice
+39.489818594	B, a, Verse, (voice
 43.329002267	b
-47.261927437	B, a, verse
+47.261927437	B, a, Verse
 51.144512471	b
-55.052879818	C, d, chorus
+55.052879818	C, d, Chorus
 58.936757369	e, voice)
 62.872562358	c, (guitar)
-66.962380952	B, a, verse, (voice
+66.962380952	B, a, Verse, (voice
 70.880839002	b
-74.776462585	B, a, verse
+74.776462585	B, a, Verse
 78.616507936	b
-82.521700680	C, d, chorus
+82.521700680	C, d, Chorus
 86.417868480	e, voice)
 90.369705215	c, (guitar)
-94.433537414	B, a, verse, (voice
+94.433537414	B, a, Verse, (voice
 98.464625850	b
-102.384875283	B, a, verse
+102.384875283	B, a, Verse
 106.288911564	b
-110.241791383	C, d, chorus
+110.241791383	C, d, Chorus
 114.181904761	e, voice)
 118.184353741	c, (guitar)
-122.256757369	B, a, verse, (voice
+122.256757369	B, a, Verse, (voice
 126.271224489	b
-130.256507936	B, a, verse
+130.256507936	B, a, Verse
 134.281814058	b
-138.194353741	C, d, chorus
+138.194353741	C, d, Chorus
 142.128662131	e, voice)
 146.196757369	c, (guitar)
-150.232607709	B, a, verse, (voice
+150.232607709	B, a, Verse, (voice
 154.200566893	b
-158.137074829	B, a, verse
+158.137074829	B, a, Verse
 162.128616780	b
-166.096462585	C, d, chorus
+166.096462585	C, d, Chorus
 170.123764172	e, voice)
 174.104897959	c, (guitar)
-178.200612244	B, a, verse, (voice
+178.200612244	B, a, Verse, (voice
 182.296643990	b
-186.361904761	B, a, verse
+186.361904761	B, a, Verse
 190.457142857	b
-194.513990929	C, d, chorus
+194.513990929	C, d, Chorus
 198.488707482	e, voice)
 202.497573696	c, (guitar)
-206.536961451	B, a, verse, (voice
+206.536961451	B, a, Verse, (voice
 210.675668934	b
-214.744897959	B, a, verse
+214.744897959	B, a, Verse
 218.672267573	b
-222.728730158	C, d, chorus
+222.728730158	C, d, Chorus
 226.737709750	e, voice)
-230.696712018	f, outro
-235.657142857	silence
-238.920136054	end
+230.696712018	f, Outro
+235.657142857	Silence
+238.920136054	End

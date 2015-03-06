@@ -1,26 +1,26 @@
-0.000000000	silence
+0.000000000	Silence
 0.046439909	Z
-3.094058956	A, a, intro, (synthesizer
+3.094058956	A, a, Intro, (synthesizer
 15.007551020	a, synthesizer)
-24.431269841	A, a, chorus, (voice
+24.431269841	A, a, Chorus, (voice
 34.303310657	a, voice)
-43.919251700	A, a, verse, (rap
+43.919251700	A, a, Verse, (rap
 53.527437641	a, rap)
-63.239637188	A, a, chorus, (voice
+63.239637188	A, a, Chorus, (voice
 72.767482993	a, voice)
-82.414784580	A, a, verse, (rap
+82.414784580	A, a, Verse, (rap
 91.926643990	a, rap)
-101.615011337	A, a, chorus, (voice
+101.615011337	A, a, Chorus, (voice
 110.998843537	a
-120.598571428	A, a, chorus 2
+120.598571428	A, a, Chorus
 130.278662131	a
 139.822630385	a, voice)
-149.334988662	A, a, verse, (rap
+149.334988662	A, a, Verse, (rap
 159.006848072	a
 168.638866213	a
 178.294807256	a, rap)
-187.918888888	b, bridge, (voice
-192.790884353	A, a, outro, (synthesizer
+187.918888888	b, Bridge, (voice
+192.790884353	A, a, Outro, (synthesizer
 207.105147392	a
 216.616258503	a
 226.120362811	a, voice)
@@ -28,5 +28,5 @@
 244.518979591	a
 253.526961451	a, synthesizer)
 263.702811791	Z
-288.043537414	silence
-288.078367346	end
+288.043537414	Silence
+288.078367346	End

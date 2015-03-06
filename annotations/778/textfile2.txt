@@ -1,32 +1,32 @@
-0.000000000	A, a, intro
+0.000000000	A, a, Intro
 8.003537414	a
 16.039523809	a, (accordion)
 22.407936507	B, b (spoken voice)
-31.362517006	A, a, trans, (guitar)
+31.362517006	A, a, Transition, (guitar)
 38.001405895	a, (accordion)
-45.978684807	A, a, refrain, (guitar)
-53.999342403	C, c, trans, (horns)
-58.305306122	A, a, refrain, (accordion)
+45.978684807	A, a, Chorus, (guitar)
+53.999342403	C, c, Transition, (horns)
+58.305306122	A, a, Chorus, (accordion)
 66.000907029	a, (guitar)
-73.923106575	C, c, trans, (horns)
-78.172063492	A, a, refrain, (guitar
+73.923106575	C, c, Transition, (horns)
+78.172063492	A, a, Chorus, (guitar
 85.964081632	a, guitar)
 93.981065759	B, b, (spoken voice)
 101.950657596	A, a, refrain (guitar)
-109.936213151	C', c, trans, (horns)
-119.924489795	D, d, interlude, (synthesizer
+109.936213151	C', c, Transition, (horns)
+119.924489795	D, d, Interlude, (synthesizer
 127.936054421	e
 135.931882086	d
 143.901224489	e, synthesizer)
 151.907097505	B, b, (spoken voice)
-155.890589569	D, d, refrain, (synthesizer
+155.890589569	D, d, Chorus, (synthesizer
 163.867845804	e
 171.909002267	d
 179.898004535	e, synthesizer)
-187.911791383	C, c, trans, (horns)
-191.886349206	D, d, refrain, (synthesizer
+187.911791383	C, c, Transition, (horns)
+191.886349206	D, d, Chorus, (synthesizer
 199.880498866	e
 207.891496598	d
 215.911133786	e, synthesizer)
-223.833990929	C, c, outro, (horns)
-231.173718820	end
+223.833990929	C, c, Outro, (horns)
+231.173718820	End

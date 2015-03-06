@@ -1,5 +1,5 @@
-0.000000000	silence
-0.510839002	A, a, intro
+0.000000000	Silence
+0.510839002	A, a, Intro
 15.254421768	B, b
 25.029977324	c, (tenor)
 28.760952380	b
@@ -27,11 +27,11 @@
 250.137482993	f
 257.726712018	d', soprano), alto)
 262.437301587	h, (chorus), (tenor)
-268.934285714	i, trans, (flute)
+268.934285714	i, Transition, (flute)
 271.501882086	h, (chorus), (tenor)
-277.532040816	i, trans, (flute)
+277.532040816	i, Transition, (flute)
 280.190136054	h, (chorus), (tenor)
-286.360634920	i, trans, (flute)
+286.360634920	i, Transition, (flute)
 288.932879818	h, (chorus, (tenor)
 305.911836734	j, chorus)
 321.895986394	L, l, (soprano, (chorus
@@ -53,13 +53,13 @@
 459.199115646	d, (tenor), alto)
 469.795170068	r, (soprano
 486.777052154	t, soprano)
-504.594920634	s, interlude
+504.594920634	s, Interlude
 523.075328798	e, (chorus
 537.435374149	t, chorus)
-560.158480725	u, interlude
-569.237256235	u, interlude
+560.158480725	u, Interlude
+569.237256235	u, Interlude
 578.579183673	v, (soprano), (alto), (tenor), (bass)
 591.579795918	w, (chorus)
-613.343990929	y, outro
-652.876077097	silence
-663.013877551	end
+613.343990929	y, Outro
+652.876077097	Silence
+663.013877551	End

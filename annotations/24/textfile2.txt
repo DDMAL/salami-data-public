@@ -31,6 +31,6 @@
 176.440249433	B, b, Head, (harmonica
 181.471791383	c
 186.380340136	c'
-191.336326530	d, outro, harmonica)
+191.336326530	d, Outro, harmonica)
 202.338684807	Silence
 202.901927437	End
