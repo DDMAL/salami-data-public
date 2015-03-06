@@ -1,6 +1,6 @@
 0.000000000	silence
 0.348299319	A, a, intro, (piano
-8.390408163	b. piano)
+8.390408163	b, piano)
 14.535691609	B, c, head, (trumpet
 20.870544217	d
 27.453401360	e

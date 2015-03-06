@@ -1,6 +1,0 @@
-0	3	"nothing"
-3	501	"chorus A"
-501	1001	"chorus B"
-1001	3433	"nothing"
-3433	3920	"chorus A"
-3920	5027	"chorus B"

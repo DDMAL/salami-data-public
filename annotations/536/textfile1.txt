@@ -1,33 +1,33 @@
 0.000000000	silence
-0.293877551	Z, (spoken voice)
-73.096417233	A, instrumental, (sampling)
-90.029138321	Z, (spoken voice)
-153.730612244	A, instrumental, (sampling)
-171.497165532	Z, (spoken voice)
-191.085714285	A, instrumental, (sampling)
-200.003968253	I, interlude, (spoken voice)
-202.840816326	A, instrumental, (sampling
-211.774920634	=
-220.379229024	=
-229.283083900	=
-238.059070294	=
-246.832267573	=
-255.603219954	=
-264.459274376	=
-273.227460317	=
-282.009410430	=
-290.811315192	=
-299.620975056	=, sampling)
-304.002176870	J, interlude, (spoken voice
-312.849863945	=
-321.546712018	=, spoken voice)
-330.385941043	=, (rap
-339.145827664	=,. rap)
-347.981519274	A, instrumental, (sampling
-356.793197278	=
-365.517777777	=
-374.333673469	=
-383.165714285	A', outro
-391.936462585	=, sampling)
+0.293877551	Z, (spoken, voice), b
+73.096417233	A, instrumental, (sampling), c
+90.029138321	Z, (spoken, voice), d
+153.730612244	A, instrumental, (sampling), e
+171.497165532	Z, (spoken, voice), f
+191.085714285	A, instrumental, (sampling), g
+200.003968253	I, interlude, (spoken, voice), h
+202.840816326	A, instrumental, (sampling, i
+211.774920634	i
+220.379229024	i
+229.283083900	i
+238.059070294	i
+246.832267573	i
+255.603219954	i
+264.459274376	i
+273.227460317	i
+282.009410430	i
+290.811315192	i
+299.620975056	sampling), i
+304.002176870	J, interlude, (spoken, voice, j
+312.849863945	j
+321.546712018	spoken, voice), j
+330.385941043	(rap, j
+339.145827664	rap), j
+347.981519274	A, instrumental, (sampling, k
+356.793197278	k
+365.517777777	k
+374.333673469	k
+383.165714285	A', outro, l
+391.936462585	sampling), l
 399.837800453	silence
 401.693401360	end

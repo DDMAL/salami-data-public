@@ -1,6 +1,0 @@
-1556	3061	"nothing"
-3061	6864	"nothing"
-6864	10601	"nothing"
-10601	24246	"nothing"
-24246	28632	"chorus A"
-28632	38543	"nothing"

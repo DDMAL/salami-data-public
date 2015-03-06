@@ -1,5 +1,4 @@
 0.000000000	silence
-0.000000000	5.2
 0.293877551	A, a, intro, (piano
 7.343628117	b, piano)
 14.066780045	A, a, head, (muted trumpet

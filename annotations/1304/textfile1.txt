@@ -1,7 +1,7 @@
 0.000000000	silence
 0.097959183	z, Z
 10.286439909	a, A, intro, (drums)
-21.710657596	b, B,' interlude, (piano
+21.710657596	b, B', interlude, (piano
 27.004807256	b, piano)
 32.206077097	b, B, verse, (voice
 37.345691609	b

@@ -1,5 +1,0 @@
-10	4285	"intro"
-4285	7817	"verse A"
-7817	10156	"chorus A"
-10156	14237	"chorus B"
-14237	16760	"ending"

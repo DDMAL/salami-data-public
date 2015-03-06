@@ -1,5 +1,0 @@
-2349	4613	"nothing"
-4613	7427	"nothing"
-7427	9637	"nothing"
-9637	13307	"nothing"
-13307	15743	"ending"

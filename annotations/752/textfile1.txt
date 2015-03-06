@@ -23,7 +23,7 @@
 194.959637188	B, d, Head, (viola 
 208.840272108	viola)
 221.030748299	C, c', transition
-228.082154195	e'''', (?) $knowledge of arabic instruments insufficient to identify this one...
+228.082154195	e'''', (arabic_instrument)
 234.964920634	B, d, Head, (flute 
 248.914671201	d', flute)
 261.058049886	D, d, outro, (viola

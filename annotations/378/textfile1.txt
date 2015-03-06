@@ -1,11 +1,11 @@
 0.000000000	silence
-0.255419501	Z, intro, (spoken voice)
-8.034104308	X, (guitar)
-12.074376417	A, verse, (vocal
-16.614081632	X
-20.734285714	X
-24.736349206	X
-28.775691609	A, vocal)
-29.303582766	Z, break, (gun shots)
+0.255419501	Z, intro, (spoken, voice), b
+8.034104308	(guitar), c
+12.074376417	A, verse, (vocal, d
+16.614081632	e
+20.734285714	f
+24.736349206	g
+28.775691609	A, vocal), h
+29.303582766	Z, break, (gun, shots), i
 33.606326530	silence
 35.023718820	end

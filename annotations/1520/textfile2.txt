@@ -1,8 +1,0 @@
-0	1495	"intro"
-1495	2964	"verse A"
-2964	4720	"chorus A"
-4720	6485	"chorus A"
-6485	8225	"verse B"
-8225	10312	"verse B"
-10312	11784	"verse A"
-11784	14324	"chorus B"

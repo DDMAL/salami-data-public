@@ -1,4 +1,0 @@
-0	3291	"nothing"
-3291	6655	"nothing"
-6655	9456	"nothing"
-9456	14309	"nothing"

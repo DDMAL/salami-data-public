@@ -1,7 +1,0 @@
-7	2468	"nothing"
-2468	7886	"nothing"
-7886	10589	"nothing"
-10589	11941	"nothing"
-11941	15998	"nothing"
-15998	18703	"nothing"
-18703	20423	"ending"

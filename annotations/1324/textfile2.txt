@@ -1,5 +1,5 @@
 0.000000000	B, pre-intro, (mandolin
-5.794285714	A, a, intro, 
+5.794285714	A, a, intro
 16.934716553	a
 28.060430839	b
 39.040181405	a, mandolin)

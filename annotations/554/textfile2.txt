@@ -1,13 +1,13 @@
 0.000000000	silence
-0.325079365	A, intro, (piano)
-10.302018140	=, (guitar)
-19.735487528	A, verse, (voice
-29.436349206	=
-39.058911564	B
-48.852108843	A, verse, voice)
-58.516712018	=, (guitar)
-68.139206349	B, (voice
-77.949569160	A, verse, voice)
-86.749750566	X, (guitar)
+0.325079365	A, intro, (piano), b
+10.302018140	(guitar), b
+19.735487528	A, verse, (voice, c
+29.436349206	c
+39.058911564	B, d
+48.852108843	A, verse, voice), e
+58.516712018	(guitar), e
+68.139206349	B, (voice, f
+77.949569160	A, verse, voice), g
+86.749750566	(guitar), h
 94.631814058	silence
 97.989931972	end

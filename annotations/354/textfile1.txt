@@ -7,7 +7,7 @@
 31.555918367	d, flute)
 36.157052154	b, B, verse, (cor anglais
 40.735759637	c
-45.295215419	b, fadeout, 
+45.295215419	b, fadeout
 49.894988662	d, cor anglais)
 52.314557823	silence
 55.170612244	end
