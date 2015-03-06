@@ -1,4 +1,3 @@
-# small cap letter do not apply here
 0.000000000	silence
 1.603015873	A, (strings
 223.468843537	B

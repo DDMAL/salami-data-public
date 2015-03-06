@@ -21,7 +21,7 @@
 62.970725623	d,
 66.225646258	B, d
 69.445079365	d, guitar)
-72.672653061	A', b', verse, (vocal #modulation
+72.672653061	A', b', verse, (vocal
 75.969886621	c', vocal)
 79.272925170	B, d, interlude, (guitar
 82.512244897	d, guitar)
@@ -32,7 +32,7 @@
 98.936530612	D, g, bridge
 105.433310657	g, vocal)
 111.848979591	E, i, solo, (guitar)
-137.885714285	A', b', verse, (vocal #modulation
+137.885714285	A', b', verse, (vocal
 141.056258503	c'
 144.240816326	b'
 147.416326530	c'', vocal)

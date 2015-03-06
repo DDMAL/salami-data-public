@@ -50,6 +50,6 @@
 329.969546485	c, refrain
 336.726553287	c
 343.483560090	c, voice)
-346.920113378	A, a, outro, (fiddle), #seems cut off
+346.920113378	A, a, outro, (fiddle)
 361.168979591	silence
 361.198548752	end

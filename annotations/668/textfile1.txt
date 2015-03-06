@@ -17,7 +17,7 @@
 173.179297052	d, (guitar
 184.551337868	V, a, solo
 196.032902494	a
-207.129591836	P, p, solo #should I repeat "solo" here or would it be understood that the solo section continues from the previous "V"?
+207.129591836	P, p, solo
 218.747392290	p, guitar)
 230.323764172	C, c, chorus, (voice
 241.682380952	c, voice)

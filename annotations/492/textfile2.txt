@@ -1,5 +1,5 @@
 0.000000000	silence
-0.139319727	X, x, intro, (drums)
+0.139319727	W, w, intro, (drums)
 2.501723356	A, a, verse, (vocal
 7.117619047	b
 11.581564625	c

@@ -1,4 +1,4 @@
-0.000000000	silence, #fragment?
+0.000000000	silence
 0.028571428	A, a, intro, (harpsichord
 8.791519274	b
 19.203401360	c

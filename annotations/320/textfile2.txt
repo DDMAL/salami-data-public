@@ -1,5 +1,5 @@
 0.000000000	silence
-0.000000000	A, intro, solo, (voice, #free with rubato
+0.000000000	A, intro, solo, (voice
 8.789251700	X
 14.883990929	A, intro, solo
 20.874739229	X
@@ -23,6 +23,6 @@
 143.390521541	X
 151.904943310	B' chorus
 162.948027210	X, outro, voice)
-170.597006802	Z, #applause
+170.597006802	Z
 195.094104308	silence
 195.173582766	end

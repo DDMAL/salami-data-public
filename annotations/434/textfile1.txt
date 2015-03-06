@@ -24,7 +24,7 @@
 117.191111111	d
 122.486757369	a
 127.649954648	b
-132.746031746	a, A', head, (horns # first 4 parts of head are modified here
+132.746031746	a, A', head, (horns
 138.057800453	b
 143.352766439	a
 148.481995464	b

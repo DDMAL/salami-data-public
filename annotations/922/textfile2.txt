@@ -1,5 +1,5 @@
 0.000000000	silence
-0.404081632	A, a, intro, (strings, #rough estimates of segmentation
+0.404081632	A, a, intro, (strings
 9.690113378	B, b, theme
 38.266485260	c, (flute
 51.433945578	d

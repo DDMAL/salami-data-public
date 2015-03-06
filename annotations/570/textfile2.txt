@@ -1,5 +1,5 @@
 0.000000000	silence
-0.000000000	X, x, intro, (drumbeat)
+0.000000000	W, w, intro, (drumbeat)
 5.105873015	A, a, chorus, (vocal
 10.216235827	b
 15.328503401	a

@@ -9,7 +9,7 @@
 46.028458049	a'
 60.087437641	A, a, main theme
 66.070272108	b
-73.653696145	T, transition , d
+73.653696145	T, d, transition
 83.699251700	e
 92.029274376	B, c, secondary theme
 100.883197278	c'

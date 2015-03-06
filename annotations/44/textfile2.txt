@@ -1,5 +1,5 @@
 0.000000000	silence
-0.185759637	X, x, intro
+0.185759637	W, w, intro
 9.286916099	A, a, verse, (vocal
 17.582630385	b
 25.959569160	c
@@ -18,7 +18,7 @@
 133.467687074	A, a, verse, (vocal
 141.795646258	b
 150.019773242	c
-158.251632653	A, a, verse, #sound quality is muffled suddenly?
+158.251632653	A, a, verse
 166.579591836	b
 174.875079365	c, vocal)
 183.099183673	A, a, improvisation, (harmonica

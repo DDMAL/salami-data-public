@@ -45,7 +45,7 @@
 195.582604166	f, (synth
 200.040854166	f, synth)
 204.406208333	g, (guitar)
-208.794770833	F, f, coda, fadeout, (synth #too much information?
+208.794770833	F, f, coda, fadeout, (synth
 213.160125000	f, synth)
 217.479041666	g, (guitar)
 221.912666666	f, (synth

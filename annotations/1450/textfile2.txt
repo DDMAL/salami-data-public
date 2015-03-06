@@ -1,5 +1,5 @@
 0.000000000	silence
-0.044897959	A, a, into, (bass, #maybe beginning missing?
+0.044897959	A, a, into, (bass
 9.072471655	A, a, head
 16.117346938	a
 22.494716553	a

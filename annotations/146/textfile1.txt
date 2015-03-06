@@ -1,5 +1,5 @@
 0.000000000	silence
-0.789478458	A, a, theme, (harpsichord, #improvisatory in nature
+0.789478458	A, a, theme, (harpsichord
 12.830725623	b
 22.686394557	c
 29.465147392	B, d, theme

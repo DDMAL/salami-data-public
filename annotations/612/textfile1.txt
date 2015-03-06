@@ -20,6 +20,6 @@
 120.204512471	C, c, chorus
 127.060408163	d
 133.899297052	e
-140.707913832	C, c, chorus, fadeout, voice) #too much information?
+140.707913832	C, c, chorus, fadeout, voice)
 147.628276643	silence
 147.808367346	end

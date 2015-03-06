@@ -1,4 +1,3 @@
-#small cap letters do not apply in this piece
 0.000000000	silence
 1.175510204	A, intro, (saxophone
 111.904126984	B, solo

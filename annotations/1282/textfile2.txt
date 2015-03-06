@@ -37,6 +37,6 @@
 355.750521541	A, a, bridge
 360.185374149	A, a, outro, (saxophone
 369.113628117	a
-378.062358276	a', guitar), saxophone), # seems like end is cut off
+378.062358276	a', guitar), saxophone)
 384.655963718	silence
 384.694603174	end

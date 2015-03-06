@@ -1,25 +1,14 @@
 0.000000000	silence
-0.325079365	A, a, intro, (voice
-8.685532879	b, voice)
-16.248730158	a, (flute)
-24.289047619	B, b, verse, (voice
-32.544693877	c
-40.816757369	b
-49.001020408	c', voice)
-57.512766439	A', a, (flute), transition
-65.641768707	B, b, verse, (voice
-73.552721088	c
-81.544920634	b
-89.592879818	c', (voice
-97.696893424	D, a',  (flute), transition
-105.793219954	C, d, bridge, voice)
-113.784716553	e
-121.792721088	d
-129.732857142	e
-137.781224489	B, b, verse
-146.200702947	c
-154.328979591	b
-162.490770975	c'
-170.368888888	a'', outro, voice)
-187.697913832	silence
-190.735646258	end
+0.255419501	H, h, intro
+24.775691609	A, a, verse, (voice
+40.670272108	B, b, chorus, voice)
+57.347596371	J, j, inerlude
+65.721814058	A, a, verse, (voice
+81.727074829	B, b, chorus, voice)
+97.578231292	J, j, interlude
+105.624603174	D, d, verse, (voice
+121.697437641	d'
+137.832766439	A, a, verse
+154.295079365	B, b, chorus, voice)
+171.720181405	H, h', outro
+190.745532879	end

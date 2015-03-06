@@ -4,7 +4,7 @@
 19.045578231	X
 29.038231292	X 
 39.109591836	=, synth)
-51.098775510	silence # end? This is two songs on one track
+51.098775510	silence
 52.832653061	B, (strings
 62.079478458	=
 69.323129251	=

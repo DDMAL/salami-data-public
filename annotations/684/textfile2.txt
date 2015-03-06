@@ -4,7 +4,7 @@
 10.287664399	a
 14.811451247	a
 19.223922902	B, b, verse
-23.888049886	c, #this is very similar to a, but not close enough to be a'
+23.888049886	c
 28.415804988	b
 33.000544217	c
 37.483446712	C, d, bridge

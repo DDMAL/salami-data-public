@@ -21,7 +21,7 @@
 154.524263038	h''
 162.163628117	h''
 169.895873015	h''', guitar)
-184.244897959	H, h'''', improvisation # h, h', h'', and h''' are based on melody above, so I chose h'''' for solos
+184.244897959	H, h'''', improvisation
 192.332902494	h''''
 200.367006802	h''''
 208.377891156	h''''

@@ -1,7 +1,7 @@
 0.000000000	silence
 0.400000000	I, i, intro, (sax)
 8.537369614	i, (trombone)
-17.209977324	J, j, transition, (voice # introduction?
+17.209977324	J, j, transition, (voice
 25.569274376	k
 33.944195011	l
 42.112040816	m, voice)

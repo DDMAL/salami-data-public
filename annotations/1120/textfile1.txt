@@ -1,5 +1,5 @@
 0.000000000	silence
-0.040816326	Z, #song restarted
+0.040816326	Z
 80.201723356	A, a, intro, (guitar
 88.473990929	b, guitar)
 96.739342403	A, a, chorus, (voice

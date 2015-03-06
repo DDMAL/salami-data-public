@@ -100,6 +100,6 @@
 1300.898616780	j
 1310.000839002	i
 1319.056621315	j
-1328.553582766	G, n, outro, fadeout, guitar) #too much information on this line?
+1328.553582766	G, n, outro, fadeout, guitar)
 1406.863265306	silence
 1406.876734693	end

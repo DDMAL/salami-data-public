@@ -1,5 +1,5 @@
 0.000000000	silence
-0.650158730	X, x, intro, (piano)
+0.650158730	W, w, intro, (piano)
 5.854353741	A, a, refrain, (vocal
 8.568390022	b
 11.370453514	a

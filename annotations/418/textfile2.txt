@@ -1,5 +1,5 @@
 0.000000000	silence
-0.655102040	A, a', intro, #end is cut off
+0.655102040	A, a', intro
 6.279183673	a, (saxophones
 13.638843537	a
 21.023265306	a, saxophones)

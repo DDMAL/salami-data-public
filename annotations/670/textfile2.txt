@@ -19,7 +19,7 @@
 84.785646258	h
 87.544965986	b
 90.305804988	b, guitar)
-95.625736961	C, i, instrumental, solo, (drums, #free style
+95.625736961	C, i, instrumental, solo, (drums
 121.537845804	j
 133.505918367	k
 162.237823129	l

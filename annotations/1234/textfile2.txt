@@ -1,7 +1,7 @@
 0.000000000	silence
 0.000000000	A, a, intro, (guitar
 5.894058956	a, guitar)
-11.110476190	B, b, verse, (voice, #mistakes?
+11.110476190	B, b, verse, (voice
 16.326009070	c
 21.569070294	b
 26.854217687	c

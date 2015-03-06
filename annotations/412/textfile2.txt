@@ -1,4 +1,4 @@
-0.000000000	silence, #end cut off, fragment?
+0.000000000	silence
 1.079727891	A, a, intro, (spoken)
 22.697981859	B, b, verse, (rap
 28.834149659	b
@@ -60,5 +60,5 @@
 387.578344671	b
 393.083537414	b
 398.546349206	b
-404.131972789	d, outro, rap), #cutoff
+404.131972789	d, outro, rap)
 409.174149659	end

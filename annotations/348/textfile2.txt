@@ -1,5 +1,5 @@
 0.000000000	silence
-0.020317460	A, main theme, (music box), #entire track is soundscape
+0.020317460	A, main theme, (music box)
 24.706031746	X, trans, (percussion)
 55.304126984	A', main theme, (music box)
 76.892630385	X, trans

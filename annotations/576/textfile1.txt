@@ -17,6 +17,6 @@
 150.232721088	a
 160.201043083	A, a, verse
 170.120612244	a
-179.969523809	A, a, verse, fadeout, voice) #too much info on one line?
+179.969523809	A, a, verse, fadeout, voice)
 200.061065759	silence
 204.419115646	end

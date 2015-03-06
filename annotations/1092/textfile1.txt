@@ -1,5 +1,5 @@
 0.000000000	silence
-0.088000000	A, a, intro, (piano), #really terrible background noise, may have been clipped
+0.088000000	A, a, intro, (piano)
 16.416000000	B, b, verse, (voice
 27.905531250	b
 39.352906250	C, c, chorus

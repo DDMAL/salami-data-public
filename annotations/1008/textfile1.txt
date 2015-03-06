@@ -2,7 +2,7 @@
 0.000000000	11.2
 0.000000000	11.4
 0.375510204	A, y, intro, (spoken)
-12.691269841	B, a, (synthesizer, #additive structure
+12.691269841	B, a, (synthesizer
 21.041791383	a
 29.360816326	a
 37.722471655	a
@@ -44,6 +44,6 @@
 376.005283446	i
 384.356938775	i
 392.738911564	i
-401.045079365	j, outro, synthesizer), #clipped off?
+401.045079365	j, outro, synthesizer)
 419.934693877	silence
 419.972698412	end
