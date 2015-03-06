@@ -1,5 +1,4 @@
 0.000000000	Silence
-0.000000000	2.3
 0.255419501	A, a, Intro, (piano)
 8.057324263	A, a, First theme, (choir
 15.788163265	a'

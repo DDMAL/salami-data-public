@@ -7,7 +7,7 @@
 30.534240362	B', b, Main theme, (French horns
 43.025532879	b, (strings
 55.689410430	b, (flutes
-68.220226757	b, strings), 
+68.220226757	b, strings)
 80.759002267	C, a'', Transition, French horns), flutes)
 88.816326530	c, (trumpet)
 97.268390022	d, (strings)
