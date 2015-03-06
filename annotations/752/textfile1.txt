@@ -1,0 +1,33 @@
+0.000000000	Silence
+0.139319727	A, a, intro
+7.153877551	b
+14.097709750	c
+21.083061224	B, d, Head, (viola
+34.995941043	d', viola)
+47.113287981	C, c', transition
+54.034217687	c''
+61.062426303	e, (crumhorn, (flute
+67.964807256	B, d, Head, (crumhorn
+81.963151927	d', crumhorn)
+94.117936507	C, c'', transition
+101.070136054	e', (crumhorn)
+108.057029478	B, d, (flute
+121.825782312	d', flute)
+134.090385487	C, c', transition
+141.031201814	c''
+148.006439909	e'', (flute)
+154.955963718	B, d, Head, (crumhorn
+168.927528344	d', crumhorn)
+181.069070294	C, c'', transition
+187.907800453	e''', (crumhorn)
+194.959637188	B, d, Head, (viola 
+208.840272108	viola)
+221.030748299	C, c', transition
+228.082154195	e'''', (?) $knowledge of arabic instruments insufficient to identify this one...
+234.964920634	B, d, Head, (flute 
+248.914671201	d', flute)
+261.058049886	D, d, outro, (viola
+281.982358276	d, viola)
+292.316009070	a
+299.863219954	Silence
+301.731519274	End

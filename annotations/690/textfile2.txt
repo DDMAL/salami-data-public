@@ -1,0 +1,19 @@
+0.000000000	silence
+0.301859410	A, a, intro, (guitar
+4.830884353	a, guitar)
+9.056848072	a, (electric guitar
+13.150340136	a, electric guitar)
+17.638571428	z, (tapping)
+18.686031746	B, b, theme, (electric guitar
+22.870000000	b'
+27.062403628	c
+31.414217687	c'
+35.622222222	C, b, theme
+39.846054421	d
+44.102902494	d
+48.254195011	e
+52.518684807	D, d, theme
+56.815510204	d'
+58.909410430	f, outro, electric guitar)
+67.487573696	silence 
+69.646643990	end

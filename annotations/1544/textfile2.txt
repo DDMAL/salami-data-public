@@ -1,0 +1,4 @@
+1130	3140	"chorus A"
+3140	7862	"nothing"
+7862	9918	"chorus A"
+9918	16628	"nothing"

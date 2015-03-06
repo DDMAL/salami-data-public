@@ -1,0 +1,7 @@
+0	1090	"nothing"
+1090	3304	"chorus A"
+3304	5530	"chorus B"
+5530	12085	"nothing"
+12085	14418	"chorus A"
+14418	16725	"chorus B"
+16725	22721	"nothing"

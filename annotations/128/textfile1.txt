@@ -1,0 +1,20 @@
+0.000000000	silence
+0.383129251	A, a, main theme, (trumpet
+6.953174603	a'
+13.682290249	A, a, main theme
+20.339637188	a'
+26.993242630	B, b, secondary theme 
+33.831383219	b', trumpet)
+40.471405895	B, b, secondary theme
+47.138843537	b'
+53.784512471	A, a, main theme, (trumpet
+60.739365079	a', trumpet)
+67.482108843	C, c, tertiary theme
+74.117460317	c'
+80.561995464	C, c, tertiary theme, (trumpet
+86.923446712	c'
+93.505306122	A, a, main theme
+100.337687074	a'
+107.306621315	A, a, main theme
+114.053990929	a', trumpet) 
+126.014671201	end

@@ -1,0 +1,6 @@
+107	15575	"chorus A"
+15575	27769	"verse A"
+27769	30581	"verse B"
+30581	41615	"chorus A"
+41615	49022	"chorus B"
+49022	59073	"ending"

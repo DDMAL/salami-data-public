@@ -1,0 +1,28 @@
+0.000000000	silence
+0.078367346	A, a, intro, (bass
+8.081156462	a
+16.096757369	a
+24.109160997	a, bass)
+32.067732426	A, a, head, (strings)
+40.066507936	a, (voice
+48.104399092	a
+56.056575963	a
+64.113537414	a, voice)
+72.090068027	B, b, theme, (synthesizer
+80.052539682	b, synthesizer)
+84.080566893	A, a, head, (voice
+92.080748299	a
+100.120544217	a
+108.144376417	a, voice)
+112.077981859	B, b, theme, (synthesizer
+120.085895691	b, synthesizer)
+128.093968253	A, a, interlude
+136.086054421	a
+143.098412698	A, a, head, (voice
+151.065555555	a
+159.050907029	a
+167.129365079	a, voice)
+175.097596371	B, b, theme, (synthesizer
+183.121337868	b', outro, synthesizer)
+187.431473922	silence
+191.967619047	end

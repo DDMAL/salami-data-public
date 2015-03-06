@@ -1,0 +1,23 @@
+0.000000000	silence
+0.040816326	Z, #song restarted
+80.201723356	A, a, intro, (guitar
+88.473990929	b, guitar)
+96.739342403	A, a, chorus, (voice
+105.294557823	b
+113.955487528	B, c, verse
+122.035396825	c
+130.427256235	c, voice)
+138.867709750	C, d, bridge, (guitar)
+147.195600907	A, a, chorus, (voice
+155.699727891	b
+163.864308390	B, c, verse
+172.302789115	c
+180.622199546	c, voice)
+189.070340136	C, d, bridge, (guitar)
+197.638503401	A, a, chorus, (voice
+206.409795918	b, voice)
+215.094784580	A, a, outro, (guitar
+223.550612244	b, guitar)
+233.290839002	Z
+266.277551020	silence
+266.318367346	end

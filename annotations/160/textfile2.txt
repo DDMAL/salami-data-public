@@ -1,0 +1,13 @@
+0.000000000	silence
+0.000000000	Z
+0.859138321	A, a, main theme, (voice
+14.531133786	b
+26.633287981	B, c
+43.890362811	d, transition
+49.452290249	A', a', main theme
+57.729455782	b'
+70.089070294	e, cadential
+78.425034013	e', cadential, voice)
+84.471836734	a, post-cadential
+93.019138321	silence
+94.171746031	end

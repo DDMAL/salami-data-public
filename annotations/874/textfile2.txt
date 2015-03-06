@@ -1,0 +1,11 @@
+0.000000000	A, a, refrain, (horn
+12.634036281	b
+22.153310657	c
+36.218526077	c
+50.136643990	B, solo, horn)
+102.027777777	B, solo, (plucked string)
+149.768707482	B, solo, (bowed string)
+180.120929705	A, a, refrain, (horn
+191.821133786	c
+205.172471655	c, horn)
+217.835034013	end

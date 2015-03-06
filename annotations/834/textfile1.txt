@@ -1,0 +1,29 @@
+0.000000000	silence
+0.326530612	a, A, (accordion
+6.150544217	a, accordion)
+11.839024943	b, B, (choir
+19.300770975	b, choir)
+26.581405895	a, A, (accordion
+32.271065759	a, accordion)
+37.847165532	b, B, (choir
+45.108548752	b, choir)
+52.348458049	a, A, (accordion
+58.002947845	a, accordion)
+63.554195011	b, B, (choir
+70.956507936	b, choir)
+78.133265306	a, A, (accordion
+83.732335600	a, accordion)
+89.294126984	b, B, (choir
+96.572267573	b, choir)
+103.844943310	a, A, (accordion
+109.494852607	a, accordion)
+115.156621315	b, B, (choir
+122.524308390	b, choir)
+129.979002267	a, A, (accordion
+135.687823129	a, accordion)
+141.384807256	b, B, (choir
+148.797482993	b, choir)
+156.164240362	a, A, (accordion
+161.839410430	a, outro, accordion)
+169.452517006	silence
+170.434353741	end

@@ -1,0 +1,21 @@
+0.000000000	silence
+0.208979591	A, a, intro, (saxophone)
+8.647482993	B, b, verse, (voice
+17.111360544	c
+25.695623582	b
+34.247052154	C, d, chorus
+44.935215419	a
+53.375374149	B, b, verse
+62.079501133	c
+68.508367346	b
+77.206349206	C, d, chorus
+87.976485260	a, voice)
+96.456507936	D, e, instrumental, bridge, (saxophone)
+105.098820861	B, b, verse, (voice
+113.672607709	c
+122.457959183	b
+131.097573696	C, d, chorus
+141.975555555	a
+150.529478458	D', d', outro, fadeout, voice)
+169.165351473	silence
+173.279002267	end

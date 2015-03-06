@@ -1,0 +1,20 @@
+0.000000000	Silence
+0.882358276	A, a, intro
+4.783310657	b, (bagpipes
+13.142494331	b'
+21.640997732	B, c, Verse, (voice
+38.916643990	d, voice)
+59.977142857	g, transition
+68.698412698	B', c', Verse, (voice
+77.740748299	d'
+87.159863945	B', c', Verse
+96.236689342	d', voice)
+105.828321995	B', c', Solo, (guitar
+114.870045351	d', guitar), bagpipes)
+124.433310657	h, transition
+134.026734693	B', c', Verse, (voice
+144.003061224	d', (bagpipes
+153.597210884	B', c', Verse
+162.844625850	d'', voice), bagpipes)
+186.822970521	Silence
+191.822607709	End

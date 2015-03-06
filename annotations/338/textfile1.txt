@@ -1,0 +1,23 @@
+0.000000000	A, pre-intro, (spoken voice
+2.521587301	B, a, intro
+14.013424036	a, spoken voice)
+25.222925170	C, b, refrain, (voice
+36.346349206	c, voice)
+47.502970521	B, a, trans, (spoken voice)
+58.703265306	C, b, refrain, (voice
+69.846462585	c, voice)
+81.047437641	B', a, trans, (spoken voice)
+92.146031746	D, d, verse, (voice
+103.268956916	e, voice)
+114.495623582	B', a, trans, (spoken voice)
+125.691950113	D, d, verse, (voice
+136.712494331	e
+148.027074829	E, f, interlude
+165.214807256	D', d, verse
+175.862335600	e
+187.097641723	g
+198.186712018	E, f, interlude
+209.306893424	f
+220.576712018	F, outro, (vibes), voice)
+240.875623582	silence
+243.784195011	end

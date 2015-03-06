@@ -1,0 +1,19 @@
+0.000000000	silence
+0.000000000	A, a, intro, (trumpet
+25.508027210	B, b, head
+37.646122448	c
+50.638321995	d, trumpet)
+63.881723356	B, b, solo, (trombone
+76.885396825	c
+90.197596371	d, trombone)
+103.590952380	D, e, verse, (voice
+117.033265306	f
+130.536666666	g, voice)
+144.201746031	B, b, solo, (piano
+157.679070294	c
+171.207029478	d, piano)
+184.782675736	B, b, solo, (trumpet
+198.479727891	c
+212.222834467	d, outro, (piano), trumpet)
+253.707029478	silence
+257.550566893	end

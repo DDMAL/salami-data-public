@@ -1,0 +1,16 @@
+0.000000000	silence
+0.473469387	I', intro, (piano)
+8.697641723	E, verse, (voice
+19.326712018	A, voice)
+29.800725623	I, interlude, (piano)
+36.962267573	E, verse, (voice
+47.602199546	A, voice)
+58.202222222	I, interlude, (piano
+65.389705215	E, solo, (guitar)
+75.789410430	A, (piano
+87.579455782	I, interlude, piano)
+94.783854875	E, verse, (voice
+105.462471655	A, voice)
+115.950952380	I'', coda, (piano)
+124.865668934	silence
+128.348072562	end

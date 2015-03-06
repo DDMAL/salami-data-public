@@ -1,0 +1,36 @@
+0.000000000	silence
+0.359909297	I, i, intro, (strings)
+9.380861678	a, (oboe
+17.456258503	a
+25.406303854	a, oboe)
+33.366394557	a, (brass)
+41.399682539	a, (strings
+49.414353741	a
+57.342312925	a, strings)
+65.407596371	V, a, verse, (voice, (spoken
+73.358344671	a, spoken)
+81.310226757	a, voice)
+89.382335600	a, (spoken)
+97.328503401	V, a, instrumental, (strings
+105.391451247	a
+113.392063492	a, strings)
+121.423514739	V, a, verse, (voice)
+129.422154195	a, (spoken)
+137.350181405	V, a, instrumental, (strings)
+145.390226757	a, (synth)
+153.390249433	a, (strings)
+161.447188208	a, (synth)
+169.398276643	V, a, verse, (voice
+177.390340136	a
+185.318276643	a
+193.351065759	a, voice)
+201.423174603	V, a, coda, (strings)
+209.383786848	a, (guitar)
+217.390453514	a, (brass)
+225.397505668	a, (guitar)
+233.454399092	a, (brass)
+241.430362811	a, (guitar)
+249.430272108	a, (brass)
+257.411972789	a, fadeout, (bass)
+262.806530612	silence
+269.446122448	end

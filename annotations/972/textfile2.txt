@@ -1,0 +1,33 @@
+0.000000000	silence
+2.016825396	A, a, intro, (banjo
+8.349909297	a, banjo)
+14.564444444	B, b, intro, (violin
+20.683015873	b, violin)
+27.074965986	A, a, verse, (vocal
+33.396009070	a
+39.720113378	B, b, chorus
+46.047256235	b, vocal)
+52.455396825	A, a, solo, (violin
+58.671292517	a, violin)
+64.879501133	B, b, solo, (guitar
+71.191315192	b, guitar)
+77.327392290	A, a, verse, (vocal
+83.503129251	a
+89.584739229	B, b, chorus
+95.842312925	b, vocal)
+102.080725623	A, a, solo, (piano
+108.100793650	a, piano)
+114.101179138	B, b, solo, (banjo
+120.071836734	b, banjo)
+126.124739229	A, a, solo, (violin
+132.073446712	a, violin)
+138.212789115	B, b, solo, (guitar
+144.097210884	b, guitar)
+150.226145124	A, a, verse, (vocal
+156.291927437	a
+162.269342403	B, b, chorus
+168.360385487	b
+174.412675736	b', vocal)
+178.099977324	Z
+210.233469387	silence
+210.233469387	end

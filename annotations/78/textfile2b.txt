@@ -1,0 +1,7 @@
+0.000000000	silence
+0.696598639	A, exposition
+212.808820861	B, development
+274.261723356	C, recapitulation
+402.027369614	D, closing
+464.065306122	silence
+468.146235827	end

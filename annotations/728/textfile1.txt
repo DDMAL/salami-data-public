@@ -1,0 +1,38 @@
+0.000000000	silence
+0.391836734	A, pre-intro, (guitar
+2.929455782	B, a, intro
+12.908299319	a, guitar)
+22.836235827	D, c verse, (voice
+32.861882086	c
+42.875419501	C, b, chorus
+52.930000000	d
+62.852811791	D, c, verse
+72.832607709	c
+82.853106575	c, voice)
+92.864036281	B, a, interlude, (guitar, (flute
+102.847981859	a, guitar), flute)
+112.942312925	D, c, verse, (voice
+122.963809523	c
+132.948707482	c', voice)
+142.946281179	B, a, interlude, (guitar), (flute)
+152.930680272	D, c, verse, (voice
+162.984240362	c
+172.965283446	c
+182.952811791	c'
+192.973922902	E, f, bridge
+202.927981859	g, voice)
+212.959795918	B, a, interlude, (guitar), (flute)
+222.974603174	D, c, verse, (voice
+232.967551020	c
+242.933696145	c
+252.958979591	c, voice)
+262.975034013	B, a, interlude, (guitar
+272.968979591	a
+282.988412698	a, guitar)
+292.956099773	D, c, verse, (voice)
+302.923877551	B, a, interlude, (guitar
+312.884263038	a, guitar)
+322.968458049	B, a, outro, (flute
+332.969750566	a, fadeout
+342.830702947	a, flute)
+348.663605442	end

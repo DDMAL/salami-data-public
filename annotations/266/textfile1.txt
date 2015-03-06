@@ -1,0 +1,21 @@
+0.000000000	silence
+0.443492063	n, N, intro, (strings)
+5.126530612	m, (brass)
+11.534421768	a, A, (strings
+21.394308390	b, strings)
+31.310680272	c, (horns
+36.263083900	e, horns)
+41.006439909	b, (strings)
+50.906621315	a, B, (orchestra
+59.938662131	b, orchestra)
+68.591746031	c, (strings)
+73.573401360	e, (orchestra
+78.011678004	d, orchestra)
+87.083083900	a', C, (flute
+96.629229024	b'
+105.646916099	a'
+114.945646258	d', flute)
+123.833968253	d', (strings
+133.699002267	d'', strings), (orchestra)
+142.706122448	silence
+142.726326530	end

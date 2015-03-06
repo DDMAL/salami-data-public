@@ -1,0 +1,20 @@
+0.000000000	silence
+0.162539682	A, intro, (sitar)
+122.351020408	B, a, (voice
+145.395170068	b
+166.035941043	c, voice)
+187.983673469	C, d, interlude, (bowed string
+218.808163265	e, bowed string)
+240.806621315	D, (voice)
+286.444036281	E, f, interlude, (bowed string
+299.885714285	g, bowed string)
+316.800000000	F, (voice)
+364.911405895	G, interlude, (bowed string)
+397.616326530	H, (voice)
+430.704829931	I, h, interlude, (bowed string
+463.608163265	i, bowed string)
+479.771428571	J, outro, (voice)
+503.608163265	(spoken voice)
+539.667165532	Z
+609.534693877	silence
+611.519546485	end

@@ -1,0 +1,14 @@
+0.000000000	Silence
+0.696598639	A, a, violin
+18.436643990	b # faster tempo + new accompanimental inst.
+27.256462585	b'
+35.155011337	a
+52.128798185	A', a # tempo change
+63.884535147	b
+71.021700680	b'
+77.299229024	a
+90.163083900	A'', a, (lute # faster tempo + new lead inst.
+100.356643990	b
+106.556371882	b'
+112.105941043	a, violin, lute)
+123.992448979	End

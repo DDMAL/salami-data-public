@@ -1,0 +1,16 @@
+0.000000000	silence
+0.092879818	a, A, intro, (sitar)
+122.044081632	b, B', (low string)
+145.264036281	c, (voice)
+186.383673469	d, (sarangi)
+240.848979591	c, B, (voice)
+285.910204081	d, (sarangi)
+320.621133786	c, B, (voice)
+364.646167800	d, (sarangi)
+397.711383219	c, B, (voice)
+430.236734693	d, (sarangi)
+480.002902494	e, C, (voice)
+503.129977324	f, (spoken voice)
+540.212244897	g, D, outro, (nature sounds), (choir)
+609.570249433	silence
+611.514784580	end

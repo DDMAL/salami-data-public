@@ -1,0 +1,19 @@
+0.000000000	silence
+0.045714285	A, a, intro
+8.679591836	B, b, verse, (voice
+18.913061224	b
+28.805714285	C, c, chorus
+39.110680272	B, b, post-chorus, voice)
+48.911428571	D, b, interlude
+58.700907029	b
+68.955668934	B, b, verse, (voice
+79.213446712	b
+88.902131519	C, c, chorus
+99.075714285	B, b, post-chorus, voice)
+108.780385487	D, b', solo, (piano
+118.471836734	b', piano)
+128.125532879	C, c, chorus, (voice
+138.158004535	B, b, post-chorus, voice)
+148.053106575	D, b, outro
+159.304671201	Z
+179.562131519	end

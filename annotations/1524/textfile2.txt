@@ -1,0 +1,5 @@
+11723	12287	"chorus A"
+12287	12501	"nothing"
+12501	16633	"nothing"
+16633	17219	"chorus A"
+17219	24706	"nothing"

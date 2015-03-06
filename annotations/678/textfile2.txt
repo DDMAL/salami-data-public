@@ -1,0 +1,45 @@
+0.000000000	Z
+38.590453514	A, a, verse, (voice
+50.148117913	a, voice)  
+61.265532879	A, interlude, a, (guitar
+71.719841269	a, guitar)
+81.766553287	B, b, chorus, (voice
+91.844761904	b, voice)
+107.008979591	C, c, transition, (guitar
+116.843310657	c, guitar)
+126.693106575	D, d, verse, (voice
+137.121269841	d
+147.360612244	B, b', chorus
+157.407392290	b', voice)
+167.500272108	C, c, transition, (guitar
+177.388571428	c, guitar)
+187.241405895	D, d, verse, (voice
+197.552970521	d
+208.004489795	A, a, transition, voice)
+219.010975056	a, (guitar)
+228.974648526	B, b, chorus, (voice
+239.027641723	b, voice)
+254.249546485	E, e, solo, (piano
+264.846553287	e
+276.109274376	f
+286.648004535	g
+294.297006802	f'
+307.666643990	h
+317.602358276	i
+327.689954648	g', piano)
+345.603832199	K, k, verse, (voice
+362.606553287	k, voice)
+382.238798185	H, l, solo, (guitar
+394.376961451	l', guitar)
+411.484852607	K, k, verse, (voice
+428.590385487	I, m, chorus
+438.423560090	m', voice)
+455.691609977	J, n, transition
+466.202040816	o, (guitar
+476.825374149	p
+487.077687074	K, k, solo, guitar)
+514.301768707	K, k, verse, (voice
+531.443900226	I, m, chorus
+541.213492063	m', voice)
+562.317641723	Z
+592.040521541	end

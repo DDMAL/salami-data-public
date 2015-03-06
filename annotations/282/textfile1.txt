@@ -1,0 +1,29 @@
+0.000000000	silence
+0.464399092	A, a, intro, (strings)
+18.901043083	B, b, theme, (tenor)
+44.176167800	c, (chorus
+59.799274376	d, chorus)
+97.857641723	b, (soprano
+125.527074829	c, (chorus
+140.962358276	d', chorus)
+186.398321995	b', (soprano)
+218.557505668	e, (chorus)
+233.980294784	C, f, theme, (soprano
+250.211678004	g, soprano)
+263.308321995	h, (woodwinds), (chorus
+305.435283446	i, chorus)
+322.525170068	D, j, theme, (soprano
+337.125238095	k, soprano)
+351.440476190	l, (chorus
+391.439342403	m, chorus)
+410.343038548	n, (bass), (soprano)
+443.236009070	o, (alto)
+470.442199546	p, (soprano)
+504.811337868	E, trans, o, (strings)
+522.216780045	F, p, coda, (chorus
+537.082789115	q, chorus)
+559.297891156	r, (strings)
+578.548390022	s, (soprano)
+615.514557823	r', (strings)
+652.666485260	silence
+663.014444444	end

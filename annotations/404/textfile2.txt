@@ -1,0 +1,24 @@
+0.000000000	silence
+0.261224489	A, a, intro, (trumpet
+18.406598639	a
+34.133333333	A, a, refrain
+50.596281179	a
+67.361088435	a
+84.195555555	B, b, theme
+100.658503401	b
+117.326326530	b, trumpet)
+125.321065759	c, interlude, (keyboard)
+141.439727891	A, a, refrain, (trumpet
+158.941768707	C, d, instrumental, solo
+167.346213151	e
+174.637278911	f
+192.911383219	g
+210.982970521	B, b, theme
+224.549387755	b
+235.206621315	b', trumpet)
+251.332789115	D, h, transition, (bass)
+260.760090702	b', (trumpet)
+273.902585034	h, interlude, (bass)
+334.251247165	A, a, outro, (trumpet)
+352.163265306	silence
+358.034285714	end

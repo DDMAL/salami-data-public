@@ -1,0 +1,14 @@
+0.000000000	silence, #fragment?
+0.028571428	A, a, intro, (harpsichord
+8.791519274	b
+19.203401360	c
+27.701405895	B, d, theme
+33.831473922	d
+42.331337868	e, transition, harpsichord)
+56.427460317	B', d, theme, (guitar
+64.037913832	d, guitar)
+75.098571428	f, transition, (harpsichord
+88.885986394	C, g, theme
+106.486712018	y, outro, harpsichord)
+113.359818594	silence
+115.574625850	end

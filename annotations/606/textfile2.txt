@@ -1,0 +1,16 @@
+0.000000000	silence
+0.395283446	A, intro, (voice
+23.329546485	B, a, intro
+35.384036281	a'
+47.426530612	C, c, verse
+59.523287981	c
+71.635963718	B, a', refrain
+83.699954648	D, d, bridge
+95.838390022	C, c, verse
+107.910680272	B, a, interlude
+119.952312925	D, d, bridge
+132.055532879	C, c, verse
+144.141519274	B, a, outro, fadeout
+156.070680272	a, voice)
+159.339002267	silence
+162.178390022	end

@@ -1,0 +1,27 @@
+0.000000000	silence
+0.139319727	A, a, main theme, (strings
+3.709342403	b
+7.188027210	b, strings)
+10.860090702	B, c, theme, (recorder
+14.447687074	c
+18.253219954	d
+21.637142857	e, recorder)
+25.091746031	A', a, main theme, (strings
+28.556009070	b, strings)
+32.387936507	A, a, main theme, (recorder
+35.923718820	b
+39.315986394	b, recorder)
+43.790521541	A, a, main theme, (strings
+47.476530612	b
+50.923945578	b, strings)
+54.764421768	B, c, theme, (flute
+58.443809523	c
+61.763741496	d
+65.340272108	e, flute)
+68.803990929	A', a, main theme, (strings
+72.493582766	b, strings)
+76.051972789	A, a, main theme, (flute
+79.534126984	b
+82.947959183	b, flute)
+87.948321995	silence
+92.606666666	end

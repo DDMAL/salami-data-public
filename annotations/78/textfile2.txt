@@ -1,0 +1,18 @@
+0.000000000	silence
+0.696598639	A, a, intro, (violin
+27.885714285	B, b, main theme, violin)
+84.610362811	D, c, secondary theme, (piano)
+114.806485260	d, (violin)
+175.264217687	A', a', trans, (piano
+212.808820861	E, e, development, (violin
+229.701927437	e', piano)
+251.070408163	f
+274.261723356	B, b, main theme
+323.069387755	D, c, secondary theme
+349.126530612	d'
+402.027369614	F, g, closing, violin)
+415.020408163	g, (piano)
+427.734784580	g', (violin
+447.490136054	h, violin)
+464.065306122	silence
+468.146235827	end

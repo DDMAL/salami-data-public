@@ -1,0 +1,15 @@
+0.000000000	silence
+1.024557823	A, intro, (piano)
+4.327346938	B, a, main theme, (violin
+16.148049886	b
+27.900929705	a
+40.173333333	b
+51.437392290	C, c, contrasing middle
+63.031428571	d
+73.859160997	e
+86.068095238	B, a, main theme
+97.639591836	b', violin)
+134.095238095	a, (piano)
+149.490068027	f, post-cadential, (violin)
+165.825442176	silence
+173.058503401	end

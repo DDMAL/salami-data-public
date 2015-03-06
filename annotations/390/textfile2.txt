@@ -1,0 +1,24 @@
+0.000000000	silence
+0.000000000	X, (organ
+0.420249433	A, intro, (organ)
+11.186326530	B, main theme, (piano, (spoken
+17.348049886	X, piano)
+22.609727891	X, (organ)
+32.722086167	B, main theme, (piano
+38.193877551	X, piano)
+43.815918367	X, (organ)
+53.201632653	C, second theme
+59.706825396	X
+65.155192743	C, second theme
+73.403582766	X, spoken)
+83.080997732	B, main theme, (organ
+88.736349206	X
+94.049977324	X
+97.663129251	X, organ)
+103.809569160	B, main theme, (piano, (spoken
+109.598185941	X, piano)
+122.554920634	D, closing theme, (organ, spoken)
+137.097755102	X, outro
+142.769705215	X, outro, organ)
+148.241995464	silence
+150.057346938	end

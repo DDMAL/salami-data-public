@@ -1,0 +1,7 @@
+# small cap letter do not apply here
+0.000000000	silence
+1.603015873	A, (strings
+223.468843537	B
+362.166984126	C, strings)
+543.950657596	silence
+544.039274376	end

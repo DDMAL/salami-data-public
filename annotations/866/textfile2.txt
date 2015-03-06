@@ -1,0 +1,16 @@
+0.000000000	silence
+0.156734693	A, y, intro
+13.026394557	B, a, verse, (voice
+31.718458049	a
+47.652290249	b
+59.952562358	B, a, verse
+75.854671201	b
+85.519092970	a, voice)
+92.412131519	C, c, (spoken)
+106.588231292	d, refrain, (voice
+112.705328798	B, a, verse
+130.496054421	a, voice)
+153.785759637	C, c, (spoken)
+185.357732426	d, refrain, outro, (voice)
+193.677641723	silence
+197.485714285	end

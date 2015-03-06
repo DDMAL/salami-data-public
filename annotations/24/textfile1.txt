@@ -1,0 +1,20 @@
+0.000000000	silence
+0.952018140	I, i, intro, (synth)
+33.856485260	j, (accordion
+44.675192743	j
+54.868752834	A, a, head
+65.034580498	b
+75.303650793	A, a, head
+85.560068027	b, accordion)
+95.598208616	A, a, improvisation, (guitar
+105.783673469	b, guitar)
+115.783650793	A, a, head, (organ
+125.891383219	b, organ)
+135.823854875	A, a, head, (guitar
+145.887777777	b
+155.875578231	A, a, coda
+165.889795918	b, guitar)
+175.881201814	a, (accordion
+186.365011337	b, fadeout, accordion)
+200.035419501	silence
+202.903922902	end

@@ -1,0 +1,38 @@
+0.000000000	silence
+0.047959183	A, f, intro, (keyboard
+7.519138321	f, keyboard)
+14.927120181	g, (guitar
+22.255192743	g, guitar)
+29.663764172	C, c, chorus, (accordion
+37.072063492	c, accordion)
+44.415124716	V, a, verse, (voice
+51.799206349	a
+59.183310657	a
+66.615147392	a
+73.959523809	b
+81.359455782	b, voice)
+88.778140589	C, c, chorus, (accordion
+96.183106575	c, accordion)
+103.527596371	V, a, verse, (voice
+110.887210884	a
+118.255102040	a
+125.631224489	a
+133.049886621	b
+140.427052154	b, voice)
+147.826077097	A', f, interlude, (keyboard
+155.199455782	f, keyboard)
+162.554081632	g', (accordion
+169.962426303	g', accordion)
+177.330566893	V, a, verse, (voice
+184.778344671	a
+192.142176870	a
+199.507301587	a
+206.947052154	b
+214.314331065	b, voice)
+221.706213151	C, c, chorus, (accordion
+229.066417233	c, accordion)
+236.467006802	D, c', coda, (voice
+243.882471655	c', voice)
+251.258435374	f, (keyboard)
+260.266190476	silence
+265.075578231	end

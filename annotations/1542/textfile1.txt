@@ -1,0 +1,25 @@
+0.000000000	A, a, intro, (flute
+8.929478458	a'
+17.569319727	B, b, head, (muted trumpet
+26.219138321	c
+34.659365079	d
+43.216848072	e, flute), muted trumpet)
+51.595192743	C, f, trans, (horns
+59.990975056	g, horns)
+68.159886621	B, b, head, (flute, (muted trumpet
+76.462607709	c
+84.793809523	d
+93.104399092	e, flute)
+101.488004535	D, h, bridge, (horns
+109.864421768	i
+117.969773242	j
+126.230816326	k, horns), muted trumpet)
+134.365147392	C, f, solo, (sax
+142.536417233	g, sax)
+150.698004535	B, b, head, (flute, (muted trumpet
+159.115034013	c
+167.392653061	d
+175.756825396	e'
+184.075238095	e'', flute), muted, trumpet)
+199.847891156	silence
+204.676916099	end

@@ -1,0 +1,27 @@
+0.000000000	silence
+0.371519274	A, a, verse, (voice
+6.090022675	B, b, chorus
+11.240521541	c
+16.512607709	A, a, verse
+21.842426303	B, b, chorus
+26.912993197	c
+32.202086167	A, a, verse
+37.439115646	B, b, chorus
+42.554875283	c, voice)
+47.738185941	C, a, instrumental, solo, (saxophone
+52.849047619	b
+58.008503401	a
+63.048911564	C, a, instrumental, solo
+68.210090702	b
+73.330498866	c, saxophone)
+78.498299319	A, a, verse, (voice
+83.836439909	B, b, chorus
+88.948707482	c
+94.224671201	A, a, verse
+99.466870748	B, b, chorus
+104.592947845	c
+109.744512471	B', a, chorus, outro
+114.856802721	b
+119.992925170	c', voice)
+127.137959183	silence
+129.869705215	end

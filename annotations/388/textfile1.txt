@@ -1,0 +1,14 @@
+0.000000000	silence
+0.226394557	I, intro, (percussion)
+8.995850340	A, (synth
+19.045578231	X
+29.038231292	X 
+39.109591836	=, synth)
+51.098775510	silence # end? This is two songs on one track
+52.832653061	B, (strings
+62.079478458	=
+69.323129251	=
+74.939206349	B'
+84.069297052	=, strings)
+96.226893424	silence
+97.752335600	end
