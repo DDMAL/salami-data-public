@@ -11,7 +11,7 @@
 106.795827664	=, voice)
 121.018117913	A, solo, (guitar)
 135.214535147	C, chorus, (voice
-149.391995464	C', verse #verse-cum-chorus
+149.391995464	C', verse
 163.599773242	=
 177.810816326	C', voice)
 192.000907029	V, outro, (guitar

@@ -1,5 +1,5 @@
 0.000000000	silence
-0.046439909	A, a, intro, (guitar, (trombone, #seems like the beginning was cut off
+0.046439909	A, a, intro, (guitar, (trombone
 4.024263038	a
 10.150136054	a, guitar), trombone)
 16.327981859	A, a, refrain, (voice

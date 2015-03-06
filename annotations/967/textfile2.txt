@@ -66,7 +66,7 @@
 428.190476190	A, a, bridge
 433.190476190	a
 438.246598639	a, vocal)
-443.202448979	g, trans #sounds like someone got lost ;)
+443.202448979	g, trans
 450.588390022	S, s, solo, (guitar
 455.479977324	s
 460.504852607	o, guitar)

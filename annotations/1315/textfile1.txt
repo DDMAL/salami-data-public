@@ -21,6 +21,6 @@
 168.891655328	A, a, instrumental, (guitar)
 177.402335600	C, c, chorus, outro, (voice
 186.026507936	c
-194.538458049	c, voice), #seems cut off
+194.538458049	c, voice)
 203.074693877	silence
 211.983673469	end

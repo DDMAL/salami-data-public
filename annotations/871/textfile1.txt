@@ -1,5 +1,5 @@
 0.000000000	silence
-0.000000000	Z, (background noise), #sounds like on a train
+0.000000000	Z, (background noise)
 11.447437641	A, a, (old voice
 16.761269841	b
 24.081247165	c, (child voice

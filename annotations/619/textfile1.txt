@@ -1,5 +1,5 @@
 0.000000000	silence
-0.185759637	X, x, intro, (counting)
+0.185759637	W, w, intro, (counting)
 3.209795918	y, (brass)
 8.336575963	A, a, verse, (vocal
 13.584376417	a

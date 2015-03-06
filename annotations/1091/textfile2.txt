@@ -1,6 +1,6 @@
 0.000000000	silence
-1.113083900	A, a, intro, (acoustic guitar
-5.080975056	b, acoustic guitar)
+1.113083900	A, a, intro, (acoustic_guitar
+5.080975056	b, acoustic_guitar)
 9.083990929	A, a, intro, (guitar
 13.121156462	b
 17.106893424	a
@@ -47,12 +47,12 @@
 180.129705215	b'
 184.161791383	b, vocal)
 193.273469387	Z
-196.326530612	E, e #jamming
+196.326530612	E, e
 211.602585034	Z
-328.215895691	A, a, intro, (acoustic guitar #outtake
+328.215895691	A, a, intro, (acoustic_guitar
 332.999206349	b
 337.665782312	a
-341.474489795	c, acoustic guitar)
+341.474489795	c, acoustic_guitar)
 344.620408163	Z
 362.866938775	end
 362.866938775	silence

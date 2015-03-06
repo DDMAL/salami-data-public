@@ -1,7 +1,7 @@
 0.000000000	silence
 0.278639455	A, intro
 6.406485260	X
-12.504467120	A, verse, (voice, #this could also be read as three bars of 2 and two bars of 3, rather than as a hemiola
+12.504467120	A, verse, (voice
 18.591836734	X
 24.732176870	=
 30.903809523	A, verse

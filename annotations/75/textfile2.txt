@@ -1,4 +1,4 @@
-0.000000000	Z # very short leftover from previous track
+0.000000000	Z
 0.116099773	A, a, intro
 4.179591836	a', (strings)
 10.193560090	B, b, Main theme, (oboe)

@@ -1,5 +1,5 @@
 0.000000000	silence
-0.040816326	A, a, intro, (drums, #this is probably a drum solo within a larger piece
+0.040816326	A, a, intro, (drums
 7.709024943	b
 18.587687074	B, d, solo
 25.809092970	d
@@ -20,6 +20,6 @@
 141.012426303	d
 148.326712018	d
 155.780317460	d
-163.117823129	e, outro, drums), #cut off?
+163.117823129	e, outro, drums)
 201.963265306	silence
 202.008208616	end

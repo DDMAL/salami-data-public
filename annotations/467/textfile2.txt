@@ -32,10 +32,10 @@
 226.984761904	e
 237.849229024	e
 248.704988662	C', d, Head, (sax), (trumpet)
-252.273106575	f, Solo, (drums) # "f" occupies formal space of "c"
+252.273106575	f, Solo, (drums)
 259.297233560	d, Head, (sax), (trumpet)
 262.873106575	f, Solo, (drums
-270.040816326	E, g, Solo # "E" and "g" occupy formal space of "D" and "e"
+270.040816326	E, g, Solo
 280.716462585	g, drums)
 291.386167800	B, b, Head, (sax, (trumpet
 295.175986394	c

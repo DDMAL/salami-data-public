@@ -16,7 +16,7 @@
 66.312675736	c
 68.940204081	B, b, verse
 74.283514739	c
-76.988979591	C, c, pre-chorus, outro, voice), #cut off
+76.988979591	C, c, pre-chorus, outro, voice)
 80.698049886	Z
 160.409251700	silence
 160.444081632	end
