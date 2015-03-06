@@ -1,0 +1,31 @@
+0.000000000	Silence
+0.163265306	A, a, Intro, (synthesizer)
+12.505963718	B, c, Verse, (voice
+20.823673469	d
+29.108639455	E, e, Pre-Chorus
+37.458866213	f
+49.815510204	C, g, Chorus
+60.189546485	h
+68.475283446	i, voice)
+76.746643990	A, a, Transition, (synthesizer)
+81.714195011	B, c, Verse, (voice
+89.099909297	d
+97.411995464	E, e, Pre-Chorus
+105.754217687	f
+118.236575963	C, g, Chorus
+128.644512471	h
+136.870997732	i, voice)
+145.017120181	C, g', Solo, (guitar
+157.585532879	h
+165.831791383	i
+174.254195011	A', a', guitar)
+178.247596371	E, e, Pre-Chorus, (voice
+186.529229024	f
+198.982811791	C, g, Chorus
+209.246281179	h
+217.503605442	i
+225.905396825	i', voice)
+229.996258503	A, a, Outro, (synthesizer
+238.300385487	a', synthesizer)
+245.505759637	Silence
+248.008231292	End
