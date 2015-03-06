@@ -1,7 +1,7 @@
 0.000000000	Silence
 0.208979591	A, a, Intro
 9.923764172	B, b, (synth trumpet)
-24.357732426	b, Verse, (vocals) # hard to impose Verse/Chorus structure here; Verse/Bridge seems more appropriate, but still farfetched...
+24.357732426	b, Verse, (vocals)
 34.004716553	b', (synth trumpet)
 43.653514739	c, (vocals)
 55.757346938	b, (synth trumpet)

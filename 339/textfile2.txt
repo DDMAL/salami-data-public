@@ -7,7 +7,7 @@
 29.867913832	=
 35.795986394	X
 41.726712018	X
-47.691088435	A, main theme, #shifted to new key
+47.691088435	A, main theme
 53.603378684	=
 59.547392290	X
 65.531179138	X, synth)
@@ -27,7 +27,7 @@
 148.710204081	=
 154.563242630	X
 160.595124716	X, guitar)
-166.400000000	D, third theme, #variation of main theme, slight overlap from prevoius material
+166.400000000	D, third theme
 171.811292517	=
 176.482970521	D, third theme
 181.204807256	=

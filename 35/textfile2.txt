@@ -1,5 +1,4 @@
 0.000000000	C, intro, (guitar
-0.000000000	silence #only did one layer for this one, didn't make sense to divide it further
 7.130022675	D, intro, guitar)
 11.474988662	A, verse, (vocal
 21.460385487	B, verse, vocal)

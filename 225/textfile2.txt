@@ -1,5 +1,5 @@
 0.000000000	silence
-0.537573696	A, a #I marked the verses of the rondeau with different text as A' or B', even though the music is the same
+0.537573696	A, a
 17.945578231	B, b
 27.421541950	c
 38.942267573	A', a'

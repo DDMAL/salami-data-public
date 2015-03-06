@@ -43,6 +43,6 @@
 256.073673469	L, l, outro, (piano
 261.334036281	m, piano)
 266.694512471	l, (synthesizer
-272.012131519	n
+272.012131519	n, synthesizer)
 286.886235827	silence
 291.333922902	end

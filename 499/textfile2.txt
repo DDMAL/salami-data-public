@@ -32,7 +32,7 @@
 467.466870748	k
 484.778253968	k
 502.732176870	k, trumpet)
-523.912448979	K, k, improvisation, (flugelhorn #flugelhorn?
+523.912448979	K, k, improvisation, (flugelhorn
 543.479569160	k
 554.839863945	k
 571.140952380	k

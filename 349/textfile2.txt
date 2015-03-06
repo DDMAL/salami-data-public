@@ -1,6 +1,6 @@
 0.000000000	silence
 0.029024943	C, intro
-13.746213151	A, main theme, (keyboard, #subtle changes, additive
+13.746213151	A, main theme, (keyboard,
 21.792426303	=
 29.744353741	A, main theme
 37.744467120	=

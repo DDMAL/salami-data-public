@@ -1,7 +1,7 @@
 0.000000000	silence
 0.394739229	A, intro, (brass
 3.983673469	=, brass)
-7.457392290	B, first theme, (guitar, #not using main theme
+7.457392290	B, first theme, (guitar
 10.750907029	=
 14.037755102	=
 17.361133786	X

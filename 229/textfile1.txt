@@ -1,5 +1,5 @@
 0.000000000	silence
-0.502494331	A, a, verse, (voices, #verse and chorus labels very anachronistic, but I thought theme was not accurate
+0.502494331	A, a, verse, (voices
 8.377936507	b
 15.978140589	c
 24.311791383	B, d, verse

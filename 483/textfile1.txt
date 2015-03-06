@@ -7,7 +7,7 @@
 24.913514739	d
 29.812925170	e
 34.456916099	f, brass)
-39.402766439	H, a, improvisation, (male scat 1) # male scat 1 and 2 trade 8ths ok?
+39.402766439	H, a, improvisation, (male scat 1)
 44.139637188	b, (male scat 2)
 48.969387755	c, (male scat 1)
 53.683038548	d, (male scat 2)

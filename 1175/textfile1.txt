@@ -24,7 +24,7 @@
 280.671768707	B, b, bridge, (guitar
 293.388004535	A, a, head
 306.973832199	a
-320.470249433	C, c, bridge, #same as A, but in 8, not 7
+320.470249433	C, c, bridge
 334.838004535	C, c, instrumental, solo
 349.645260770	c
 364.589410430	c

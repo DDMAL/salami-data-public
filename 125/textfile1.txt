@@ -1,5 +1,5 @@
 0.000000000	silence
-0.668299319	A, a, main theme, (harpsichord, #subject
+0.668299319	A, a, main theme, (harpsichord
 10.099297052	a
 21.627392290	a
 32.156281179	a

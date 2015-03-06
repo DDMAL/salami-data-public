@@ -1,4 +1,4 @@
-0.000000000	Y, y #from previous song
+0.000000000	Y, y
 0.000000000	silence
 3.413333333	A, a, intro, (banjo
 9.584125000	a, banjo)

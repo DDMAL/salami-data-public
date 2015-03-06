@@ -11,7 +11,7 @@
 75.612630385	h
 86.334693877	i
 92.681655328	j, voice)
-101.028571428	k, D, outro, (strings #this feels more like an interlude to a repetition of A B C
+101.028571428	k, D, outro, (strings
 109.505306122	l, strings)
 115.914013605	silence
 116.098117913	end

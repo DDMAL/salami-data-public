@@ -1,6 +1,6 @@
 0.000000000	silence
 0.394739229	A, a, intro, (guitar)
-21.919637188	B, b, verse, (voice, #not segmented on downbeats due to rubato, very difficult to tell if sections are similar
+21.919637188	B, b, verse, (voice
 30.696780045	c
 38.661224489	d
 52.825396825	B, b, verse

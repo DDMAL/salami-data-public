@@ -2,7 +2,7 @@
 0.000000000	A', intro
 5.995374149	A, intro
 11.729410430	X
-17.438843537	B, verse, (rap, #freestyling, letter labels are loose
+17.438843537	B, verse, (rap
 23.119365079	X
 28.871156462	X
 34.573446712	X, bridge

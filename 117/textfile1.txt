@@ -11,5 +11,5 @@
 42.383582766	d'
 50.015782312	A', a, theme
 55.285850340	a', outro, strings)
-61.596802721	silence, #approximate
+61.596802721	silence
 65.319909297	end
