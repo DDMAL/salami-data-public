@@ -1,13 +1,18 @@
-SALAMI Data Set version 1.1.1
-1.1 Released 14 March 2012
-    Updated 21 April 2012
+SALAMI Data Set version 1.2
+
+Released as 1.1 14 March 2012
+Updated (1.1.1) 21 April 2012
+Released as 1.2 25 Sept 2012
 
 ~@@@@~
 
-Changes from version 1.1:
+Changes made in update to version 1.2:
+-- parsed version of all annotations included
+
+Changes made in update to version 1.1.1:
 -- Metadata for Isophonics files were all incorrect (SALAMI ID #1600-1654), and have been changed. Thanks to Florian Kaiser for spotting the errors.
 
-Changes from version 1.0:
+Changes made in update to version 1.1:
 -- 28 Isophonics annotation files added (SALAMI ID #1600-1654)
 -- additional metadata files with separate readme
 
@@ -22,13 +27,15 @@ http://creativecommons.org/publicdomain/zero/1.0/legalcode
 However, if publishing work based on this data, we kindly ask you to cite the following paper describing its production and contents:
 
 Jordan B. L. Smith, J. Ashley Burgoyne, Ichiro Fujinaga, David De Roure, and J. Stephen Downie. 2011. Design and creation of a large-scale database of structural annotations. Proceedings of the International Society for Music Information Retrieval Conference. Miami, FL. 555-60.
-http://salami.music.mcgill.ca/wp-content/uploads/2012/02/SALAMI_ISMIR_2011.pdf
+
+Detailed documentation, up to date links, and all other information about the SALAMI project can be found at the SALAMI homepage:
+http://salami.music.mcgill.ca
 
 ~@@@@~
 
 The files included in this data set are:
 
-data.zip               [contains annotations files]
+data.zip               [contains annotation files]
 metadata.csv           [describes content of files]
 readme.txt             [explains package]
 readme_metadata.txt    [explains additional metadata]
@@ -67,6 +74,14 @@ XEQS1                     Was the first annotation converted automatically from 
 XEQS2                     Was the second annotation converted automatically from X/= notation? X indicates yes; 0 indicates no.
 
 Annotations are provided as a single file in the format in which they were written. To understand how to parse this format, please look up the Annotator's Guide at salami.music.mcgill.ca.
+
+~@@@@~
+
+New for version 1.2: parsed version of annotations.
+
+A Ruby script was used to parse the annotations into separate files for the large-scale music similarity labels, small-scale music similarity labels, and function labels. The script which did the parsing is available on the SALAMI website but is not part of this package. Instrumentation labels are not yet included.
+
+Note that the parsed annotations do not correct any errors in the annotations, which still exist where they may.
 
 ~@@@@~
 
