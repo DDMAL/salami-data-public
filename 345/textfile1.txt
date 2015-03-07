@@ -8,5 +8,4 @@
 31.861950113	g
 37.057936507	B, Main_Theme, Theme, Outro, (organ, (spoken, h
 42.190068027	Fade-out, out, Outro, organ), spoken), i
-47.425147392	Silence
 47.425147392	End
