@@ -1,5 +1,5 @@
 0.0	Silence
-0.032653061	spoke_voice
+0.032653061	spoken_voice
 16.370068027	Intro
 36.885963718	Verse
 52.662857142	Chorus
