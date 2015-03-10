@@ -1,5 +1,5 @@
 0.000000000	Silence
-0.333854875	z, spoken_voice
+0.333854875	z, Z, spoken_voice
 9.510340136	w, A, (violin
 10.959818594	a
 17.825124716	a

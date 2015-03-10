@@ -1,5 +1,5 @@
 0.000000000	Silence
-0.049342403	z, Intro, (spoken voice)
+0.049342403	z, Z, Intro, (spoken voice)
 3.281632653	a', A, Intro, (bag pipes
 7.883174603	a
 12.436621315	a
