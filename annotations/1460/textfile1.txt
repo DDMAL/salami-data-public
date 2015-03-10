@@ -1,5 +1,5 @@
 0.000000000	Silence
-0.023219954	z, stage_sounds
+0.023219954	z, Z, stage_sounds
 5.224489795	n, A, Intro, (piano
 59.118004535	a
 64.388662131	b

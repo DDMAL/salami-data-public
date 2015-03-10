@@ -1,5 +1,5 @@
 0.000000000	Silence
-0.032653061	z, spoke_voice
+0.032653061	z, Z, spoken_voice
 16.370068027	c', B', Intro, (banjo
 21.655464852	d
 24.963129251	c
@@ -80,6 +80,6 @@
 360.746870748	c
 364.050634920	e, voice)
 369.166213151	q, Outro, (guitar)
-371.461224489	z, applause
+371.461224489	z, Z, applause
 417.452698412	Silence
 417.488979591	End

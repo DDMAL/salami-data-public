@@ -1,5 +1,5 @@
 0.000000000	Silence
-0.040816326	z, crowd_sounds
+0.040816326	z, Z, crowd_sounds
 17.507845804	n, D', Intro, (guitar)
 21.681632653	m, (drums)
 23.080634920	a, (guitar
@@ -70,6 +70,6 @@
 184.283129251	b
 186.828458049	b
 189.339274376	t, Outro, guitar)
-205.663854875	z, applause
+205.663854875	z, Z, applause
 256.122448979	Silence
 256.162993197	End

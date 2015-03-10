@@ -1,5 +1,5 @@
 0.000000000	Silence
-0.040816326	z, stage_sounds
+0.040816326	z, Z, stage_sounds
 5.485714285	a, A, Verse, (voice
 8.251723356	a
 10.855555555	a
@@ -52,6 +52,6 @@
 169.965328798	a
 172.509750566	a, guitar)
 175.056938775	a', Outro, (voice)
-177.181700680	z, applause
+177.181700680	z, Z, applause
 187.546122448	Silence
 187.562086167	End
