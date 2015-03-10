@@ -67,4 +67,3 @@
 280.455736961	A, a, Outro
 284.695691609	a, electric guitar)
 294.699977324	End
-294.699977324	Silence
