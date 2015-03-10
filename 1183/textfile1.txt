@@ -1,5 +1,5 @@
 0.000000000	Silence
-0.046439909	z, stage_speaking
+0.046439909	z, Z, stage_speaking
 6.889795918	a, A, Intro, (guitar
 12.274081632	b
 17.382448979	a
@@ -33,6 +33,6 @@
 167.721337868	a
 172.979682539	b, voice)
 178.444421768	a', Outro, (guitar)
-186.549115646	z, applause
+186.549115646	z, Z, applause
 213.506122448	Silence
 213.528435374	End
