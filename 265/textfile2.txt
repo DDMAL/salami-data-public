@@ -2,7 +2,7 @@
 0.034920634	I, i, Intro, (cello)
 54.093174603	J, c, Intro
 72.668798185	M, m, Main_Theme, (cello
-87.618480725	c, i, Interlude
+87.618480725	c, Interlude
 114.113809523	m, Main_Theme
 142.360839002	t, Transition, cello)
 155.166326530	S, s, Secondary_Theme
@@ -14,14 +14,14 @@
 230.554625850	s', Secondary_Theme
 244.253650793	w, Interlude
 274.521768707	M', m, Main_Theme
-289.119682539	c, i, Interlude
+289.119682539	c, Interlude
 316.851383219	m, Main_Theme
 332.929183673	t', Transition
 350.204285714	S, s, Secondary_Theme
 354.982721088	v', Interlude
 380.396417233	s, Secondary_Theme
 385.399387755	y, Interlude
-404.330249433	C, c, m, Outro
+404.330249433	C, m', Outro
 434.767097505	d, outro, cello)
 440.307074829	c, Coda
 449.982222222	Silence
