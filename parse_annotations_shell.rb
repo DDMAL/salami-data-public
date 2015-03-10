@@ -1,4 +1,4 @@
-files = Dir.glob("/Users/blahblahblah/salami-data-private/annotations/*/*.txt") 
+files = Dir.glob("/Users/blahblahblah/salami-data-public/annotations/*/*.txt") 
 files.each do |f|
    if f.split(".")[-1]=="txt" then
        puts f
