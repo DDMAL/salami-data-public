@@ -1,20 +1,27 @@
-SALAMI Data Set version 1.2
+SALAMI Data Set version 1.9
+11 March 2015
 
-Released as 1.1 14 March 2012
-Updated (1.1.1) 21 April 2012
+Released as 1.9 11 March 2015
 Released as 1.2 25 Sept 2012
+Updated (1.1.1) 21 April 2012
+Released as 1.1 14 March 2012
 
 ~@@@@~
 
+Changes made in update to version 1.9:
+-- Now hosted on GitHub
+-- Revision history reaches back to raw input from annotators
+-- Many, many formatting errors corrected (such as misplaced end times, and annotations erroneously copied into two places). Thanks Thomas Grill and Jan Schlüter for helping to identify errors
+
 Changes made in update to version 1.2:
--- parsed version of all annotations included
+-- Parsed version of all annotations included
 
 Changes made in update to version 1.1.1:
 -- Metadata for Isophonics files were all incorrect (SALAMI ID #1600-1654), and have been changed. Thanks to Florian Kaiser for spotting the errors.
 
 Changes made in update to version 1.1:
 -- 28 Isophonics annotation files added (SALAMI ID #1600-1654)
--- additional metadata files with separate readme
+-- Additional metadata files with separate readme
 
 ~@@@@~
 
@@ -90,3 +97,38 @@ Note that some of the music for which we provide annotations was drawn from the 
 Masataka Goto, Hiroki Hashiguchi, Takuichi Nishimura, and Ryuichi Oka. 2002. RWC Music Database: Popular, Classical, and Jazz Music Databases. Proceedings of the International Conference on Music Information Retrieval. Paris, France. 287-8.
 
 Masataka Goto, Hiroki Hashiguchi, Takuichi Nishimura, and Ryuichi Oka. 2003. RWC Music Database: Music Genre Database and Musical Instrument Sound Database. Proceedings of the International Conference on Music Information Retrieval. Baltimore, MD. 229-30.
+
+
+
+
+
+       .+++++~ .                        
+     .I$77$OII==+?=.                    
+   .7$ZZZZ7Z?=~~+===+                   
+  .I$ZZZ$Z?==~=~==~~=+                  
+  .7$$ZZ77=+===~~~.~:=                  
+  .+ZZ$ZZ?~=~~~:=~=~=?                  
+ ...$$7$7~+=~~~~=:=~~:                  
+ ....7$7$:=,~:~..::=~.                  
+  ..,,~77++++~~~~=?=~                   
+   ..:=+IIII:=::~=~.     ....  ..       
+      .,~=+=:~+,:..  ..~??=~+++++?.     
+          ...      .,,+?=++===++?+?+~.  
+           ...?$7$?7?Z+?+===~?=++~=+=.  
+       ..:$I+7$7??+~++7II=?+===+?+?~?=. 
+      .,$I+II77I??+7??+~??I+?+~++?==~.  
+      ,?III?77?$7???+?++?+++I$+++~:.    
+      .?77??~?7$7+77?+?++?=:?I+~+.      
+      .,77?I++=IZ~?77+?+??=?=???I.      
+       .:I?I=~?=I?ZZ77I++=?I?II~ .      
+          ~$+I77II7I?I~II+=+?,          
+              =?~~..                    
+                         
+
+
+,---.     |              o
+`---.,---.|    ,---.,-.-..
+    |,---||    ,---|| | ||
+`---'`---^`---'`---^` ' '`
+
+Structural Analysis of Large Amounts of Music Information.
