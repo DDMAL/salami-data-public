@@ -4,12 +4,14 @@ Metadata Information
 This file explains the various metadata files that accompany the SALAMI annotation data set. It does not explain how the annotations themselves are formatted, which is explained in the Annotator's Guide, availble at http://salami.music.mcgill.ca.
 
 
-metadata.csv
-------------
+Metadata descriptions
+---------------------
+
+##### ```metadata.csv```
 
 This is the main metadata file and describes all the pieces in the collection.
 
-The fields indicate:
+The fields are:
 
 	SONG_ID                   Unique identifier for piece of music
 	SOURCE                    Either Codaich, IA (Internet Archive), or RWC
@@ -34,12 +36,11 @@ The remaining metadata files are intended to make it easier to determine what au
 
 The music files used by SALAMI came from 4 distinct sources: Codaich; the Internet Archive's Live Music Archive; the RWC Music Database; and the Isophonics database. (References for each database follow.) Hence, we have 4 separate metadata files provided information relevant to each dataset.
 
-Codaich: ```id_index_codaich.csv```, ```SALAMI_iTunes_library.xml```
---------------------
+##### Codaich: ```id_index_codaich.csv```, ```SALAMI_iTunes_library.xml```
 
 The metadata are provided in an iTunes XML file. In addition, a CSV file is provided to show the conversions between the SALAMI ID and the two IDs used in the iTunes XML file.
 
-The fields indicate:
+The fields are:
 
 	SONG_ID                   Unique identifier for piece of music
 	Persistent ID			  Identifier provided by iTunes
@@ -47,10 +48,9 @@ The fields indicate:
 	
 
 
-Internet Archive: ```id_index_internetarchive.csv```
-----------------------------------------------------
+##### Internet Archive: ```id_index_internetarchive.csv```
 
-The fields indicate:
+The fields are:
 
 	SONG_ID                   Unique identifier for piece of music
 	TITLE  					  Song title
@@ -63,10 +63,9 @@ The fields indicate:
 	
 These metadata were culled automatically from the Internet Archive and are not entirely consistent, so some of these fields may be inaccurate. For example, a song title may be given as "06" when in fact this is the track number that was incorrectly entered as the title by Internet Archive contributor.
 
-RWC: ```id_index_rwc.csv```
----------------------
+##### RWC: ```id_index_rwc.csv```
 
-The fields indicate:
+The fields are:
 
 	SONG_ID                   Unique identifier for piece of music
 	RWC_ID					  Name of the track within the RWC namespace
@@ -77,10 +76,9 @@ The fields indicate:
 	ARTIST					  Artist
 	
 
-Isophonics: ```id_index_isophonics.csv```
----------------------
+##### Isophonics: ```id_index_isophonics.csv```
 
-The fields indicate:
+The fields are:
 
 	SONG_ID                   Unique identifier for piece of music
 	TITLE_IN_SALAMI			  File name in SALAMI database including character substitutions
@@ -102,17 +100,17 @@ http://creativecommons.org/publicdomain/zero/1.0/legalcode
 References
 ----------
 
-###Codaich
+#####Codaich
 http://jmir.sourceforge.net/index_Codaich.html
 C. McKay, D. McEnnis and I. Fujinaga. 2006. A large publicly accessible prototype audio database for music research. *Proceedings of the International Conference on Music Information Retrieval.* 160--3.
 
-###Internet Archive; Live Music Archive
+#####Internet Archive; Live Music Archive
 http://www.archive.org/details/etree
 
-###RWC Music Database
+#####RWC Music Database
 http://staff.aist.go.jp/m.goto/RWC-MDB/
 M. Goto. 2004. Development of the RWC Music Database. *Proceedings of the International Congress on Acoustics.* 553--6.
 
-###Isophonics Reference Annotations
+#####Isophonics Reference Annotations
 http://isophonics.net/
 M. Mauch, C. Cannam, M. Davies, S. Dixon, C. Harte, S. Kolozali, D. Tidhar, M. Sandler. 2010. OMRAS2 Metadata Project 2009. Late-breaking paper,* International Conference on Music Information Retrieval.*

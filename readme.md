@@ -1,31 +1,24 @@
 SALAMI Data Set version 1.9
 ===========================
 
-11 March 2015
-
-Released as 1.9 11 March 2015
-Released as 1.2 25 Sept 2012
-Updated (1.1.1) 21 April 2012
-Released as 1.1 14 March 2012
-
 Changelog
 ---------
 
-Changes made in update to version 1.9:
+Changes made in update to version 1.9 (11 March 2015):
 
 * Now hosted on GitHub
 * Revision history reaches back to raw input from annotators
 * Many, many formatting errors corrected (such as misplaced end times, and annotations erroneously copied into two places). Thanks Thomas Grill and Jan Schlüter for helping to identify errors
 
-Changes made in update to version 1.2:
+Changes made in update to version 1.2 (25 Sept 2012):
 
 * Parsed version of all annotations included
 
-Changes made in update to version 1.1.1:
+Changes made in update to version 1.1.1 (21 April 2012):
 
 * Metadata for Isophonics files were all incorrect (SALAMI ID #1600-1654), and have been changed. Thanks to Florian Kaiser for spotting the errors.
 
-Changes made in update to version 1.1:
+Changes made in update to version 1.1 (14 March 2012):
 
 * 28 Isophonics annotation files added (SALAMI ID #1600-1654)
 * Additional metadata files with separate readme
@@ -48,7 +41,8 @@ This data is released under a Creative Commons 0 license, effectively dedicating
 http://creativecommons.org/publicdomain/zero/1.0/
 http://creativecommons.org/publicdomain/zero/1.0/legalcode
 
-### Citing SALAMI
+Citing SALAMI
+-------------
 
 However, if publishing work based on this data, we kindly ask you to cite the following paper describing its production and contents:
 
