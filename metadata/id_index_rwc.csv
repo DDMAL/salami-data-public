@@ -49,3 +49,28 @@ SONG_ID,RWC_ID,GENRE,CAT_SUFFIX,TRACK_NUMBER,TITLE,ARTIST
 1594,RWC_MDB_P_2001_M06,Popular,6,8,Woman Like You,Shinya Iguchi
 1596,RWC_MDB_P_2001_M07,Popular,7,1,Change Of Heart,Donna Burke
 1598,RWC_MDB_P_2001_M07,Popular,7,10,No Regrets,Shinya Iguchi
+1499,RWC_MDB_C_2001_M01,Classical,1,3,Symphony no.5 in C minor; op.67. 1st mvmt.,Beethoven; Ludwig van/Tokyo City Philharmonic Orchestra
+1503,RWC_MDB_C_2001_M02,Classical,2,1,Brandenburg Concerto no.5 in D major; BWV.1050. 1st mvmt.,Bach; Johann Sebastian/Tokyo City Philharmonic Orchestra
+1507,RWC_MDB_C_2001_M03,Classical,3,5,Clarinet Quintet in A major; K.581. 1st mvmt.,Mozart; Wolfgang Amadeus/Wood Land Notes
+1511,RWC_MDB_C_2001_M05,Classical,5,3,Piano Sonata no.23 in F minor; op.57 `Appasionata'. 1st mvmt.,Beethoven; Ludwig van/Sarasa Watanabe
+1515,RWC_MDB_C_2001_M05,Classical,5,9,`La Campanella' from <Grandes Études de Paganini>,Liszt; Franz/Naoko Matsuoka
+1519,RWC_MDB_C_2001_M06,Classical,6,5,Meditation from <Thaïs>,Massenet; Jules/Michi Mizutori
+1523,RWC_MDB_C_2001_M06,Classical,6,10,Air `Ombra mai fu' (Largo) from <Serse> (Xerxes),Handel; George Frideric/Rihoko Yanagisawa
+1527,RWC_MDB_C_2001_M06,Classical,6,14,Air `La donna è mobile qual piuma al vento' from <Rigoletto>,Verdi; Giuseppe/Ryosuke Hagino
+1531,RWC_MDB_G_2001_M01,Genre,1,7,Everyday Lovin',Takeshi Wada
+1535,RWC_MDB_G_2001_M02,Genre,2,1,Guess Again,Shigekazu Kamaki
+1539,RWC_MDB_G_2001_M02,Genre,2,8,Keep Running,Ichio Yamamoto
+1543,RWC_MDB_G_2001_M03,Genre,3,2,Bubble,Hiroshi Haji
+1547,RWC_MDB_G_2001_M07,Genre,7,3,Dear John's Letter,Hiroshi Takayama
+1551,RWC_MDB_G_2001_M07,Genre,7,8,Desperate Little Man,Satoshi Hara
+1555,RWC_MDB_G_2001_M08,Genre,8,3,Mwanambuzi,Fresh Jumbe
+1559,RWC_MDB_J_2001_M01,Jazz,1,7,For Two (Guitar Solo),Hiroo Chubachi
+1563,RWC_MDB_J_2001_M03,Jazz,3,3,Lounge Away (Octet),YOU Band
+1567,RWC_MDB_J_2001_M04,Jazz,4,4,Mo' Trippin',HH Band
+1571,RWC_MDB_P_2001_M01,Popular,1,6,Funky Life,Oriken
+1575,RWC_MDB_P_2001_M02,Popular,2,3,COOL Motion,Hisayoshi Kazato
+1579,RWC_MDB_P_2001_M03,Popular,3,1,DREAM MAGIC,Hiromi Yoshii
+1583,RWC_MDB_P_2001_M04,Popular,4,3,Modoranai natsu,Hiroshi Sekiya
+1587,RWC_MDB_P_2001_M04,Popular,4,12,Kumorizora,Yuzu Iijima
+1591,RWC_MDB_P_2001_M05,Popular,5,10,Kimi no iro,Kousuke Morimoto
+1595,RWC_MDB_P_2001_M06,Popular,6,9,Life Is What You Make It To Be,Donna Burke
