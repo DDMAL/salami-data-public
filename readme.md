@@ -1,8 +1,13 @@
-SALAMI Data Set version 1.9
+SALAMI Data Set version 2.0
 ===========================
 
 Changelog
 ---------
+
+Changes made in update to version 2.0 (17 March 2015):
+
+* Added 50% more data! All annotations with SALAMI ID equal to 3 mod 4 were added.
+* Metadata files updated to describe new annotated pieces
 
 Changes made in update to version 1.9 (11 March 2015):
 
