@@ -1,0 +1,12 @@
+0.000000000	Silence
+1.532517006	A, a, Main_Theme, (cello arco
+22.213446712	b, cello arco)
+44.895215419	a, (cello pizzicato
+65.410612244	b, cello pizzicato)
+89.105941043	a, (cello arco
+115.635374149	b
+138.106281179	B, c, Secondary_theme
+179.638752834	d
+222.220725623	e, cello arco)
+243.086961451	Silence
+249.836439909	End

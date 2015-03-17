@@ -1,0 +1,10 @@
+0.0	Silence
+0.457142857	no_function
+39.73877551	no_function
+66.644897959	no_function
+101.61632653	Transition
+110.171428571	no_function
+186.253061224	no_function
+215.379591836	no_function
+252.804058956	Silence
+256.342199546	End

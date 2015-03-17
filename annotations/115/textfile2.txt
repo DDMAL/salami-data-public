@@ -1,0 +1,8 @@
+0.000000000	Silence
+0.000000000	A, a, Intro, (harpsichord
+7.441791383	B, b, Main_Theme
+20.897959183	C, c, Transition
+58.297278911	D, d, Secondary_Theme
+94.952471655	E, e, Outro, harpsichord)
+140.008163265	Silence
+144.523877551	End

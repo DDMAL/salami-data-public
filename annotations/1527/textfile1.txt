@@ -1,0 +1,12 @@
+0.000000000	A, a, Intro, (piano)
+12.585464852	A, a, Verse, (voice
+23.477097505	a
+33.191065759	B, b, Chorus
+50.855306122	c, voice)
+59.395918367	A, a, Transition, (piano)
+70.701723356	A, a, Verse, (voice
+81.712494331	a
+91.442789115	B', b', Chorus
+113.260521541	c', voice)
+126.776213151	Silence
+131.631020408	End

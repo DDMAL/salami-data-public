@@ -1,0 +1,35 @@
+0.000000000	Silence
+0.563832199	a, A'', Intro, (bass
+1.979206349	a
+13.552426303	a
+25.218412698	a, bass)
+36.761156462	a, A', Solo, (trumpet
+48.374399092	a
+59.935510204	a, trumpet)
+71.510204081	c, B, Solo, (flute
+79.200000000	d, flute)
+86.857142857	e, (trumpet)
+94.712766439	f, C, Bridge, (brass
+102.438276643	f, brass)
+110.222970521	a, A, (bass)
+121.812517006	a, (flute)
+133.363469387	c, B, Solo, (guitar)
+141.139115646	d, (trumpet)
+148.741496598	e, (flute)
+156.523083900	f, C, Bridge, (flute
+164.277551020	f, flute)
+172.036281179	a, A, Solo, (trumpet
+183.659977324	a, trumpet)
+195.226167800	c, B, Solo, (flute
+202.938503401	d, flute)
+210.661224489	e, (trumpet)
+218.318367346	f, C, Bridge, (brass
+226.122448979	f, brass)
+233.893877551	a, A, Solo, (flute
+245.484467120	a, flute)
+257.038163265	c, B, Solo, (trumpet
+264.760068027	d, trumpet)
+272.483922902	e, (flute)
+280.193310657	f', D, Fade-out
+301.859410430	Silence
+304.435918367	End

@@ -1,0 +1,21 @@
+0.000000000	Silence
+0.230589569	A, a, Intro, (voice
+15.627142857	b, voice)
+45.484172335	c
+55.233809523	B, d, Verse, (voice
+64.666190476	d, voice)
+74.102834467	C, e, Transition
+83.750725623	B, d, Verse, (voice
+93.209637188	E, f, Chorus
+102.446780045	f, voice)
+111.719614512	D, Interlude, (synthesizer)
+121.027120181	F, g, Bridge, (voice
+130.501360544	g
+140.044172335	E, f, Outro
+149.243877551	f
+158.473696145	f
+167.708208616	f
+176.899002267	f, Fade-out
+186.048798185	f, voice)
+190.761133786	Silence
+195.332879818	End

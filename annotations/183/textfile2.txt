@@ -1,0 +1,28 @@
+0.000000000	Silence
+2.463854875	A, a, Theme, (violins
+8.167936507	b
+13.827482993	c, violins)
+19.665260770	d, (flute)
+22.355056689	e, (violins
+28.235464852	e
+33.367074829	d', (flute), violins)
+39.729342403	A, a, Theme, (voice
+45.650430839	b
+54.497233560	c, voice)
+62.136598639	d, (flute)
+64.899773242	e, (voice)
+70.193922902	d', (flute), (violins)
+76.834829931	A, a, Theme, (voice
+82.779138321	b
+91.602721088	c, voice)
+99.427845804	d, (flute)
+102.492879818	e, (voice)
+107.740589569	d', (flute), (violins)
+114.381496598	A, a, Theme, (voice
+120.384988662	b
+129.385464852	c, voice)
+137.577482993	d, (flute)
+140.855646258	e, (voice)
+146.714399092	d', Outro, (flute), (violins)
+154.208072562	Silence
+161.044897959	End

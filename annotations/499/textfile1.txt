@@ -1,0 +1,24 @@
+0.000000000	Silence
+0.278639455	a, A, Intro, (piano
+19.706122448	b, piano)
+35.289795918	c, (brass
+52.052947845	d
+71.534217687	c'
+89.404081632	f, B, Main_Theme, (piano
+99.346938775	f'
+112.212244897	g
+120.081632653	f, piano), brass)
+130.302040816	h, C, Solo, (bass)
+202.710204081	i, (saxophone
+275.200000000	j, D, Solo
+292.803628117	k
+340.497414965	l, E, Solo, saxophone), (trumpet
+381.921814058	m
+404.770249433	n
+472.163265306	o
+523.755102040	p, F, Solo
+576.876553287	q, trumpet)
+663.836734693	f, B', Main_Theme, (piano, (brass)
+673.893877551	b, A', Outro, piano)
+701.563174603	Silence
+704.583106575	End

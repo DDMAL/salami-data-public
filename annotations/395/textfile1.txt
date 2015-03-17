@@ -1,0 +1,27 @@
+0.000000000	Silence
+0.371519274	W, w, Intro
+3.955850340	w
+7.406190476	A, a, (guitar
+10.759818594	a
+14.010000000	a
+17.383854875	b
+20.721201814	A, a, (horn
+24.056258503	a
+27.376825396	a, horn)
+30.680294784	b, guitar)
+34.039750566	W, w, Interlude
+37.392108843	w
+40.822267573	B, c, Main_Theme, (horns
+47.481383219	c, horns)
+54.111904761	B, c, Main_Theme, (trumpets
+60.800272108	c, trumpets)
+67.432040816	C, d, Theme, (brass
+74.160158730	e, Transition, brass)
+77.759795918	w, Interlude
+80.982358276	A, a, (guitar, (horn
+84.415555555	a
+87.718208616	a, horn)
+91.149954648	b, guitar)
+94.502063492	Y, c', Outro, (brass)
+104.778526077	Silence
+107.607414965	End

@@ -1,0 +1,15 @@
+0.000000000	Silence
+0.255419501	A, a, Intro, (piano)
+8.057324263	A, a, Main_Theme, (choir
+15.788163265	a'
+23.346575963	B, b, Secondary_theme
+31.004784580	c
+38.628956916	A, a, Main_Theme
+46.184489795	a'
+54.172154195	B, b, Secondary_theme
+61.927619047	c
+69.588798185	A, a, Main_Theme
+77.353174603	a'
+85.333333333	C, d, Outro, choir)
+90.093424036	Silence
+95.168458049	End

@@ -1,0 +1,30 @@
+0.000000000	Silence
+0.204285714	A, a, Intro, (strings)
+5.663424036	B, b, Pre-Verse
+10.541859410	C, c, Theme, (synth 1, (strings
+20.321292517	c, synth 1), strings)
+30.158548752	D, d, Theme, (synth 2
+39.930793650	d', synth 2)
+49.845396825	E, e, Bridge, (sitar
+59.512743764	f, sitar)
+64.520158730	D, d, Theme, (synth 2)
+74.284693877	C, c, Theme, (synth 1, (strings
+84.023378684	c, synth 1), strings)
+93.808616780	F, g, Transition
+103.377891156	G, h, Theme, (flute
+113.172154195	h', flute)
+123.025011337	H, i, Transition
+132.767687074	f, (harp)
+137.903310657	E, e, Bridge, (sitar
+147.750498866	f, sitar)
+152.618231292	B, b', Solo (flute
+162.374852607	b'
+172.205941043	b'
+181.931791383	b, flute)
+189.365442176	D, d, Theme, (synth 2
+199.125487528	d', synth 2)
+208.956734693	E, e, Bridge, (sitar
+218.723401360	f
+223.306303854	f', Outro, (flute), sitar)
+231.285374149	Silence
+233.522925170	End

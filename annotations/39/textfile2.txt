@@ -1,0 +1,13 @@
+0.000000000	Silence
+0.208979591	A, a, Intro, (guitar
+19.106757369	a, guitar)
+37.285646258	A, a, Chorus, (voice)
+55.799455782	A, a, Solo, (guitar)
+73.990136054	A, a, Chorus, (voice)
+92.187188208	A, a, Solo, (guitar)
+110.040952380	A, a, Chorus, (voice)
+128.258344671	A, a, Solo, (guitar)
+146.360634920	A, a, Chorus, (voice)
+164.521111111	A, a, Solo, (guitar)
+185.076643990	Z
+196.442562358	End

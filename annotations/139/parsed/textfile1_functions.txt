@@ -1,0 +1,7 @@
+0.0	Intro
+0.0	silence
+30.824489795	Verse
+81.926077097	no_function
+128.571043083	Transition
+139.774399092	Verse
+167.74648526	End

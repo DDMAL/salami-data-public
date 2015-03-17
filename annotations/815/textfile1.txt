@@ -1,0 +1,30 @@
+0.000000000	Silence
+0.232199546	A, a, Intro, (brass)
+16.284217687	B, b, Chorus
+32.074580498	b, Solo, (flute)
+47.932063492	b, solo (voice
+63.521995464	c, voice)
+75.072811791	b, Chorus
+90.753265306	b, Solo, (flute)
+106.518072562	b, solo (voice
+122.159433106	c
+133.781065759	C, Interlude, d
+149.053015873	e, voice)
+156.981269841	B, b, (brass)
+172.414081632	b, Solo, (piano)
+245.335668934	b, Solo, (guitar)
+290.647687074	b, (brass)
+305.876462585	B, b, Chorus
+321.325510204	b, solo (flute)
+336.268639455	b, Solo, (voice
+355.183537414	c, voice)
+362.756507936	b, Chorus
+377.879251700	b, Solo, (flute)
+392.804693877	b, Solo, (voice
+411.740430839	c
+419.222335600	C, d, Interlude
+434.142925170	e, voice)
+441.776213151	A', a, Outro, (brass
+456.688140589	f, brass)
+459.927165532	Silence
+463.321473922	End

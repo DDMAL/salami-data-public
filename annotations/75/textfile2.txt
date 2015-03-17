@@ -1,0 +1,21 @@
+0.000000000	Z
+0.116099773	A, a, Intro
+4.179591836	a', (strings)
+10.193560090	B, b, Main_Theme, (oboe)
+18.348798185	a', (strings)
+26.543015873	a', (oboes)
+30.534240362	B', b, Main_Theme, (French horns
+43.025532879	b, (strings
+55.689410430	b, (flutes
+68.220226757	b, strings)
+80.759002267	C, a'', Transition, French horns), flutes)
+88.816326530	c, (trumpet)
+97.268390022	d, (strings)
+105.469659863	D, e, Secondary_theme, (woodwinds)
+112.431020408	E, f, Interlude
+119.768526077	D, e, Second theme (trumpet)
+128.011609977	e, (woodwinds)
+136.096281179	B'', a'', Secondary_theme, (trumpets)
+140.132426303	b, (strings
+152.531882086	b, (flutes), strings)
+160.601088435	End

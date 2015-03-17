@@ -1,0 +1,12 @@
+0.0	Silence
+0.192	Intro
+18.8694375	Verse
+38.1475	Verse
+57.01125	Verse
+75.4538125	Verse
+93.728770833	Verse
+111.838895833	Verse
+130.0388125	Verse
+148.417291666	Verse
+166.165333333	no_function
+231.6	End

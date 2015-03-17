@@ -1,0 +1,21 @@
+0.000000000	Silence
+0.208979591	A, a, Intro, (strings
+9.321405895	b
+18.103900226	c
+24.473832199	d, strings)
+31.075192743	A', a, Verse, (voice
+40.031201814	b, voice)
+48.738979591	c', Transition, (strings)
+55.238934240	A'', a, Verse, (voice
+64.225578231	d, voice)
+73.396417233	c, (strings)
+82.185328798	B, a', Bridge, (voice
+95.364240362	e
+104.220158730	a'
+115.101315192	e, voice)
+128.672970521	a, Transition, (strings)
+139.877006802	A, a, Verse, (voice
+149.176712018	d, voice)
+158.482879818	c, (strings)
+167.758684807	Silence
+167.954399092	End

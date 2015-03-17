@@ -1,0 +1,8 @@
+0.0	Silence
+0.261224489	Intro
+45.161632653	Main_Theme
+76.114149659	Transition
+91.545918367	Secondary_Theme
+106.432108843	Coda
+129.406984126	Silence
+131.753582766	End

@@ -1,0 +1,17 @@
+0.000000000	Silence
+0.033560090	I, Intro, (keyboard, b
+9.015192743	keyboard), b
+17.917188208	A, Main_Theme, Theme, (strings, c
+26.797732426	c
+35.777460317	B, d
+44.605079365	A, e
+53.509251700	B', f
+62.428934240	A', g
+71.300725623	C, Secondary_Theme, Theme, h
+80.196870748	D, i
+89.053514739	C, j
+97.993877551	D, k
+106.884693877	C', Coda, l
+115.748798185	D', strings), m
+124.343877551	Silence
+124.347052154	End

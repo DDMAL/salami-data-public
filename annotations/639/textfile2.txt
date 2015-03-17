@@ -1,0 +1,47 @@
+0.000000000	Silence
+0.017414965	I, Intro, (piano), b
+5.370408163	W, (backing, vocals), c
+10.086530612	V, Verse, (female, voice), d
+14.358412698	W, (backing, vocals), e
+18.653650793	V, (female, voice), f
+22.990249433	M, (male, voice, g
+27.222176870	male, voice), h
+31.487528344	W', (backing, vocals), i
+35.704376417	T, Transition, (strings), j
+39.899229024	W, (backing, vocals), k
+44.184603174	V, Verse, (female, voice), l
+48.430408163	W, (backing, vocals), m
+52.670272108	V, (female, voice), n
+56.866462585	M, (male, voice, o
+61.110884353	male, voice), p
+65.307256235	W', (backing, vocals), q
+69.471655328	T, Transition, (strings), r
+73.712653061	r
+77.862380952	W, (female, voice, s
+82.103582766	V, Verse, female, voice), t
+86.343265306	W, (backing, vocals), u
+90.588004535	V, (female, voice), v
+94.987800453	M, (male, voice, w
+99.139138321	male, voice), x
+103.238299319	W', (backing, vocals), y
+107.438639455	T, Transition, (strings, z
+111.638503401	strings), z
+115.782380952	W, (backing, vocals), aa
+120.086394557	V, Verse, (female, voice), ab
+124.270317460	W, (backing, vocals), ac
+128.502290249	V, (female, voice), ad
+132.713560090	M, (male, voice, ae
+136.953469387	male, voice), af
+141.078548752	W', (backing, vocals), ag
+145.219795918	T, Transition, (strings), ah
+149.335306122	W, (female, voice, ai
+153.586961451	V, Verse, female, voice), aj
+157.758276643	W, (backing, vocals), ak
+161.982630385	V, (female, voice), al
+166.111247165	M, (male, voice, am
+170.414421768	male, voice), an
+174.542358276	W', (backing, vocals, ao
+178.750272108	T', Coda, ap
+182.951428571	Fade-out, backing, vocals), ap
+188.608163265	Silence
+188.619569160	End

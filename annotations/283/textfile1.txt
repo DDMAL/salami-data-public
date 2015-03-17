@@ -1,0 +1,12 @@
+0.000000000	Silence
+0.743038548	A, a, Intro, (strings, (flute
+20.485691609	a', strings), flute)
+39.497868480	B, b, Theme, (voice
+57.961632653	c
+76.161451247	B, b, Theme
+92.734376417	c
+108.828888888	C, d, Theme
+123.878820861	B, b, Theme
+139.672426303	c', voice)
+164.889229024	Silence
+171.076326530	End

@@ -1,0 +1,13 @@
+0.000000000	Silence
+0.197369614	A, a, Intro, (strings
+9.358027210	a', string)
+20.731043083	A, a, Main_Theme, (voice
+35.900884353	a', voice)
+45.808072562	T, t, Transition, (strings)
+53.647913832	A, a, Main_Theme, (voice
+68.752063492	a', voice)
+80.982607709	C, c, Code
+90.046984126	d, voice)
+101.271791383	a', (strings)
+116.070408163	Silence
+116.102154195	End

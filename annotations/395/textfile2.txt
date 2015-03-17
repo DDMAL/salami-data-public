@@ -1,0 +1,32 @@
+0.000000000	Silence
+0.394739229	A, Intro, (brass, b
+3.983673469	brass), b
+7.457392290	B, first, Theme, (guitar, c
+10.750907029	c
+14.037755102	c
+17.361133786	d
+20.707664399	B, first, Theme, e
+24.099591836	e
+27.425646258	e
+30.791179138	guitar), f
+34.095238095	A, Bridge, (brass, g
+37.483809523	g
+40.779977324	C, Secondary_Theme, Theme, h
+44.204285714	i
+47.492857142	C, Secondary_Theme, Theme, j
+50.792290249	k
+54.183968253	C, Secondary_Theme, l
+57.567346938	m
+60.835532879	C, Secondary_Theme, Theme, n
+64.204036281	o
+67.547755102	D, third, Theme, p
+70.846507936	p
+74.294263038	q
+77.746938775	A, Bridge, brass), r
+81.039002267	B, first, Theme, (guitar, s
+84.399591836	s
+87.739637188	s
+91.147619047	guitar), t
+94.539705215	C', Outro, (brass), u
+104.956077097	Silence
+107.614648526	End

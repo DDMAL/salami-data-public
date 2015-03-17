@@ -1,0 +1,35 @@
+0.000000000	Silence
+1.999546485	a, A, Intro, (strings
+8.146938775	b
+13.877551020	c, strings)
+19.575510204	d, (winds)
+22.426213151	e, (strings
+28.261224489	e', strings)
+34.073469387	d', (winds)
+36.961950113	f, (strings)
+39.820408163	a, A, Main_Theme, (voice
+45.723356009	b, voice)
+51.624489795	b', (strings)
+54.440521541	c, (voice)
+62.111337868	d, (winds)
+65.033242630	e, (voice)
+70.927414965	d', (winds)
+73.913061224	f, (strings)
+76.839433106	a, A, Main_Theme, (voice
+82.757097505	b, voice)
+88.688344671	b', (strings)
+91.680748299	c, (voice)
+99.479433106	d, (winds)
+102.436439909	e, (voice)
+108.447301587	d', (winds)
+111.393990929	f, (strings)
+114.383378684	a, A, Main_Theme, (voice
+120.426507936	b, voice)
+126.453673469	b', (strings)
+129.421632653	c, (voice)
+137.570680272	d, (winds)
+140.831088435	e, (voice)
+147.427414965	d', (winds)
+150.604739229	f, (strings)
+154.802585034	Silence
+161.048140589	End

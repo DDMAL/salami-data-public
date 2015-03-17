@@ -1,0 +1,10 @@
+0.000000000	Silence
+0.941451247	A, a, Main_Theme, (trumpet, (violins
+13.741564625	a, trumpets), violins)
+26.563628117	B, b, Theme, (woodwinds)
+39.383469387	A, a, Main_Theme, (trumpet), (violins)
+52.171814058	C, c, Theme, (violins)
+65.562335600	A, a, Main_Theme, (trumpet, (violins
+78.284829931	a, trumpets), violins)
+94.621315192	Silence
+98.525396825	End

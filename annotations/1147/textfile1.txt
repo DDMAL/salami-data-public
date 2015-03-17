@@ -1,0 +1,24 @@
+0.000000000	Silence
+0.034829931	A, a, Intro
+10.271405895	a
+20.238684807	A, a, Chorus, (voice
+30.437777777	a, voice)
+40.286961451	A, a, Verse, (rap
+50.396190476	a
+60.359909297	a
+70.494943310	a, rap)
+80.431043083	A, a, Chorus, (voice
+90.630997732	a, voice)
+100.646757369	A, a, Verse, (rap
+110.512471655	a
+120.410929705	a
+130.442539682	a, rap)
+140.363764172	A, a, Chorus, (voice
+150.443854875	a, voice)
+160.370430839	A, a, Instrumental, Solo, (guitar
+170.130272108	a, guitar)
+179.774149659	A, a, Chorus, (voice
+189.857006802	a', Outro, voice)
+205.717188208	Z
+255.419501133	Silence
+255.451428571	End

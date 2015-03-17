@@ -1,0 +1,31 @@
+0.000000000	Silence
+0.713174603	A, a, Intro
+6.584240362	b
+10.336235827	C, c, Main_Theme
+29.263854875	e, Transition
+44.228004535	F, f, Secondary_Theme
+67.169002267	g, Transition
+91.502925170	T, t, Main_Theme, (cello)
+112.783537414	d, Transition
+118.855646258	h, Transition, (cello
+147.342789115	F, f, Secondary_Theme
+170.163401360	i, Transition, cello)
+221.993469387	j, Transition
+257.147664399	K, k, Solo, (cello
+281.587460317	l
+292.035487528	m, cello)
+303.837120181	n, Transition
+313.491428571	o, (cello
+337.602131519	p, cello)
+343.932721088	q, Transition
+347.149818594	r, (cello
+362.206916099	s, cello)
+384.690090702	C, c, Main_Theme
+403.480045351	e, Transition
+418.623922902	T, t, Main_Theme, (cello)
+440.670521541	d, Transition
+446.778480725	F, f, Secondary_Theme, (cello
+469.625487528	U, u, Solo, cello)
+494.328140589	V, v, Coda
+514.605578231	Silence
+521.848163265	End

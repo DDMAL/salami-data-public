@@ -1,0 +1,16 @@
+0.000000000	Silence
+0.296054421	I, i, Intro, (sitar
+18.928820861	j, sitar)
+33.561882086	A, a, Main_Theme, (guitar
+43.840952380	a
+52.032653061	A, a, Interlude
+60.419614512	a
+68.681111111	A, a, Main_Theme
+76.894263038	a, guitar)
+84.874489795	A, a, Solo, (sitar
+93.211541950	a, sitar)
+101.404829931	A, a, Outro, (flute
+109.541247165	a, flute)
+117.685714285	a, (guitar)
+130.799433106	Silence
+135.187414965	End

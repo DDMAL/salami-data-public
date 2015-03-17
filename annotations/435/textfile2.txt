@@ -1,0 +1,6 @@
+0.000000000	Silence
+0.116099773	A, a, Main_Theme, (double-bass
+9.729160997	a'
+19.295782312	B, b, Theme
+26.244149659	c, double-bass)
+38.587551020	End
