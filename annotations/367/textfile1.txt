@@ -1,7 +1,7 @@
 0.000000000	Silence
 0.325079365	Z, x, (talking
 30.487800453	y, (fighting sounds), talking)
-43.235555555	a, Intro, (bass)
+43.235555555	a, I, Intro, (bass)
 53.638095238	A, a, Verse, (vocal
 64.087324263	a
 74.470544217	B, b, Chorus
