@@ -6,8 +6,5 @@
 131.099863945	A, Solo, (guitar)
 162.874625850	A, Verse
 194.513560090	A', Outro, vocals)
-<<<<<<< HEAD
 215.117346938	Silence
-=======
->>>>>>> 38f0a5900b4dfe31bdae045a9f1722b5327fc9e8
 218.911564625	End
