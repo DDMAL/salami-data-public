@@ -1,0 +1,17 @@
+0.000000000	Silence
+0.365714285	A, a, Intro
+14.501428571	B, a, Verse, (voice
+28.068231292	a, voice)
+41.668956916	A, a, Interlude
+54.936281179	B, a, Verse, (voice
+68.634920634	a, voice)
+82.227551020	A, a, Interlude
+95.234331065	B, a, Verse, (voice
+108.994126984	a, voice)
+122.374580498	A, a, Interlude
+135.529569160	C, a', Chorus, (voice
+149.113922902	a'
+162.602834467	a''
+176.255079365	a'', voice)
+189.958163265	b
+201.127074829	End

@@ -1,0 +1,34 @@
+0.000000000	Silence
+1.304739229	A, a, Theme, (clarinet)
+8.877165532	b, (bassoon)
+16.140657596	c, (oboe)
+23.477142857	B, c, Theme, (clarinet
+30.859319727	d
+36.934331065	d', clarinet)
+46.445328798	e, (oboe
+53.823764172	B', c', Theme
+60.173650793	d
+65.576553287	d', oboe)
+72.910657596	C, trans (clarinet)
+84.568730158	D, m, Theme, (oboe
+90.733287981	n
+97.921678004	n, oboe)
+105.030136054	o, (clarinet
+110.281519274	o
+115.922879818	H, Transition, clarinet)
+119.369455782	A', a, Theme, (oboe
+130.345736961	q, oboe)
+140.606371882	E, h, Theme, (clarinet), (bassoon)
+146.379569160	i, (oboe)
+156.793287981	E, h, Theme, (clarinet), (bassoon)
+162.483877551	j, (oboe
+169.962358276	F, k, Theme
+177.368843537	l, oboe)
+183.755442176	r
+191.216235827	s
+198.581564625	s
+206.810000000	G, t, Outro, (clarinet
+212.389569160	t
+217.765011337	u, clarinet)
+229.467437641	Silence
+232.083061224	End

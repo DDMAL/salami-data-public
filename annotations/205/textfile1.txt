@@ -1,0 +1,11 @@
+0.000000000	Silence
+0.278639455	A, a, Main_Theme, (violin
+10.894149659	a
+18.246122448	B, a, Transition
+33.446235827	b
+46.182267573	C, c, Secondary_Theme
+63.528095238	A, a, Main_Theme
+75.339705215	a
+90.288820861	a', outro
+104.447777777	Silence
+104.447777777	End

@@ -1,0 +1,14 @@
+0.000000000	Silence
+0.010204081	A, Main_Theme, Theme, (guitar, b
+3.201859410	c
+6.226417233	A, Main_Theme, Theme, d
+9.259886621	e
+12.266394557	A, Main_Theme, Theme, f
+15.325736961	g
+18.357959183	A, Main_Theme, Theme, h
+21.364081632	i
+24.414149659	A, Main_Theme, Theme, j
+27.421655328	k
+30.435464852	A, Main_Theme, Theme, guitar), l
+33.436621315	Outro, m
+38.165600907	End

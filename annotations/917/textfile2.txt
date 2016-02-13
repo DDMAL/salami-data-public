@@ -1,0 +1,14 @@
+0.000000000	Silence
+0.455736961	A, Verse, (voice
+7.787210884	B, Chorus, voice)
+15.199909297	C, Transition, (banjo)
+17.117664399	A, Verse, (voice
+24.378299319	B, Chorus, voice)
+31.889410430	C, Transition, (banjo)
+34.697573696	A, Verse, (voice
+41.514376417	B, Chorus, voice)
+48.937278911	C, Transition, (banjo)
+51.616757369	A, Verse, (voice
+59.665464852	B, Chorus, voice)
+67.244988662	Silence
+72.055260770	End

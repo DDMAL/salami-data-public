@@ -1,0 +1,7 @@
+0.000000000	A, a, Chorus, (violin)
+9.903945578	B, (cello)
+22.247551020	A, a, Chorus, (flute), (violin)
+32.252879818	C, (cello)
+49.707188208	A, a, (flute), (violin)
+61.583242630	Silence
+65.309206349	End

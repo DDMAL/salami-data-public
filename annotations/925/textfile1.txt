@@ -1,0 +1,24 @@
+0.000000000	Silence
+0.255419501	A, a, Intro, (accordion
+6.271632653	b
+14.189387755	a
+19.644081632	b', accordion)
+31.094081632	B, c, Verse, (voice
+40.814852607	d, voice)
+48.008185941	C, e, Transition, (accordion)
+55.151224489	B, c, Verse, (voice
+64.841405895	d, voice)
+71.893356009	C', e, Transition, (accordion
+75.532653061	A, a, Transition
+80.804240362	b'', accordion)
+93.215986394	B, c, Verse, (voice
+102.935736961	d, voice)
+110.052312925	C'', e, (accordion)
+116.277188208	B, c, Verse, (voice
+125.135691609	d, voice)
+133.166371882	A, a, Outro, (accordion
+138.410544217	b
+146.389070294	a
+151.603083900	b, accordion)
+159.955578231	Silence
+164.078480725	End

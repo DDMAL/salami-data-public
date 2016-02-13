@@ -1,0 +1,21 @@
+0.000000000	A, a, Intro, (piano)
+8.796530612	A, a, Chorus, (voice
+17.273129251	A, a, Verse
+25.856077097	A, a, Chorus, voice)
+34.253854875	A, a, Interlude, (piano)
+42.730453514	a, (voice
+51.116575963	a
+59.567891156	B, b, Chorus
+67.890566893	A, a, Verse
+76.072902494	B, b, Chorus
+84.265646258	c
+92.392517006	c, voice)
+100.494081632	A, a, Solo, (vibes
+108.759841269	a, vibes)
+117.065056689	A, a, Solo, (percussion)
+125.375283446	B, b, Chorus, (voice
+133.459795918	c
+141.469138321	c
+149.547324263	A, a, Chorus, voice)
+159.172789115	Silence
+159.966802721	End

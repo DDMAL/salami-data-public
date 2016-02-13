@@ -1,0 +1,27 @@
+0.000000000	Silence
+0.048979591	Z
+1.253877551	A, y, Intro, (guitar
+5.643401360	a
+13.371383219	a, guitar)
+21.190272108	B, b, Verse, (voice
+29.339387755	c
+37.395442176	b
+45.443446712	c
+53.459410430	C, d, Chorus
+61.611383219	c, voice)
+69.699410430	B, b, Instrumental, Solo, (guitar
+77.770634920	c, guitar)
+85.811428571	B, b, Verse, (voice
+93.923424036	c
+101.979433106	C, d, Chorus
+110.123401360	c, voice)
+118.187414965	B, b, Instrumental, Solo, (guitar
+126.259365079	c
+134.283424036	b
+142.291383219	c, guitar)
+150.323424036	C, d, Chorus, (voice
+158.491405895	c
+166.563378684	c', Outro, voice)
+181.162086167	Z
+219.142857142	Silence
+219.193469387	End

@@ -1,0 +1,19 @@
+0.000000000	Silence
+0.580498866	A, a, Intro, (oboe, (bassoon
+12.342698412	B, Intro, oboe), bassoon)
+23.757414965	A, a, Theme, (voice
+34.392834467	c
+47.717006802	a'
+60.437097505	d, voice)
+70.614535147	B, Transition, (oboe), (bassoon)
+79.901859410	C, e, Theme, (voice
+91.440181405	f
+103.026938775	g
+114.706575963	h
+126.575578231	D, i, Theme
+142.432585034	j
+156.625487528	k
+178.462244897	k', voice)
+218.871179138	B, Outro, (oboe), (bassoon)
+227.291700680	Silence
+236.042448979	End

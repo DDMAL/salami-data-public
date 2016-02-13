@@ -1,0 +1,33 @@
+0.000000000	Silence
+0.139319727	A, a, Intro
+6.508435374	B, b, Pre-Verse, (violin
+12.685079365	b, violin)
+19.035941043	C, c, Verse, (voice
+28.049705215	c
+36.641088435	D, b', Chorus
+43.189115646	b', voice)
+49.621043083	E, d, Transition, (violin, (trombone
+55.983310657	b
+62.206258503	b, violin), trombone)
+68.498866213	C, c, Verse, (voice
+77.461768707	c
+85.890612244	D, b', Chorus
+92.438639455	b', voice)
+98.917006802	E', d, Transition, (violin, (trombone)
+105.209614512	F, e, Bridge
+111.502222222	e
+117.864489795	b, (trombone
+124.157097505	b, violin), trombone)
+130.519365079	C, c, Verse, (voice
+139.505487528	c
+148.003990929	D, b', Chorus
+154.412698412	b', voice)
+160.844625850	E', d, Transition, (violin, (trombone
+167.114013605	b
+173.453061224	b, violin), trombone)
+179.815328798	C, c, Verse, (voice
+188.731791383	c', voice)
+209.954829931	B, b, Outro, (violin, (trombone
+216.200997732	b, viloin), trombone)
+222.540045351	Silence
+225.905918367	End
