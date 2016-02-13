@@ -1,7 +1,0 @@
-0.0	Silence
-0.208979591	Main_Theme
-20.246507936	variation
-40.047097505	Main_Theme
-59.647687074	variation
-78.850498866	variation
-102.077029478	End

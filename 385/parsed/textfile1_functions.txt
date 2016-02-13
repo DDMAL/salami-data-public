@@ -1,5 +1,0 @@
-0.0	Silence
-0.243809523	Intro
-12.563038548	Verse
-51.239773242	no_function
-63.196916099	End

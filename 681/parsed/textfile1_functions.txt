@@ -1,6 +1,0 @@
-0.0	Intro
-0.0	Silence
-47.896553287	Main_Theme
-107.698911564	Outro
-123.96201814	no_function
-146.920340136	End

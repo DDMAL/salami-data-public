@@ -1,6 +1,0 @@
-0.0	Theme
-0.0	silence
-90.294217687	contrasting_middle
-168.554376417	Theme
-213.776122448	Silence
-215.777800453	End

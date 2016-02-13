@@ -1,3 +1,0 @@
-0.0	Silence
-0.092879818	no_function
-47.425396825	End

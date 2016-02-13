@@ -1,9 +1,0 @@
-0.000000000	Silence
-0.026122448	A, y, Intro, (voice
-45.573537414	B, a, Theme
-125.155555555	b, Bridge, voice)
-135.568752834	C, c, (drums)
-149.069251700	d, (voice
-179.597392290	e, Outro, voice)
-196.424988662	Silence
-196.424988662	End

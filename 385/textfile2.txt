@@ -1,8 +1,0 @@
-0.000000000	Silence
-0.185759637	A, Intro, (flute, (violin, b
-12.371723356	B, Verse, (voice, c
-24.795668934	d
-37.086122448	B, Verse, e
-49.709160997	voice), f
-60.748979591	Silence
-63.205759637	End
