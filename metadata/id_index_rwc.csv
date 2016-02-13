@@ -74,3 +74,16 @@ SONG_ID,RWC_ID,GENRE,CAT_SUFFIX,TRACK_NUMBER,TITLE,ARTIST
 1587,RWC_MDB_P_2001_M04,Popular,4,12,Kumorizora,Yuzu Iijima
 1591,RWC_MDB_P_2001_M05,Popular,5,10,Kimi no iro,Kousuke Morimoto
 1595,RWC_MDB_P_2001_M06,Popular,6,9,Life Is What You Make It To Be,Donna Burke
+1501,RWC_MDB_C_2001_M01,Classical,1,5,Violin Concerto no.5 in A major; K.219. 1st mvmt.,Mozart; Wolfgang Amadeus/Tokyo City Philharmonic Orchestra
+1509,RWC_MDB_C_2001_M03,Classical,3,7,Horn Trio in Eb major; op.40. 2nd mvmt.,Brahms; Johannes/Wood Land Notes
+1517,RWC_MDB_C_2001_M06,Classical,6,2,Violin Sonata no.5 in F major; op.24 `Spring'. 3rd mvmt.,Beethoven; Ludwig van/Michi Mizutori
+1525,RWC_MDB_C_2001_M06,Classical,6,12,`Ständchen' (Serenade) from <Schwanengesang>; D.957,Schubert; Franz Peter/Asuka Ueda
+1533,RWC_MDB_G_2001_M01,Genre,1,10,Lost in My Dreams,Shigekazu Kamaki
+1541,RWC_MDB_G_2001_M02,Genre,2,12,Trustin' in Your Groove,Takeshi Wada
+1549,RWC_MDB_G_2001_M07,Genre,7,6,What Should I Tell Them?,Kazuo Nishi
+1557,RWC_MDB_G_2001_M08,Genre,8,15,Turna A Surriento,Ernesto De Curtis (Public Domain)
+1565,RWC_MDB_J_2001_M03,Jazz,3,8,Lounge Away (Piano Trio & Flute),Kazuma Ito Quartet
+1573,RWC_MDB_P_2001_M01,Popular,1,13,Catch ball,Konbu
+1581,RWC_MDB_P_2001_M03,Popular,3,7,SPUL,Kousuke Morimoto
+1589,RWC_MDB_P_2001_M05,Popular,5,6,Miageta sora wa,Tamako Matsuzaka
+1597,RWC_MDB_P_2001_M07,Popular,7,7,Don't Lie To Me,Donna Burke
