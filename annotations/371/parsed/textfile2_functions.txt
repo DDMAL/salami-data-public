@@ -1,5 +1,5 @@
 0.0	Silence
-1.780408163	Intro
+0.208	Intro
 11.413582766	Verse
 29.601360544	Verse
 47.867936507	Chorus

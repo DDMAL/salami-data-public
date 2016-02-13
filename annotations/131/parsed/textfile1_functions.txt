@@ -1,5 +1,5 @@
 0.0	Silence
-1.040272108	Main_Theme
+0.394	Main_Theme
 26.658095238	Interlude
 39.317142857	Main_Theme
 52.17031746	Interlude
