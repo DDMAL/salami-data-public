@@ -1,5 +1,5 @@
 0.000000000	Silence
-1.040272108	A, a, Main_Theme, (trumpet
+0.394	A, a, Main_Theme, (trumpet
 13.757301587	a', trumpet)
 26.658095238	B, b, Interlude, (oboe
 32.992199546	c, oboe)

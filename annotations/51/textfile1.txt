@@ -1,6 +1,6 @@
 0.000000000	Silence
-0.116099773	z, N, Intro, (talking)
-6.687346938	m, (saxophone)
+0.116099773	z, Z, Intro, (talking)
+7.069	m, N, (saxophone)
 9.375283446	a, A, Verse, (vocal
 17.248730158	b
 24.922811791	c
