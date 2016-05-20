@@ -34,7 +34,7 @@ Contents
 
 Each piece of music has 1 or 2 associated text files, since one or two listeners annotated each piece. (In the rare case of piece #78, there are 3 files, to indicate a 3-layer annotation by one listener.) The files are all labelled "textfile1.txt" and "textfile2.txt" and organized in directories by their unique SONG_ID: ```~/annotations/[song_id]/textfile[annotator_number].txt```. Each of these folders contains a subfolder, named ```parsed```, which contains separate files for each layer of the annotation: uppercase letters, lowercase letters, and functions.
 
-Annotations are provided as a single file in the format in which they were written. To understand how to parse this format, please look up the Annotator's Guide at http://salami.music.mcgill.ca.
+Annotations are provided as a single file in the format in which they were written. To understand how to parse this format, please look up the Annotator's Guide at http://ddmal.music.mcgill.ca/salami.
 
 Metadata describing these files, including artist, track name, song duration and information about which annotators described them, are available in ```metadata.csv```. Additional metadata, with specialized fields for each source database, are provided under ```~/metadata```, and described by ```readme_metadata.txt```.
 
@@ -53,8 +53,15 @@ However, if publishing work based on this data, we kindly ask you to cite the fo
 
 Jordan B. L. Smith, J. Ashley Burgoyne, Ichiro Fujinaga, David De Roure, and J. Stephen Downie. 2011. Design and creation of a large-scale database of structural annotations. *Proceedings of the International Society for Music Information Retrieval Conference*. Miami, FL. 555-60.
 
-Detailed documentation, up to date links, and all other information about the SALAMI project can be found at the SALAMI homepage:
-http://salami.music.mcgill.ca
+
+Resources
+---------
+
+Visit the SALAMI homepage for detailed documentation (like the Annotator's Guide) and all other information about the SALAMI project:
+http://ddmal.music.mcgill.ca/salami
+
+Visit the SALAMI page under DDMAL's Github for some handy community-written resources for managing SALAMI:
+https://github.com/DDMAL/SALAMI
 
 
 References
