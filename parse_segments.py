@@ -1,0 +1,247 @@
+import numpy as np
+import glob
+import re
+import string
+import os
+
+def getFilenames(directory):
+    filenames = glob.glob(directory + "/*/textfile*.txt")
+    return filenames
+
+def preProcessAnnotation(text):
+    times = []
+    tags = []
+    for line in text:
+        # Strip comments, split along tab
+        time, tag = line.strip().split("#")[0].split("\t")
+        while (time[-1]=='0') and (time[-2]!="."):
+            time = time[0:-1]
+        # Decimal point handling to make Python the same as Ruby:
+        # decimal_places = len(time.split(".")[1])
+        # if decimal_places<9:
+        #     time += "0" * (9-decimal_places)
+        # if decimal_places>9:
+        #     time = time[-(decimal_places-9)]
+        times += [time]
+        # Rule 1: all spaces or commas are separators:
+        # tags += [[t for t in re.split('[ ,]*',tag) if t]]
+        # Rule 2: comma, with optional space afterwards, is the only acceptable separator:
+        tags += [[t.strip() for t in tag.split(",") if t]]
+    return times, tags
+
+def parseIntoLayers(tags,basic_tags,valid_uppercase,valid_lowercase):
+    lowercase = [[] for t in tags]
+    uppercase = [[] for t in tags]
+    functions = [[] for t in tags]
+    instruments = [[] for t in tags]
+    justInstruments = [[] for t in tags]
+    for i,timestep in enumerate(tags):
+        for tag in timestep:
+            # Basic tags are assigned to all the annotations:
+            if tag in basic_tags:
+                lowercase[i] += [tag]
+                uppercase[i] += [tag]
+                functions[i] += [tag]
+                instruments[i] += [tag]
+            # Uppercase, lowercase, and bracket-ended tags go to their respective annotations
+            # (uppercase, lowercase, and instruments), and leftovers goes to functions.
+            # Note that we ignore all apostrophes (optional prime symbols).
+            elif re.sub("'","",tag) in valid_uppercase:
+                uppercase[i] += [tag]
+            elif re.sub("'","",tag) in valid_lowercase:
+                lowercase[i] += [tag]
+            elif (tag[0] in "()") or (tag[-1] in "()"):
+                instruments[i] += [tag]
+                justInstruments[i] += [tag]
+            else:
+                functions[i] += [tag]
+    return lowercase, uppercase, functions, instruments, justInstruments
+
+def snapFunctionsToUppercase(functions,uppercase):
+    # The format says that function labels are assumed to be in effect until the next uppercase letter.
+    # If a new uppercase letter appears without a function label, then that section has no function label.
+    for i in range(len(uppercase)):
+        if (uppercase[i]) and not (functions[i]):
+            functions[i] += ["no_function"]
+    return functions
+
+def annotationPlusTimes(sequence, times):
+    zippedSequence = zip(times,sequence)
+    trimmedSequence = [z[0] + "\t" + ", ".join(z[1]) for z in zippedSequence if z[1]]
+    output = "\n".join(trimmedSequence)
+    return output
+
+def writeAnnotations(filename, uppercase=[], lowercase=[], functions=[], instruments=[], instrumentLab=[]):
+    basename = os.path.basename(filename).split(".")[0]
+    dirname = os.path.dirname(filename)
+    savepath = dirname + "/parsed/"
+    uppername = savepath + basename + "_uppercase.txt"
+    lowername = savepath + basename + "_lowercase.txt"
+    functname = savepath + basename + "_functions.txt"
+    instrname = savepath + basename + "_instruments.txt"
+    instlab = savepath + basename + "_instruments.lab"
+    if uppercase:
+        with open(uppername, 'w') as f:
+            f.write(annotationPlusTimes(uppercase, times))
+    if lowercase:
+        with open(lowername, 'w') as f:
+            f.write(annotationPlusTimes(lowercase, times))
+    if functions:
+        with open(functname, 'w') as f:
+            f.write(annotationPlusTimes(functions, times))
+    if instruments:
+        with open(instrname, 'w') as f:
+            f.write(annotationPlusTimes(instruments, times))
+    if instrumentLab:
+        with open(instlab, 'w') as f:
+            f.write("\n".join(["\t".join(line) for line in instrumentLab]))
+
+# def convertInstrumentsToLab(justInstruments,times):
+#     openTags = {}
+#     instrumentLab = []
+#     errors = []
+#     # For each moment in time:
+#     for i,line in enumerate(justInstruments):
+#         now = times[i]
+#         if i<len(justInstruments[0:-1]):
+#             soon = times[i+1]
+#         else:
+#             soon = times[i]
+#             # We should never have to use this value of 'soon', of course, but let's just set it in case.
+#         # Look at the instrument tags (possibly several) in sequence:
+#         for word in line:
+#             # If it's a "both" tag
+#             if word[0]=="(" and word[-1]==")":
+#                 # Add complete tag span
+#                 instrumentLab += [[now, soon, word[1:-1]]]
+#             elif word[0]=="(":
+#                 # If word already in stack, something is wrong:
+#                 if word[1:] in openTags.keys():
+#                     print "Re-opening tag that was not closed!"
+#                     errors +=  [now, word]
+#                 # Either way, add it to the open tag stack:
+#                 openTags[word[1:]] = now
+#             elif word[-1]==")":
+#                 # Look for a match in the open tag stack:
+#                 if word[:-1] in openTags.keys():
+#                     instrumentLab += [[openTags[word[:-1]], soon, word[:-1]]]
+#                     del openTags[word[:-1]]
+#                 else:
+#                     print "Tag was closed but no open tag could be found!"
+#                     errors += [now, word]
+#     # After all the tags have been added, is there anything left in the openTagStack?
+#     for key in openTags.keys():
+#         print "Tag was opened but no close tag could be found!"
+#         print errors += [openTags[key], key]
+#     return instrumentLab, errors
+
+
+def convertInstrumentsToLab(justInstruments,times):
+    openTags = {}
+    instrumentLab = []
+    errors = []
+    # For each moment in time:
+    for i,line in enumerate(justInstruments):
+        now = times[i]
+        if i<len(justInstruments[0:-1]):
+            soon = times[i+1]
+        else:
+            soon = times[i]
+            # We should never have to use this value of 'soon', of course, but let's just set it in case.
+        # Look at the instrument tags (possibly several) in sequence:
+        for word in line:
+            instr = re.sub("[\(\)]","",word)
+            if word[0]=="(":
+                # If word already in stack, something is wrong:
+                if instr in openTags.keys():
+                    print "Re-opening tag that was not closed!"
+                    errors +=  [now, word]
+                # Either way, add it to the open tag stack:
+                openTags[instr] = now
+            if word[-1]==")":
+                # Look for a match in the open tag stack:
+                if instr in openTags.keys():
+                    instrumentLab += [[openTags[instr], soon, instr]]
+                    del openTags[instr]
+                else:
+                    print "Tag was closed but no open tag could be found!"
+                    errors += [now, word]
+    # After all the tags have been added, is there anything left in the openTagStack?
+    for instr in openTags.keys():
+        print "Tag was opened but no close tag could be found!"
+        errors += [openTags[instr], instr]
+    return instrumentLab, errors
+
+# def convertInstrumentsToLab(justInstruments,times):
+#     for line in justInstruments:
+#         for tag in line:
+#             if tag[0]=="(" and tag[-1]==")":
+#                 # This is a one-item thing
+#
+# labtext = []
+# for i,line in enumerate(justInstruments):
+#     for tag in line:
+#         if tag[0]=="(" and tag[-1]==")":
+#             labtext += ["\t".join([times[i],times[i+1],tag[1:-1]])]
+
+
+filenames = getFilenames("/Users/jordan/Documents/repositories/salami-data-public/annotations")
+# Do one file:
+# filename = filenames[142]
+# Do all files:
+for filename in filenames:
+    print filename
+    text = open(filename,'r').readlines()
+    times, tags = preProcessAnnotation(text)
+    # Cut tags sequence into four separate sequences:
+    # Lowercase, uppercase, function and instrument
+    # Each sequence also has silence and end tags
+    basic_tags = ["Silence","silence","End","end"]
+    valid_uppercase = [A for A in string.ascii_uppercase] +  [A+B for A in string.ascii_uppercase for B in string.ascii_uppercase]
+    valid_lowercase = [a for a in string.ascii_lowercase] +  [a+b for a in string.ascii_lowercase for b in string.ascii_lowercase]
+    # A list of intended valid functions, but not using it for now.
+    valid_functions = ["Break", "Bridge", "Chorus", "Coda", "Development", "Exposition", "Fade-out", "Head", "Instrumental", "Interlude", "Intro", "Main_Theme", "No_function", "Outro", "Post-chorus", "Post-verse", "Pre-Chorus", "Pre-Verse", "Recap", "Secondary_Theme", "Solo", "Theme", "Transition", "Variation", "Verse"]
+    lowercase, uppercase, functions, instruments, justInstruments = parseIntoLayers(tags,basic_tags,valid_uppercase,valid_lowercase)
+    functions = snapFunctionsToUppercase(functions,uppercase)
+    instrumentLab, errors = convertInstrumentsToLab(justInstruments,times)
+    writeAnnotations(filename, uppercase, lowercase, functions, instruments, instrumentLab)
+
+
+# basic = [[t for t in tag if t in basic_tags] for tag in tags]
+# uppercase = [[t for t in tag if re.sub("'","",t) in valid_uppercase] for tag in tags]
+# lowercase = [[t for t in tag if re.sub("'","",t) in valid_lowercase] for tag in tags]
+# instruments = [[t for t in tag if (t[0] in "()") or (t[-1] in "()")] for tag in tags]
+# functions = [[t for t in tag if (len(t)>2) and ("(" not in t) and (")" not in t) and (t not in basic_tags)] for tag in tags]
+#
+# # Now we prepare each stream for writing to a file.
+# def createAnnotation(times,basic,tags):
+#     txt = []
+#     for i,t in enumerate(times):
+#         if basic[i]:
+#             txt += [t + "\t" + basic[i][0]]
+#         if tags[i]:
+#             txt += [t + "\t" + tags[i][0]]
+#     return txt
+#
+#
+# uctxt = createAnnotation(times,basic,uppercase)
+# lctxt = createAnnotation(times,basic,lowercase)
+# intxt = createAnnotation(times,basic,instruments)
+# fntxt = createAnnotation(times,basic,functions)
+#
+# for line in uctxt:
+#     print line
+#
+# for line in lctxt:
+#     print line
+#
+# for line in intxt:
+#     print line
+#
+# for line in fntxt:
+#     print line
+#
+#
+# # Ah, but there's a wrinkle!
+# # What if there are two functions per line? I might be cutting them off.
+# # What if a big letter changes before a function does? Then the function is supposed to cease
