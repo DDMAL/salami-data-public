@@ -1,0 +1,1109 @@
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1002/textfile1.txt
+	341.232539682	(voice	close_missing_reopen
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1005/textfile1.txt
+	90.730453514	(guitar	close_missing_reopen
+	150.820430839	(guitar	close_missing_reopen
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1006/textfile2.txt
+	158.425147392	voice)	open_missing
+	171.780748299	voice)	open_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1011/textfile1.txt
+	102.980498866	(guitar)	close_missing_reopen
+	107.587369614	(voice	close_missing_reopen
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1012/textfile1.txt
+	215.862675736	(guitar	close_missing_reopen
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1020/textfile1.txt
+	147.516507936	saxophone)	open_missing
+	151.04941043	(horns	close_missing_reopen
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1028/textfile2.txt
+	309.351179138	bass)	open_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1037/textfile2.txt
+	538.517188208	coda (guitar)	open_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1043/textfile1.txt
+	stage_sounds	1	unexpected_function
+	crowd_sounds	55	unexpected_function
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1045/textfile1.txt
+	applause	59	unexpected_function
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1046/textfile1.txt
+	182.601723356	piano	close_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1051/textfile2.txt
+	219.345873015	vocal)	open_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1056/textfile1.txt
+	421.801111111	percussion)	open_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1058/textfile1.txt
+	chorus (voice	16	unexpected_function
+	126.070589569	voice)	open_missing
+	150.970770975	(piano	close_missing_reopen
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1058/textfile2.txt
+	126.079160997	)voice)	open_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1060/textfile1.txt
+	90.325623582	(guitar	close_missing_reopen
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1061/textfile1.txt
+	33.067006802	(guitar)	close_missing_reopen
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1067/textfile1.txt
+	95.881201814	(guitar	close_missing_reopen
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1070/textfile1.txt
+	169.164353741	(guitar)	close_missing_reopen
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1071/textfile1.txt
+	applause	45	unexpected_function
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1072/textfile1.txt
+	stage_speaking	1	unexpected_function
+	applause	80	unexpected_function
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1076/textfile1.txt
+	220.000680272	voice)	open_missing
+	1.625396825	guitar	close_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/108/textfile1.txt
+	400.201133786	villin)	open_missing
+	1.811156462	violin	close_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1083/textfile1.txt
+	46.613922902	voice)	open_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1095/textfile1.txt
+	266.871666666	bass	close_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/11/textfile1.txt
+	103.465306122	voice)	open_missing
+	144.697755102	(spoken	close_missing_reopen
+	144.697755102	voice)	open_missing
+	144.697755102	spoken	close_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1100/textfile1.txt
+	stage_sounds	1	unexpected_function
+	applause	55	unexpected_function
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1104/textfile1.txt
+	solo (guitar	91	unexpected_function
+	572.181609977	guitar)	open_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1112/textfile1.txt
+	180.304875283	(guitar	close_missing_reopen
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1114/textfile1.txt
+	137.88600907	d guitar)	open_missing
+	266.549342403	(guitar	close_missing_reopen
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1118/textfile2.txt
+	274.640702947	guitar)	open_missing
+	378.29585034	guitar)	open_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1122/textfile2.txt
+	174.837029478	guitar 3	close_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1123/textfile1.txt
+	109.715759637	(guitar	close_missing_reopen
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1131/textfile1.txt
+	80.117959183	(guitar	close_missing_reopen
+	132.980340136	(voice	close_missing_reopen
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1135/textfile1.txt
+	29.590748299	(guitar)	close_missing_reopen
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1150/textfile2.txt
+	419.378911564	(voice)	close_missing_reopen
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1151/textfile1.txt
+	549.859104166	guitar)	open_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1156/textfile1.txt
+	stage_sounds	1	unexpected_function
+	applause	54	unexpected_function
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1160/textfile1.txt
+	188.061723356	voice)	open_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1163/textfile1.txt
+	138.837505668	(voice	close_missing_reopen
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1165/textfile1.txt
+	136.96446712	(fiddle	close_missing_reopen
+/Users/jordan/Documents/repositories/salami-data-public/annotations/117/textfile1.txt
+	strings	1	unexpected_function
+	55.28585034	strings)	open_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1170/textfile1.txt
+	270.696099773	guitar)	open_missing
+	366.832857142	guitar)	open_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1183/textfile1.txt
+	stage_speaking	1	unexpected_function
+	applause	35	unexpected_function
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1184/textfile1.txt
+	applause	73	unexpected_function
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1187/textfile1.txt
+	0.408163265	drums	close_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/119/textfile2.txt
+	0.801428571	vocal	close_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1203/textfile2.txt
+	225.393900226	electric guitar)	open_missing
+	351.206077097	electric guitar)	open_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1208/textfile1.txt
+	8.753922902	drums	close_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1211/textfile1.txt
+	applause	34	unexpected_function
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1234/textfile1.txt
+	voice	20	unexpected_function
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1235/textfile1.txt
+	52.790136054	banjo	close_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1238/textfile1.txt
+	banjo	3	unexpected_function
+	63.614083333	(banjo)	close_missing_reopen
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1239/textfile1.txt
+	spoken_voice	1	unexpected_function
+	applause	34	unexpected_function
+/Users/jordan/Documents/repositories/salami-data-public/annotations/124/textfile1.txt
+	118.713628117	(viol	close_missing_reopen
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1240/textfile1.txt
+	applause	68	unexpected_function
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1243/textfile1.txt
+	156.746371882	(guitar	close_missing_reopen
+	222.86739229	fiddle	close_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1244/textfile1.txt
+	149.567460317	(guitar	close_missing_reopen
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1247/textfile1.txt
+	142.138526077	guitar)	open_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/125/textfile1.txt
+	harpsichord	15	unexpected_function
+	0.668299319	harpsichord	close_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1254/textfile2.txt
+	509.75632653	voice)	open_missing
+	527.756439909	voice)	open_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1266/textfile1.txt
+	116.944716553	organ	close_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1268/textfile1.txt
+	stage_sounds	1	unexpected_function
+	applause	45	unexpected_function
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1269/textfile1.txt
+	60.620294784	(piano	close_missing_reopen
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1278/textfile1.txt
+	build	16	unexpected_function
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1278/textfile2.txt
+	voice	15	unexpected_function
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1284/textfile1.txt
+	237.027913832	(guitar	close_missing_reopen
+	69.885918367	percussion	close_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1286/textfile2.txt
+	546.827800453	guitar)	open_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1294/textfile1.txt
+	167.280204081	voice)	open_missing
+	172.203922902	piano	close_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1295/textfile1.txt
+	applause	12	unexpected_function
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1296/textfile1.txt
+	103.194829931	guitar	close_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/13/textfile1.txt
+	176.931428571	voice)	open_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/13/textfile2.txt
+	tag	16	unexpected_function
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1308/textfile1.txt
+	interlude (guitar	17	unexpected_function
+	74.09956916	guitar)	open_missing
+	91.458185941	guitar)	open_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1309/textfile1.txt
+	258.16526077	(trumpet	close_missing_reopen
+	296.100861678	(guitar	close_missing_reopen
+	560.012290249	saxophone)	open_missing
+	583.679002267	saxophone)	open_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/131/textfile2.txt
+	13.741564625	trumpets)	open_missing
+	39.383469387	(trumpet)	close_missing_reopen
+	78.284829931	trumpets)	open_missing
+	65.5623356	trumpet	close_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1312/textfile1.txt
+	24.885124716	(guitar	close_missing_reopen
+	546.173514739	(guitar	close_missing_reopen
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1322/textfile1.txt
+	83.412086167	(guitar	close_missing_reopen
+	248.027845804	guitar)	open_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1323/textfile1.txt
+	spoken_voice	1	unexpected_function
+	applause	37	unexpected_function
+/Users/jordan/Documents/repositories/salami-data-public/annotations/133/textfile1.txt
+	variation_1	7	unexpected_function
+	variation_2	15	unexpected_function
+	variation_2	19	unexpected_function
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1333/textfile1.txt
+	69.979546485	(piano)	close_missing_reopen
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1348/textfile1.txt
+	75.849433106	voice)	open_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/135/textfile2.txt
+	Code	8	unexpected_function
+	9.35802721	string)	open_missing
+	45.808072562	(strings)	close_missing_reopen
+	90.046984126	voice)	open_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1364/textfile1.txt
+	127.915011337	voice)	open_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1380/textfile1.txt
+	crowd_sounds	1	unexpected_function
+	applause	72	unexpected_function
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1381/textfile1.txt
+	47.113287981	voice)	open_missing
+	95.63494331	voice)	open_missing
+	132.019319727	(voice	close_missing_reopen
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1383/textfile1.txt
+	392.885941043	(voice	close_missing_reopen
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1388/textfile1.txt
+	485.125759637	horns)	open_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1391/textfile2.txt
+	180.009637188	voice)	open_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1397/textfile1.txt
+	&pause	20	unexpected_function
+	20.759727891	(guitar)	close_missing_reopen
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1408/textfile1.txt
+	applause	63	unexpected_function
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1435/textfile1.txt
+	applause	31	unexpected_function
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1437/textfile1.txt
+	applause	67	unexpected_function
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1438/textfile1.txt
+	spoken_voice	1	unexpected_function
+	applause	82	unexpected_function
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1439/textfile1.txt
+	45.049160997	voice)	open_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1443/textfile1.txt
+	banjo	101	unexpected_function
+	151.772494331	banjo	close_missing
+	106.849070294	bass	close_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1445/textfile1.txt
+	80.808548752	(guitar	close_missing_reopen
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1452/textfile1.txt
+	4.179591836	drums	close_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1459/textfile1.txt
+	0.968684807	guitar	close_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/146/textfile1.txt
+	0.789478458	harpsichord	close_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1460/textfile1.txt
+	stage_sounds	1	unexpected_function
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1461/textfile1.txt
+	264.13047619	(guitar	close_missing_reopen
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1464/textfile1.txt
+	applause	59	unexpected_function
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1467/textfile1.txt
+	227.944761904	(guitar	close_missing_reopen
+/Users/jordan/Documents/repositories/salami-data-public/annotations/147/textfile2.txt
+	313.175396825	violin)	open_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1475/textfile2.txt
+	60.114648526	chorus (voice)	open_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1478/textfile2.txt
+	289.472789115	(saxophone)	close_missing_reopen
+	402.649070294	saxophone)	open_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1487/textfile2.txt
+	161.392834467	(guitar	close_missing_reopen
+/Users/jordan/Documents/repositories/salami-data-public/annotations/15/textfile1.txt
+	157.418367346	(guitar	close_missing_reopen
+/Users/jordan/Documents/repositories/salami-data-public/annotations/15/textfile2.txt
+	Verse (vocals	11	unexpected_function
+	150.233106575	vocals)	open_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/150/textfile2.txt
+	ritornello	9	unexpected_function
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1503/textfile1.txt
+	105.024353741	strings)	open_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1507/textfile1.txt
+	222.252970521	trans (clarinet)	open_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1508/textfile1.txt
+	76.926825396	(strings	close_missing_reopen
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1509/textfile1.txt
+	158.346145124	(violin	close_missing_reopen
+	446.778730158	(violin	close_missing_reopen
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1523/textfile1.txt
+	54.781995464	(piano	close_missing_reopen
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1525/textfile1.txt
+	116.300657596	(voice)	close_missing_reopen
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1531/textfile1.txt
+	164.610907029	guitar	close_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1542/textfile1.txt
+	muted	22	unexpected_function
+	184.075238095	trumpet)	open_missing
+	150.698004535	muted trumpet	close_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1543/textfile1.txt
+	150.631292517	(horns	close_missing_reopen
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1544/textfile1.txt
+	0.162539682	drums	close_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1549/textfile1.txt
+	245.002766439	(guitar)	close_missing_reopen
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1558/textfile1.txt
+	14.194489795	trumpet)	open_missing
+	229.510816326	(synthesizer	close_missing_reopen
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1565/textfile1.txt
+	bass	60	unexpected_function
+	159.536507936	bass	close_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1568/textfile1.txt
+	head (saxophone	48	unexpected_function
+	452.750498866	saxophone)	open_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1576/textfile1.txt
+	171.112199546	guitar	close_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1583/textfile1.txt
+	pre-chorus (vocal	54	unexpected_function
+	319.385782312	vocal)	open_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1595/textfile1.txt
+	109.123809523	(voice	close_missing_reopen
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1597/textfile1.txt
+	89.379160997	(voice	close_missing_reopen
+/Users/jordan/Documents/repositories/salami-data-public/annotations/160/textfile2.txt
+	post-cadential	10	unexpected_function
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1618/textfile1.txt
+	196.437777777	vibes	close_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1629/textfile1.txt
+	190.936938775	(piano	close_missing_reopen
+	13.320385487	voice	close_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1631/textfile1.txt
+	71.338480725	guitar)	open_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1635/textfile1.txt
+	121.175374149	voice)	open_missing
+	135.135600907	guitar)	open_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/1639/textfile1.txt
+	voice	24	unexpected_function
+	96.936258503	voice	close_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/166/textfile2.txt
+	0.110204081	strings	close_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/173/textfile2.txt
+	72.910657596	trans (clarinet)	open_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/184/textfile1.txt
+	72.927029478	(piano	close_missing_reopen
+	127.028911564	(piano	close_missing_reopen
+/Users/jordan/Documents/repositories/salami-data-public/annotations/189/textfile1.txt
+	227.228639455	(violin	close_missing_reopen
+/Users/jordan/Documents/repositories/salami-data-public/annotations/19/textfile2.txt
+	194.51356009	vocals)	open_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/190/textfile1.txt
+	da_capo	13	unexpected_function
+/Users/jordan/Documents/repositories/salami-data-public/annotations/190/textfile2.txt
+	91.822675736	(voice	close_missing_reopen
+	91.822675736	voice	close_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/192/textfile1.txt
+	23.41170068	(voice	close_missing_reopen
+/Users/jordan/Documents/repositories/salami-data-public/annotations/2/textfile2.txt
+	154.334036281	vocal)	open_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/204/textfile1.txt
+	65.54356009	(organ	close_missing_reopen
+	161.046666666	voice)	open_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/205/textfile1.txt
+	0.278639455	violin	close_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/216/textfile2.txt
+	bagpipes	28	unexpected_function
+	4.609160997	bagpipes	close_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/220/textfile2.txt
+	violin	1	unexpected_function
+	violin	12	unexpected_function
+/Users/jordan/Documents/repositories/salami-data-public/annotations/222/textfile2.txt
+	90.356825396	(voices	close_missing_reopen
+/Users/jordan/Documents/repositories/salami-data-public/annotations/232/textfile1.txt
+	35.66585034	(voice	close_missing_reopen
+/Users/jordan/Documents/repositories/salami-data-public/annotations/237/textfile1.txt
+	293.415283446	(voices)	close_missing_reopen
+/Users/jordan/Documents/repositories/salami-data-public/annotations/245/textfile2.txt
+	response	1	unexpected_function
+	response	10	unexpected_function
+/Users/jordan/Documents/repositories/salami-data-public/annotations/250/textfile2.txt
+	0.464399092	voice	close_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/251/textfile1.txt
+	voice	1	unexpected_function
+	228.176054421	voice)	open_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/258/textfile2.txt
+	contrasting_middle	5	unexpected_function
+/Users/jordan/Documents/repositories/salami-data-public/annotations/26/textfile2.txt
+	255.924648526	voice)	open_missing
+	286.14	voice)	open_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/261/textfile1.txt
+	49.766598639	strings)	open_missing
+	1688.717641723	(wind	close_missing_reopen
+/Users/jordan/Documents/repositories/salami-data-public/annotations/266/textfile2.txt
+	main theme (flute	18	unexpected_function
+	119.220090702	flute)	open_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/270/textfile1.txt
+	140.628911564	string)	open_missing
+	173.801360544	(strings)	close_missing_reopen
+/Users/jordan/Documents/repositories/salami-data-public/annotations/274/textfile2.txt
+	contrasting_middle	6	unexpected_function
+	post-cadential	12	unexpected_function
+/Users/jordan/Documents/repositories/salami-data-public/annotations/276/textfile1.txt
+	232.942585034	(cello	close_missing_reopen
+/Users/jordan/Documents/repositories/salami-data-public/annotations/277/textfile1.txt
+	246.486575963	voice)	open_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/28/textfile2.txt
+	Solo (bass	8	unexpected_function
+	Solo (drums	29	unexpected_function
+	218.873673469	bass)	open_missing
+	265.427301587	drums)	open_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/280/textfile2.txt
+	211.022947845	strings)	open_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/282/textfile1.txt
+	186.398321995	(soprano)	close_missing_reopen
+/Users/jordan/Documents/repositories/salami-data-public/annotations/282/textfile2.txt
+	262.437301587	(chorus)	close_missing_reopen
+/Users/jordan/Documents/repositories/salami-data-public/annotations/283/textfile2.txt
+	39.602222222	voice	close_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/287/textfile2.txt
+	violin	24	unexpected_function
+	91.648163265	violin)	open_missing
+	98.638367346	(piano)	close_missing_reopen
+	186.647619047	violin)	open_missing
+	191.895079365	paino)	open_missing
+	189.349750566	piano	close_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/293/textfile1.txt
+	569.46861678	(viola	close_missing_reopen
+/Users/jordan/Documents/repositories/salami-data-public/annotations/295/textfile1.txt
+	270.094512471	voice)	open_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/30/textfile2.txt
+	129.446984126	(guitar	close_missing_reopen
+	144.486870748	(guitar	close_missing_reopen
+/Users/jordan/Documents/repositories/salami-data-public/annotations/306/textfile1.txt
+	75.78941043	(piano	close_missing_reopen
+/Users/jordan/Documents/repositories/salami-data-public/annotations/307/textfile1.txt
+	guitar	29	unexpected_function
+	steel	30	unexpected_function
+	316.203764172	guitar)	open_missing
+	305.139795918	steel	close_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/31/textfile2.txt
+	0.139319727	guitar	close_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/311/textfile2.txt
+	out	24	unexpected_function
+/Users/jordan/Documents/repositories/salami-data-public/annotations/312/textfile2.txt
+	120.28	(voice	close_missing_reopen
+/Users/jordan/Documents/repositories/salami-data-public/annotations/314/textfile2.txt
+	guitar	1	unexpected_function
+	64.793287981	(slide	close_missing_reopen
+	64.793287981	guitar)	open_missing
+	147.806575963	(slide	close_missing_reopen
+	147.806575963	guitar)	open_missing
+	147.806575963	slide	close_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/32/textfile1.txt
+	124.053333333	(voice	close_missing_reopen
+/Users/jordan/Documents/repositories/salami-data-public/annotations/325/textfile2.txt
+	Verse (vocals	5	unexpected_function
+	55.820770975	vocals)	open_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/327/textfile1.txt
+	organ	19	unexpected_function
+	hammond	20	unexpected_function
+	115.864353741	organ)	open_missing
+	106.975442176	hammond	close_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/328/textfile2.txt
+	out	12	unexpected_function
+/Users/jordan/Documents/repositories/salami-data-public/annotations/330/textfile2.txt
+	1.137777777	voice)	open_missing
+	1.137777777	spoken	close_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/331/textfile2.txt
+	197.263106575	(voice	close_missing_reopen
+/Users/jordan/Documents/repositories/salami-data-public/annotations/332/textfile1.txt
+	152.343015873	voice	close_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/332/textfile2.txt
+	228.232403628	vocals)	open_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/334/textfile1.txt
+	pick-up	1	unexpected_function
+/Users/jordan/Documents/repositories/salami-data-public/annotations/334/textfile2.txt
+	out	32	unexpected_function
+	out	33	unexpected_function
+/Users/jordan/Documents/repositories/salami-data-public/annotations/335/textfile1.txt
+	221.692539682	voice)	open_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/336/textfile2.txt
+	158.941836734	(synth	close_missing_reopen
+	233.006689342	vocals)	open_missing
+	158.941836734	synth	close_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/339/textfile2.txt
+	third	29	unexpected_function
+	third	31	unexpected_function
+	third	33	unexpected_function
+	third	35	unexpected_function
+/Users/jordan/Documents/repositories/salami-data-public/annotations/34/textfile1.txt
+	intro. (guitar	1	unexpected_function
+	8.382403628	guitar)	open_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/341/textfile2.txt
+	30.389501133	synth)	open_missing
+	12.260612244	synthesizer	close_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/343/textfile2.txt
+	intro (keyboard	1	unexpected_function
+	9.083151927	keyboard)	open_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/346/textfile2.txt
+	176.394557823	(voice	close_missing_reopen
+	70.606621315	percussion	close_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/347/textfile1.txt
+	voice	1	unexpected_function
+	spoken	2	unexpected_function
+	7.082086167	voice)	open_missing
+	0.097959183	spoken	close_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/348/textfile2.txt
+	out	8	unexpected_function
+	0.02031746	box)	open_missing
+	55.304126984	(music	close_missing_reopen
+	55.304126984	box)	open_missing
+	55.304126984	music	close_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/349/textfile2.txt
+	out	42	unexpected_function
+/Users/jordan/Documents/repositories/salami-data-public/annotations/35/textfile2.txt
+	68.767437641	vocal)	open_missing
+	87.886281179	vocal)	open_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/350/textfile1.txt
+	voice	1	unexpected_function
+	spoken	3	unexpected_function
+	voice	10	unexpected_function
+	spoken	11	unexpected_function
+	voice	22	unexpected_function
+	spoken	25	unexpected_function
+	voice	34	unexpected_function
+	spoken	35	unexpected_function
+	10.914285714	voice)	open_missing
+	54.110204081	(spoken	close_missing_reopen
+	60.322448979	voice)	open_missing
+	128.13877551	(spoken	close_missing_reopen
+	146.661224489	voice)	open_missing
+	202.151020408	(spoken	close_missing_reopen
+	208.297959183	voice)	open_missing
+	202.151020408	spoken	close_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/355/textfile1.txt
+	115.51600907	chorus)	open_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/358/textfile2.txt
+	245.3623356	voice)	open_missing
+	245.3623356	spoken	close_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/365/textfile1.txt
+	voice	18	unexpected_function
+	spoken	19	unexpected_function
+	193.005668934	voice)	open_missing
+	182.348208616	spoken	close_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/367/textfile2.txt
+	out	38	unexpected_function
+/Users/jordan/Documents/repositories/salami-data-public/annotations/368/textfile1.txt
+	317.518344671	voice)	open_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/368/textfile2.txt
+	24.999523809	voice	close_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/370/textfile2.txt
+	voice	2	unexpected_function
+	spoken	3	unexpected_function
+	18.528344671	voice)	open_missing
+	9.428662131	spoken	close_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/373/textfile1.txt
+	out	23	unexpected_function
+/Users/jordan/Documents/repositories/salami-data-public/annotations/376/textfile2.txt
+	out	50	unexpected_function
+/Users/jordan/Documents/repositories/salami-data-public/annotations/378/textfile1.txt
+	0.255419501	voice)	open_missing
+	29.303582766	shots)	open_missing
+	0.255419501	spoken	close_missing
+	29.303582766	gun	close_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/382/textfile1.txt
+	8.626054421	voice)	open_missing
+	8.626054421	spoken	close_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/386/textfile2.txt
+	107.583968253	(organ	close_missing_reopen
+/Users/jordan/Documents/repositories/salami-data-public/annotations/39/textfile1.txt
+	applause	32	unexpected_function
+	55.69632653	(guitar	close_missing_reopen
+/Users/jordan/Documents/repositories/salami-data-public/annotations/390/textfile2.txt
+	0.420249433	(organ)	close_missing_reopen
+/Users/jordan/Documents/repositories/salami-data-public/annotations/395/textfile2.txt
+	first	3	unexpected_function
+	first	7	unexpected_function
+	third	21	unexpected_function
+	first	25	unexpected_function
+/Users/jordan/Documents/repositories/salami-data-public/annotations/396/textfile1.txt
+	guitar	1	unexpected_function
+	gypsy	8	unexpected_function
+	guitar	17	unexpected_function
+	51.896575963	guitar)	open_missing
+	118.027006802	(gypsy	close_missing_reopen
+	154.853854875	(gypsy	close_missing_reopen
+	154.853854875	guitar)	open_missing
+	169.742040816	(gypsy	close_missing_reopen
+	169.742040816	guitar)	open_missing
+	169.742040816	gypsy	close_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/40/textfile1.txt
+	0.319274376	guitar	close_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/40/textfile2.txt
+	intro (guitar	1	unexpected_function
+	124.807256235	guitar)	open_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/404/textfile1.txt
+	141.35510204	(trumpet)	close_missing_reopen
+/Users/jordan/Documents/repositories/salami-data-public/annotations/406/textfile2.txt
+	solo (guitar	100	unexpected_function
+	186.27063492	(spoken	close_missing_reopen
+	315.187369614	guitar)	open_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/408/textfile1.txt
+	81.943968253	(guitar	close_missing_reopen
+/Users/jordan/Documents/repositories/salami-data-public/annotations/412/textfile2.txt
+	verse (rap	29	unexpected_function
+	238.594716553	rap)	open_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/414/textfile1.txt
+	113.711678004	saxohphone)	open_missing
+	199.275351473	(saxophone)	close_missing_reopen
+/Users/jordan/Documents/repositories/salami-data-public/annotations/414/textfile2.txt
+	251.517891156	voice)	open_missing
+	212.598503401	voices	close_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/418/textfile2.txt
+	242.927165532	clarinet)	open_missing
+	196.092517006	saxophone	close_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/42/textfile2.txt
+	solo (piano	26	unexpected_function
+	193.426281179	piano)	open_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/423/textfile2.txt
+	trumpet	21	unexpected_function
+	144.149478458	trombone)	open_missing
+	442.342879818	(trumpet	close_missing_reopen
+/Users/jordan/Documents/repositories/salami-data-public/annotations/426/textfile1.txt
+	298.56217687	vibraphone	close_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/427/textfile2.txt
+	b (horns	2	unexpected_function
+	101.221337868	horns)	open_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/429/textfile2.txt
+	78.643424036	sax)	open_missing
+	10.521904761	Sax	close_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/432/textfile1.txt
+	798.064444444	solo (piano)	open_missing
+	813.834557823	solo (piano)	open_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/437/textfile1.txt
+	407.231337868	trumpet)	open_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/439/textfile1.txt
+	103.13170068	solo (percussion)	open_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/450/textfile1.txt
+	132.43063492	(trumpet	close_missing_reopen
+/Users/jordan/Documents/repositories/salami-data-public/annotations/453/textfile2.txt
+	312.819206349	bari sax)	open_missing
+	343.653492063	bari sax)	open_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/460/textfile2.txt
+	141.800997732	trumpet)	open_missing
+	116.856802721	clarinet	close_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/47/textfile1.txt
+	140.494603174	(vocal	close_missing_reopen
+/Users/jordan/Documents/repositories/salami-data-public/annotations/47/textfile2.txt
+	Verse (vocals	3	unexpected_function
+	Verse (vocals	21	unexpected_function
+	91.752471655	vocals)	open_missing
+	175.089637188	vocals)	open_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/470/textfile2.txt
+	163.173832199	(violin	close_missing_reopen
+/Users/jordan/Documents/repositories/salami-data-public/annotations/472/textfile2.txt
+	333.717188208	(trumpet)	close_missing_reopen
+/Users/jordan/Documents/repositories/salami-data-public/annotations/479/textfile1.txt
+	solo (sax	16	unexpected_function
+	284.054512471	sax)	open_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/479/textfile2.txt
+	solo (saxophone	5	unexpected_function
+	62.021814058	saxophone)	open_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/488/textfile2.txt
+	373.371383219	(piano	close_missing_reopen
+/Users/jordan/Documents/repositories/salami-data-public/annotations/495/textfile1.txt
+	67.477188208	(vocal	close_missing_reopen
+/Users/jordan/Documents/repositories/salami-data-public/annotations/509/textfile1.txt
+	287.06154195	(guitar	close_missing_reopen
+	287.06154195	guitar	close_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/512/textfile1.txt
+	80.313968253	(piano	close_missing_reopen
+/Users/jordan/Documents/repositories/salami-data-public/annotations/517/textfile2.txt
+	127.531224489	(saxophone)	close_missing_reopen
+/Users/jordan/Documents/repositories/salami-data-public/annotations/518/textfile2.txt
+	152.371269841	(vocal)	close_missing_reopen
+	0.228571428	piano	close_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/519/textfile1.txt
+	139.703696145	(voice	close_missing_reopen
+/Users/jordan/Documents/repositories/salami-data-public/annotations/52/textfile2.txt
+	71.733446712	hramonica)	open_missing
+	56.193877551	harmonica	close_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/524/textfile2.txt
+	89.592879818	(voice	close_missing_reopen
+	170.368888888	voice)	open_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/525/textfile1.txt
+	39.769659863	piano	close_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/527/textfile1.txt
+	38.79941043	(vocal	close_missing_reopen
+/Users/jordan/Documents/repositories/salami-data-public/annotations/531/textfile2.txt
+	transition (trumpet	4	unexpected_function
+	37.030430839	trumpet)	open_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/534/textfile2.txt
+	refrain (vocal	1	unexpected_function
+	137.79877551	vocal)	open_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/535/textfile2.txt
+	out	54	unexpected_function
+/Users/jordan/Documents/repositories/salami-data-public/annotations/536/textfile1.txt
+	voice	20	unexpected_function
+	spoken	22	unexpected_function
+	0.293877551	voice)	open_missing
+	90.029138321	(spoken	close_missing_reopen
+	90.029138321	voice)	open_missing
+	171.497165532	(spoken	close_missing_reopen
+	171.497165532	voice)	open_missing
+	200.003968253	(spoken	close_missing_reopen
+	200.003968253	voice)	open_missing
+	304.00217687	(spoken	close_missing_reopen
+	321.546712018	voice)	open_missing
+	304.00217687	spoken	close_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/536/textfile2.txt
+	dialog	1	unexpected_function
+	groove	2	unexpected_function
+	dialog	4	unexpected_function
+	groove	5	unexpected_function
+	dialog	7	unexpected_function
+	groove	8	unexpected_function
+	dialog	9	unexpected_function
+	groove	10	unexpected_function
+	groove	22	unexpected_function
+	w/dialog	22	unexpected_function
+	groove	27	unexpected_function
+/Users/jordan/Documents/repositories/salami-data-public/annotations/539/textfile2.txt
+	intro (guitar	1	unexpected_function
+	14.466757369	guitar)	open_missing
+	247.106757369	(guitar	close_missing_reopen
+/Users/jordan/Documents/repositories/salami-data-public/annotations/54/textfile2.txt
+	0.351247165	guitar	close_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/546/textfile2.txt
+	1.646870748	vocal	close_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/548/textfile1.txt
+	225.312426303	(voice	close_missing_reopen
+	273.784331065	(voice	close_missing_reopen
+/Users/jordan/Documents/repositories/salami-data-public/annotations/550/textfile2.txt
+	ostinato	1	unexpected_function
+	ostinato	10	unexpected_function
+	ostinato	14	unexpected_function
+	ostinato	23	unexpected_function
+/Users/jordan/Documents/repositories/salami-data-public/annotations/551/textfile1.txt
+	239.50861678	vocal)	open_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/552/textfile2.txt
+	out	33	unexpected_function
+/Users/jordan/Documents/repositories/salami-data-public/annotations/558/textfile2.txt
+	149.672426303	(guitar)	close_missing_reopen
+	162.957641723	guitar)	open_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/559/textfile2.txt
+	243.147913832	voice)	open_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/566/textfile1.txt
+	7.914104308	stings)	open_missing
+	67.534331065	(strings)	close_missing_reopen
+/Users/jordan/Documents/repositories/salami-data-public/annotations/568/textfile1.txt
+	193.849501133	(voice	close_missing_reopen
+/Users/jordan/Documents/repositories/salami-data-public/annotations/573/textfile1.txt
+	12.589070294	verse	close_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/575/textfile2.txt
+	Chorus (voice 1	29	unexpected_function
+	168.296235827	voice 1 )	open_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/580/textfile2.txt
+	35.226099773	(voice	close_missing_reopen
+/Users/jordan/Documents/repositories/salami-data-public/annotations/582/textfile1.txt
+	168.609501133	brass)	open_missing
+	0.394716553	spoken voice	close_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/608/textfile2.txt
+	65.532517006	(guitar	close_missing_reopen
+/Users/jordan/Documents/repositories/salami-data-public/annotations/611/textfile1.txt
+	piano)_	13	unexpected_function
+	solo (piano	36	unexpected_function
+	131.42478458	(piano	close_missing_reopen
+	251.254648526	piano)	open_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/624/textfile2.txt
+	169.357823129	(voice	close_missing_reopen
+/Users/jordan/Documents/repositories/salami-data-public/annotations/626/textfile2.txt
+	6.419591836	harmonic)	open_missing
+	76.271927437	(harmonica	close_missing_reopen
+/Users/jordan/Documents/repositories/salami-data-public/annotations/629/textfile1.txt
+	out	61	unexpected_function
+	out	62	unexpected_function
+/Users/jordan/Documents/repositories/salami-data-public/annotations/63/textfile1.txt
+	491.543219954	strings)	open_missing
+	730.316530612	(strings	close_missing_reopen
+	783.023310657	(cello)	close_missing_reopen
+/Users/jordan/Documents/repositories/salami-data-public/annotations/632/textfile1.txt
+	0.371519274	drums	close_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/634/textfile1.txt
+	applause	1	unexpected_function
+	solo (guitar	25	unexpected_function
+	applause	41	unexpected_function
+	207.51079365	guitar)	open_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/639/textfile2.txt
+	voice	6	unexpected_function
+	male	7	unexpected_function
+	voice	14	unexpected_function
+	male	15	unexpected_function
+	voice	19	unexpected_function
+	female	20	unexpected_function
+	voice	23	unexpected_function
+	male	24	unexpected_function
+	voice	32	unexpected_function
+	male	33	unexpected_function
+	voice	36	unexpected_function
+	female	37	unexpected_function
+	voice	40	unexpected_function
+	male	41	unexpected_function
+	vocals	42	unexpected_function
+	backing	44	unexpected_function
+	5.370408163	vocals)	open_missing
+	10.086530612	voice)	open_missing
+	14.358412698	(backing	close_missing_reopen
+	14.358412698	vocals)	open_missing
+	18.653650793	(female	close_missing_reopen
+	18.653650793	voice)	open_missing
+	27.22217687	voice)	open_missing
+	31.487528344	(backing	close_missing_reopen
+	31.487528344	vocals)	open_missing
+	39.899229024	(backing	close_missing_reopen
+	39.899229024	vocals)	open_missing
+	44.184603174	(female	close_missing_reopen
+	44.184603174	voice)	open_missing
+	48.430408163	(backing	close_missing_reopen
+	48.430408163	vocals)	open_missing
+	52.670272108	(female	close_missing_reopen
+	52.670272108	voice)	open_missing
+	56.866462585	(male	close_missing_reopen
+	61.110884353	voice)	open_missing
+	65.307256235	(backing	close_missing_reopen
+	65.307256235	vocals)	open_missing
+	77.862380952	(female	close_missing_reopen
+	82.103582766	voice)	open_missing
+	86.343265306	(backing	close_missing_reopen
+	86.343265306	vocals)	open_missing
+	90.588004535	(female	close_missing_reopen
+	90.588004535	voice)	open_missing
+	94.987800453	(male	close_missing_reopen
+	99.139138321	voice)	open_missing
+	103.238299319	(backing	close_missing_reopen
+	103.238299319	vocals)	open_missing
+	115.782380952	(backing	close_missing_reopen
+	115.782380952	vocals)	open_missing
+	120.086394557	(female	close_missing_reopen
+	120.086394557	voice)	open_missing
+	124.27031746	(backing	close_missing_reopen
+	124.27031746	vocals)	open_missing
+	128.502290249	(female	close_missing_reopen
+	128.502290249	voice)	open_missing
+	132.71356009	(male	close_missing_reopen
+	136.953469387	voice)	open_missing
+	141.078548752	(backing	close_missing_reopen
+	141.078548752	vocals)	open_missing
+	149.335306122	(female	close_missing_reopen
+	153.586961451	voice)	open_missing
+	157.758276643	(backing	close_missing_reopen
+	157.758276643	vocals)	open_missing
+	161.982630385	(female	close_missing_reopen
+	161.982630385	voice)	open_missing
+	166.111247165	(male	close_missing_reopen
+	170.414421768	voice)	open_missing
+	174.542358276	(backing	close_missing_reopen
+	182.951428571	vocals)	open_missing
+	174.542358276	backing	close_missing
+	166.111247165	male	close_missing
+	161.982630385	female	close_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/640/textfile1.txt
+	vocals	3	unexpected_function
+	backing	4	unexpected_function
+	18.738095238	vocals)	open_missing
+	12.906575963	backing	close_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/642/textfile2.txt
+	out	40	unexpected_function
+/Users/jordan/Documents/repositories/salami-data-public/annotations/645/textfile2.txt
+	2.949342403	vocal	close_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/650/textfile1.txt
+	0.0	bass	close_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/650/textfile2.txt
+	165.321678004	voice)	open_missing
+	195.919297052	voice	close_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/656/textfile2.txt
+	111.938412698	guitar	close_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/662/textfile1.txt
+	count-in	1	unexpected_function
+	55.251882086	vocal)	open_missing
+	61.005510204	guitar)	open_missing
+	130.867664399	(guitar)	close_missing_reopen
+/Users/jordan/Documents/repositories/salami-data-public/annotations/663/textfile1.txt
+	33.942811791	vocal)	open_missing
+	70.824240362	vocal)	open_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/664/textfile1.txt
+	65.321043083	(guitar)	close_missing_reopen
+/Users/jordan/Documents/repositories/salami-data-public/annotations/667/textfile1.txt
+	107.142675736	hormonica)	open_missing
+	95.163764172	harmonica	close_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/669/textfile2.txt
+	3.94909297	(vocal	close_missing_reopen
+/Users/jordan/Documents/repositories/salami-data-public/annotations/671/textfile1.txt
+	127.319591836	(voice	close_missing_reopen
+	213.209024943	voice	close_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/672/textfile1.txt
+	solo (guitar	16	unexpected_function
+	183.574895833	guitar)	open_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/675/textfile2.txt
+	main theme (saxophone	3	unexpected_function
+	62.2930839	saxophone)	open_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/677/textfile1.txt
+	357.876553287	guitar	close_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/677/textfile2.txt
+	118.249954648	(guitar	close_missing_reopen
+	129.300249433	(voice	close_missing_reopen
+	275.020136054	(voice	close_missing_reopen
+	323.016190476	voice	close_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/678/textfile1.txt
+	476.826825396	piano)	open_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/68/textfile2.txt
+	361.69723356	(cello)	close_missing_reopen
+/Users/jordan/Documents/repositories/salami-data-public/annotations/684/textfile2.txt
+	145.83632653	(voice	close_missing_reopen
+/Users/jordan/Documents/repositories/salami-data-public/annotations/691/textfile1.txt
+	4.723537414	percussion	close_missing
+	194.904195011	vocal	close_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/692/textfile2.txt
+	voice	47	unexpected_function
+	213.682698412	(voice	close_missing_reopen
+	255.284331065	voice)	open_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/693/textfile1.txt
+	157.573310657	voice)	open_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/694/textfile1.txt
+	applause	33	unexpected_function
+/Users/jordan/Documents/repositories/salami-data-public/annotations/695/textfile1.txt
+	35.4675	verse (vocal)	open_missing
+	68.9175	verse (vocal)	open_missing
+	164.0025	(guitar)	close_missing_reopen
+/Users/jordan/Documents/repositories/salami-data-public/annotations/698/textfile2.txt
+	83.781360544	(voice	close_missing_reopen
+/Users/jordan/Documents/repositories/salami-data-public/annotations/7/textfile1.txt
+	121.018117913	(guitar)	close_missing_reopen
+/Users/jordan/Documents/repositories/salami-data-public/annotations/701/textfile1.txt
+	156.404489795	(piano	close_missing_reopen
+/Users/jordan/Documents/repositories/salami-data-public/annotations/703/textfile2.txt
+	203.409183673	guitar	close_missing
+	60.801632653	vocal	close_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/707/textfile2.txt
+	solo (guitar	26	unexpected_function
+	112.792653061	guitar)	open_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/733/textfile1.txt
+	10.372675736	(guitar	close_missing_reopen
+/Users/jordan/Documents/repositories/salami-data-public/annotations/734/textfile1.txt
+	272.0830839	(voice	close_missing_reopen
+/Users/jordan/Documents/repositories/salami-data-public/annotations/746/textfile1.txt
+	40.051337868	(horns	close_missing_reopen
+	415.367777777	(strings	close_missing_reopen
+	442.318299319	(strings	close_missing_reopen
+/Users/jordan/Documents/repositories/salami-data-public/annotations/747/textfile2.txt
+	Solo (flute	19	unexpected_function
+	181.931791383	flute)	open_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/75/textfile2.txt
+	119.768526077	Second theme (trumpet)	open_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/752/textfile1.txt
+	67.964807256	(crumhorn	close_missing_reopen
+	108.057029478	(flute	close_missing_reopen
+/Users/jordan/Documents/repositories/salami-data-public/annotations/755/textfile1.txt
+	call_and_response	21	unexpected_function
+	call_and_response	23	unexpected_function
+/Users/jordan/Documents/repositories/salami-data-public/annotations/755/textfile2.txt
+	54.845532879	Chorus (choir)	open_missing
+	139.226848072	Chorus (choir)	open_missing
+	181.719365079	Chorus (choir)	open_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/759/textfile1.txt
+	36.905804988	theme (cymbal)	open_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/762/textfile1.txt
+	0.394739229	flute	close_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/765/textfile2.txt
+	d/b	13	unexpected_function
+	d/b	15	unexpected_function
+	d/b	17	unexpected_function
+/Users/jordan/Documents/repositories/salami-data-public/annotations/772/textfile1.txt
+	187.192947845	(brass	close_missing_reopen
+/Users/jordan/Documents/repositories/salami-data-public/annotations/775/textfile2.txt
+	b/c'	14	unexpected_function
+	b/c'	34	unexpected_function
+	a'/a''	35	unexpected_function
+	112.98526077	a'' (trumpet)	open_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/778/textfile2.txt
+	22.407936507	b (spoken voice)	open_missing
+	101.950657596	refrain (guitar)	open_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/779/textfile1.txt
+	167.995714285	brag pipes)	open_missing
+	158.829501133	bag pipes	close_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/786/textfile1.txt
+	92.485011337	voice)	open_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/795/textfile1.txt
+	applause	1	unexpected_function
+	applause	27	unexpected_function
+/Users/jordan/Documents/repositories/salami-data-public/annotations/813/textfile2.txt
+	refrain (chorus	19	unexpected_function
+	96.441519274	chorus)	open_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/814/textfile2.txt
+	249.566780045	(trumpet	close_missing_reopen
+/Users/jordan/Documents/repositories/salami-data-public/annotations/815/textfile1.txt
+	solo (voice	4	unexpected_function
+	solo (voice	8	unexpected_function
+	63.521995464	voice)	open_missing
+	149.053015873	voice)	open_missing
+	321.325510204	solo (flute)	open_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/816/textfile2.txt
+	45.836190476	(horns)	close_missing_reopen
+/Users/jordan/Documents/repositories/salami-data-public/annotations/820/textfile1.txt
+	124.54861678	trumpet)	open_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/820/textfile2.txt
+	91.44755102	voice)	open_missing
+	33.656712018	vocie	close_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/826/textfile2.txt
+	piano	10	unexpected_function
+	231.597823129	piano)	open_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/837/textfile1.txt
+	73.93095238	voice)	open_missing
+	90.055147392	voice)	open_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/846/textfile1.txt
+	110.524399092	(voice)	close_missing_reopen
+/Users/jordan/Documents/repositories/salami-data-public/annotations/846/textfile2.txt
+	240.512290249	guitar)	open_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/852/textfile1.txt
+	intro (didgeridoo	1	unexpected_function
+	24.224603174	didgeridoo)	open_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/860/textfile2.txt
+	intro (bagpipes	4	unexpected_function
+	55.68079365	bagpipes)	open_missing
+	246.428911564	chorus	close_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/868/textfile1.txt
+	34.574512471	intro (violin)	open_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/870/textfile1.txt
+	vocalizations	17	unexpected_function
+/Users/jordan/Documents/repositories/salami-data-public/annotations/879/textfile1.txt
+	applause	14	unexpected_function
+/Users/jordan/Documents/repositories/salami-data-public/annotations/88/textfile2.txt
+	284.307573696	(trumpet)	close_missing_reopen
+/Users/jordan/Documents/repositories/salami-data-public/annotations/880/textfile2.txt
+	308.691519274	outro (sitar)	open_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/886/textfile1b.txt
+	piece_1	1	unexpected_function
+	piece_2	2	unexpected_function
+/Users/jordan/Documents/repositories/salami-data-public/annotations/887/textfile1.txt
+	43.319070294	(flute	close_missing_reopen
+/Users/jordan/Documents/repositories/salami-data-public/annotations/893/textfile2.txt
+	216.200997732	viloin)	open_missing
+	209.954829931	violin	close_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/904/textfile1.txt
+	125.943106575	saxophone	close_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/906/textfile2.txt
+	259.29585034	voice	close_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/907/textfile1.txt
+	chorus (voices	52	unexpected_function
+	277.130997732	voices)	open_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/909/textfile1.txt
+	223.474376417	drums	close_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/91/textfile2.txt
+	225.767619047	(violin)	close_missing_reopen
+	334.808526077	(trumpet	close_missing_reopen
+/Users/jordan/Documents/repositories/salami-data-public/annotations/910/textfile2.txt
+	0.846848072	vocal	close_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/914/textfile1.txt
+	29.744761904	trans (voice)	open_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/932/textfile1.txt
+	922.343015873	(violin	close_missing_reopen
+	965.969523809	cellos	close_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/933/textfile1.txt
+	254.237052154	accordian)	open_missing
+	313.665306122	violin	close_missing
+	313.665306122	accordian	close_missing
+	0.159637188	accordion	close_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/939/textfile1.txt
+	solo (accordion	33	unexpected_function
+	210.790022675	accordion)	open_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/941/textfile2.txt
+	112.036281179	(accordion	close_missing_reopen
+/Users/jordan/Documents/repositories/salami-data-public/annotations/947/textfile1.txt
+	spoken_voice	1	unexpected_function
+	114.714013605	violino)	open_missing
+	9.510340136	violin	close_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/948/textfile1.txt
+	187.375668934	(trumpet	close_missing_reopen
+	67.501224489	trombone	close_missing
+	103.182857142	saxophone	close_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/950/textfile2.txt
+	intro (saxophone	1	unexpected_function
+	13.171746031	saxophone)	open_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/955/textfile1.txt
+	applause	40	unexpected_function
+	stage_sounds	41	unexpected_function
+/Users/jordan/Documents/repositories/salami-data-public/annotations/957/textfile1.txt
+	applause	45	unexpected_function
+	stage_sounds	46	unexpected_function
+/Users/jordan/Documents/repositories/salami-data-public/annotations/960/textfile1.txt
+	stage_sounds	1	unexpected_function
+	applause	55	unexpected_function
+/Users/jordan/Documents/repositories/salami-data-public/annotations/962/textfile1.txt
+	529.995464852	(guitar)	close_missing_reopen
+/Users/jordan/Documents/repositories/salami-data-public/annotations/978/textfile1.txt
+	609.54632653	(saxophone	close_missing_reopen
+/Users/jordan/Documents/repositories/salami-data-public/annotations/980/textfile2.txt
+	tag	11	unexpected_function
+	tag	19	unexpected_function
+	tag	37	unexpected_function
+/Users/jordan/Documents/repositories/salami-data-public/annotations/986/textfile1.txt
+	166.981428571	(guitar	close_missing_reopen
+/Users/jordan/Documents/repositories/salami-data-public/annotations/990/textfile1.txt
+	stage_sounds	37	unexpected_function
+/Users/jordan/Documents/repositories/salami-data-public/annotations/995/textfile1.txt
+	65.759297052	(voice)	close_missing_reopen
+	275.501564625	voice)	open_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/997/textfile2.txt
+	241.420975056	voice	close_missing
+/Users/jordan/Documents/repositories/salami-data-public/annotations/999/textfile2.txt
+	557.503310657	sax)	open_missing
+	580.114285714	sax)	open_missing
+	580.114285714	bass)	open_missing
