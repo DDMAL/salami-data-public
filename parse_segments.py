@@ -96,46 +96,6 @@ def writeAnnotations(filename, uppercase=[], lowercase=[], functions=[], instrum
         with open(instlab, 'w') as f:
             f.write("\n".join(["\t".join(line) for line in instrumentLab]))
 
-# def convertInstrumentsToLab(justInstruments,times):
-#     openTags = {}
-#     instrumentLab = []
-#     errors = []
-#     # For each moment in time:
-#     for i,line in enumerate(justInstruments):
-#         now = times[i]
-#         if i<len(justInstruments[0:-1]):
-#             soon = times[i+1]
-#         else:
-#             soon = times[i]
-#             # We should never have to use this value of 'soon', of course, but let's just set it in case.
-#         # Look at the instrument tags (possibly several) in sequence:
-#         for word in line:
-#             # If it's a "both" tag
-#             if word[0]=="(" and word[-1]==")":
-#                 # Add complete tag span
-#                 instrumentLab += [[now, soon, word[1:-1]]]
-#             elif word[0]=="(":
-#                 # If word already in stack, something is wrong:
-#                 if word[1:] in openTags.keys():
-#                     print "Re-opening tag that was not closed!"
-#                     errors +=  [now, word]
-#                 # Either way, add it to the open tag stack:
-#                 openTags[word[1:]] = now
-#             elif word[-1]==")":
-#                 # Look for a match in the open tag stack:
-#                 if word[:-1] in openTags.keys():
-#                     instrumentLab += [[openTags[word[:-1]], soon, word[:-1]]]
-#                     del openTags[word[:-1]]
-#                 else:
-#                     print "Tag was closed but no open tag could be found!"
-#                     errors += [now, word]
-#     # After all the tags have been added, is there anything left in the openTagStack?
-#     for key in openTags.keys():
-#         print "Tag was opened but no close tag could be found!"
-#         print errors += [openTags[key], key]
-#     return instrumentLab, errors
-
-
 def convertInstrumentsToLab(justInstruments,times):
     openTags = {}
     instrumentLab = []
@@ -172,19 +132,6 @@ def convertInstrumentsToLab(justInstruments,times):
         errors += [openTags[instr], instr]
     return instrumentLab, errors
 
-# def convertInstrumentsToLab(justInstruments,times):
-#     for line in justInstruments:
-#         for tag in line:
-#             if tag[0]=="(" and tag[-1]==")":
-#                 # This is a one-item thing
-#
-# labtext = []
-# for i,line in enumerate(justInstruments):
-#     for tag in line:
-#         if tag[0]=="(" and tag[-1]==")":
-#             labtext += ["\t".join([times[i],times[i+1],tag[1:-1]])]
-
-
 filenames = getFilenames("/Users/jordan/Documents/repositories/salami-data-public/annotations")
 # Do one file:
 # filename = filenames[142]
@@ -205,43 +152,3 @@ for filename in filenames:
     functions = snapFunctionsToUppercase(functions,uppercase)
     instrumentLab, errors = convertInstrumentsToLab(justInstruments,times)
     writeAnnotations(filename, uppercase, lowercase, functions, instruments, instrumentLab)
-
-
-# basic = [[t for t in tag if t in basic_tags] for tag in tags]
-# uppercase = [[t for t in tag if re.sub("'","",t) in valid_uppercase] for tag in tags]
-# lowercase = [[t for t in tag if re.sub("'","",t) in valid_lowercase] for tag in tags]
-# instruments = [[t for t in tag if (t[0] in "()") or (t[-1] in "()")] for tag in tags]
-# functions = [[t for t in tag if (len(t)>2) and ("(" not in t) and (")" not in t) and (t not in basic_tags)] for tag in tags]
-#
-# # Now we prepare each stream for writing to a file.
-# def createAnnotation(times,basic,tags):
-#     txt = []
-#     for i,t in enumerate(times):
-#         if basic[i]:
-#             txt += [t + "\t" + basic[i][0]]
-#         if tags[i]:
-#             txt += [t + "\t" + tags[i][0]]
-#     return txt
-#
-#
-# uctxt = createAnnotation(times,basic,uppercase)
-# lctxt = createAnnotation(times,basic,lowercase)
-# intxt = createAnnotation(times,basic,instruments)
-# fntxt = createAnnotation(times,basic,functions)
-#
-# for line in uctxt:
-#     print line
-#
-# for line in lctxt:
-#     print line
-#
-# for line in intxt:
-#     print line
-#
-# for line in fntxt:
-#     print line
-#
-#
-# # Ah, but there's a wrinkle!
-# # What if there are two functions per line? I might be cutting them off.
-# # What if a big letter changes before a function does? Then the function is supposed to cease
