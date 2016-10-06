@@ -1,9 +1,9 @@
 0.000000000	Silence
-0.046439909	A, Intro, (harpsichord
-7.198185941	B, Main_Theme
+0.046439909	A, a, Intro, (harpsichord
+7.198185941	B, b, Main_Theme
 58.046190476	C, f, Theme
 94.878163265	g
 112.950294784	h
-124.838299319	E, Outro, harpsichord)
+124.838299319	E, e, Outro, harpsichord)
 140.132426303	Silence
 144.521337868	End

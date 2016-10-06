@@ -15,12 +15,12 @@
 69.892312925	d
 76.457641723	c
 82.873310657	d, guitar)
-89.203968253	C, Interlude, (percussion)
+89.203968253	C, g, Interlude, (percussion)
 107.787029478	D, e, Theme, (synthesizer, (guitar
 146.862834467	g
 153.823015873	e
 183.453764172	g, synthesizer), guitar)
-190.575895691	E, Transition, (guitar)
+190.575895691	E, h, Transition, (guitar)
 232.632403628	B, c, Solo, (organ
 239.793628117	d
 246.385192743	c
@@ -41,6 +41,6 @@
 340.618616780	a
 345.507709750	b
 350.305941043	a
-355.205555555	F, Outro, guitar)
+355.205555555	F, f, Outro, guitar)
 371.496054421	Silence
 374.470884353	End

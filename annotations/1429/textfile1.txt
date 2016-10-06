@@ -3,22 +3,22 @@
 9.881292517	b, banjo)
 16.997959183	A, a, Verse, (voice
 24.081882086	b
-31.329319727	B, Chorus
+31.329319727	B, c, Chorus
 39.490975056	A, a, Verse
 46.577301587	b, voice)
-53.687324263	B, Solo, (guitar)
+53.687324263	B, c, Solo, (guitar)
 61.789773242	A, a, Solo, (banjo
 68.950000000	b, banjo)
 75.995850340	A, a, Verse, (voice
 83.242244897	b, voice)
-90.421814058	B, Solo, (mandolin)
+90.421814058	B, c, Solo, (mandolin)
 98.779342403	A, a, Solo, (guitar
 105.801723356	b, guitar)
 112.970612244	A, a, Solo, (banjo
 120.219297052	b, banjo)
-127.419342403	B, Chorus, (voice
+127.419342403	B, c, Chorus, (voice
 135.771428571	A, a, Verse
 142.903106575	b
-150.143628117	C, Outro, voice)
+150.143628117	C, d, Outro, voice)
 167.114013605	Z
 209.580408163	End

@@ -1,5 +1,5 @@
 0.000000000	Z
-7.453786848	A, Intro, (drums)
+7.453786848	A, a, Intro, (drums)
 9.936575963	B, b, Intro, (guitar
 15.193696145	b
 20.295419501	C, c, Theme

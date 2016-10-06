@@ -11,7 +11,7 @@
 177.036485260	f'
 194.064195011	r
 209.944149659	D, i, Outro, piano)
-239.408253968	E, Transition, (strings)
+239.408253968	E, t, Transition, (strings)
 246.358231292	B, c, variation, (piano
 262.248639455	d
 278.118299319	e

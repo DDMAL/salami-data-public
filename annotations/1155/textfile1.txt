@@ -43,7 +43,7 @@
 293.712766439	c
 300.707120181	c
 307.351065759	c, sax)
-314.176643990	E, Transition, (drums)
+314.176643990	E, e, Transition, (drums)
 319.324444444	D, d, Bridge, (guitar
 326.354739229	d, guitar)
 333.092403628	d, (voice

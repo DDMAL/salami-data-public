@@ -1,5 +1,5 @@
 0.000000000	Z
-0.394739229	B, Intro
+0.394739229	B, e, Intro
 2.328639455	A, a, Intro, (guitar
 9.723106575	a, guitar)
 17.177551020	A, a, Chorus, (sax
