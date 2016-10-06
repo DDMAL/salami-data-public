@@ -1,18 +1,18 @@
 0.000000000	Silence
-0.381632653	V, Verse, (voice
-16.789002267	V, Verse
-31.316825396	C, Chorus
-45.595736961	V, Verse
-60.299909297	V, Verse
-74.643945578	C, Chorus, voice)
-88.735691609	V, Solo, (violin
-103.175691609	V, Solo
-117.272630385	C, Solo, violin)
-131.311541950	V, Verse, (voice
-145.752018140	V, Verse
-160.010816326	C, Chorus, voice)
-174.356575963	V, Solo, (piano
-188.471383219	V, Solo
-202.223333333	C, Solo, piano)
+0.381632653	V, v, Verse, (voice
+16.789002267	V, v, Verse
+31.316825396	C, c, Chorus
+45.595736961	V, v, Verse
+60.299909297	V, v, Verse
+74.643945578	C, c, Chorus, voice)
+88.735691609	V, v, Solo, (violin
+103.175691609	V, v, Solo
+117.272630385	C, c, Solo, violin)
+131.311541950	V, v, Verse, (voice
+145.752018140	V, v, Verse
+160.010816326	C, c, Chorus, voice)
+174.356575963	V, v, Solo, (piano
+188.471383219	V, v, Solo
+202.223333333	C, c, Solo, piano)
 218.004240362	Silence
 220.530702947	End

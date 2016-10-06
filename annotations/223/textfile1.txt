@@ -1,7 +1,7 @@
 0.000000000	Silence
-0.534058956	A, Chorus, (voice
+0.534058956	A, c, Chorus, (voice
 24.284126984	B, a
 45.283333333	b
-67.153061224	A, Chorus, voice)
+67.153061224	A, c, Chorus, voice)
 93.032743764	Silence
 96.368435374	End

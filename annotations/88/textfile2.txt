@@ -17,7 +17,7 @@
 148.381814058	h', strings)
 164.012222222	E, i, Theme, (trumpet
 184.111020408	i', trumpet)
-203.858276643	F, Transition, (strings)
+203.858276643	F, t, Transition, (strings)
 213.972108843	E, i, Theme, (trumpet
 246.572698412	G, j, Transition, (oboe)
 263.918004535	k, (violin)

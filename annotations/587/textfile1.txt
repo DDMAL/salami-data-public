@@ -8,7 +8,7 @@
 83.750725623	B, d, Verse, (voice
 93.209637188	E, f, Chorus
 102.446780045	f, voice)
-111.719614512	D, Interlude, (synthesizer)
+111.719614512	D, i, Interlude, (synthesizer)
 121.027120181	F, g, Bridge, (voice
 130.501360544	g
 140.044172335	E, f, Outro

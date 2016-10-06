@@ -5,21 +5,21 @@
 132.191201814	C, f, (flute
 189.970000000	D, c, Transition, flute)
 221.518367346	e
-246.073469387	E, (violin)
+246.073469387	E, ee, (violin)
 379.116235827	F, g, Transition
 432.405918367	h
-480.764716553	G, (sax
-530.908956916	H, Transition
-548.062426303	I, sax)
-606.040816326	J, (flute
+480.764716553	G, gg, (sax
+530.908956916	H, hh, Transition
+548.062426303	I, ii, sax)
+606.040816326	J, jj, (flute
 650.187755102	K, i, Transition, flute)
 675.134693877	j, (violin
-713.665306122	L, v
+713.665306122	L, ll, v
 812.376530612	w
-865.186326530	M
-900.384829931	N, Transition, violin)
-918.477981859	O, (clarinet)
-976.034512471	N', Transition, (violin)
-984.170997732	Q, (flute)
+865.186326530	M, mm
+900.384829931	N, nn, Transition, violin)
+918.477981859	O, oo, (clarinet)
+976.034512471	N', nn', Transition, (violin)
+984.170997732	Q, qq, (flute)
 1045.544625850	Silence
 1049.359024943	End

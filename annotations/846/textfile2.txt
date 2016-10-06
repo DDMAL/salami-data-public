@@ -6,16 +6,16 @@
 53.220136054	d, (guitar)
 61.138140589	c, (voice
 72.283718820	f, voice)
-88.119727891	C, Interlude, (guitar)
+88.119727891	C, i, Interlude, (guitar)
 110.632335600	B, c, Verse, (voice
 120.957210884	f, voice)
-133.236099773	C', Interlude, (guitar)
+133.236099773	C', i, Interlude, (guitar)
 148.932902494	B', f, Verse, (voice)
-164.466938775	D, Solo, (guitar)
+164.466938775	D, s, Solo, (guitar)
 190.891247165	B, c, Verse, (voice
 205.035260770	c
 213.142675736	f
 226.610476190	g, voice)
-240.512290249	C, Outro, guitar)
+240.512290249	C, o, Outro, guitar)
 250.398253968	Silence
 255.749251700	End

@@ -1,8 +1,8 @@
 0.000000000	Silence
-1.175510204	A, Intro, (saxophone
-111.904126984	B, Solo
-206.378956916	C
-290.132358276	D, saxophone)
-336.522448979	E, Outro, (percussion)
+1.175510204	A, a, Intro, (saxophone
+111.904126984	B, b, Solo
+206.378956916	C, c
+290.132358276	D, d, saxophone)
+336.522448979	E, e, Outro, (percussion)
 421.696553287	Silence
 425.051315192	End

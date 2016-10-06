@@ -15,11 +15,11 @@
 167.289365079	g, piano)
 179.004081632	A', a, Transition, (violin
 189.326394557	C', c, Theme
-207.412244897	E, Transition, violin)
+207.412244897	E, t, Transition, violin)
 230.334693877	B', b, (piano)
 250.710204081	b, (violin
 268.165487528	C', c, Theme
 283.559183673	b
-300.125192743	F, Coda, violin)
+300.125192743	F, o, Coda, violin)
 311.118367346	Silence
 331.056326530	End

@@ -1,5 +1,5 @@
 0.000000000	Silence
-0.395283446	A, Intro, (voice
+0.395283446	A, i, Intro, (voice
 23.329546485	B, a, Intro
 35.384036281	a'
 47.426530612	C, c, Verse

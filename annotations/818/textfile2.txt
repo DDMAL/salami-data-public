@@ -10,19 +10,19 @@
 88.654784580	B, b, Verse, (voice)
 96.664671201	A, a, Transition, (guitar)
 102.784353741	B, c, Verse, (voice)
-119.374399092	C, Transition, (guitar)
+119.374399092	C, t, Transition, (guitar)
 133.174421768	B, b, Verse, (voice
 136.510113378	c
 143.263242630	e, voice)
-152.289931972	C, Transition, (guitar)
+152.289931972	C, t, Transition, (guitar)
 162.232698412	B, b, Verse, (voice
 165.042517006	c
 171.947074829	e, voice)
-179.762925170	C, Transition, (guitar)
+179.762925170	C, t, Transition, (guitar)
 190.185328798	B, b, Verse, (voice
 193.927709750	c
 199.796575963	e, voice)
-207.347142857	C, Transition, (guitar)
+207.347142857	C, t, Transition, (guitar)
 217.751587301	D, f, Chorus, (voice
 222.869206349	f
 228.261247165	g

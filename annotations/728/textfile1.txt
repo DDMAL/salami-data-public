@@ -1,5 +1,5 @@
 0.000000000	Silence
-0.391836734	A, Intro, (guitar
+0.391836734	A, i, Intro, (guitar
 2.929455782	B, a, Intro
 12.908299319	a, guitar)
 22.836235827	D, c, Verse, (voice

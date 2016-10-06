@@ -2,16 +2,16 @@
 4.667210884	B, a, Verse, (voice
 18.343764172	D, b, Chorus
 30.780975056	b, voice)
-42.970657596	C, Transition, (strings)
+42.970657596	C, t, Transition, (strings)
 45.812970521	B, a, Verse, (voice
 56.227006802	D, b, Chorus
 68.273424036	B, a, Verse
 77.797120181	E, c, Chorus
 87.146780045	d, voice)
-98.724263038	C, Transition, (strings)
-100.551927437	B, Verse, (voice
+98.724263038	C, t, Transition, (strings)
+100.551927437	B, a, Verse, (voice
 109.621405895	E, c, Chorus
 118.586145124	d, voice)
-127.729002267	C, Outro, (strings)
+127.729002267	C, o, Outro, (strings)
 138.592312925	Z
 146.464240362	End

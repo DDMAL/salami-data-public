@@ -1,10 +1,10 @@
 0.000000000	Silence
-0.580498866	A, Head, (piano
-22.383673469	A, Head
-40.179591836	B, Solo, piano)
-101.471201814	A', Head, (saxophone
-113.348321995	C, Solo
-165.616326530	A, Head
-178.285714285	A'', Outro, saxophone)
+0.580498866	A, a, Head, (piano
+22.383673469	A, a, Head
+40.179591836	B, b, Solo, piano)
+101.471201814	A', a', Head, (saxophone
+113.348321995	C, c, Solo
+165.616326530	A, a, Head
+178.285714285	A'', a'', Outro, saxophone)
 187.252494331	Silence
 190.565306122	End

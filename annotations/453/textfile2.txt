@@ -3,14 +3,14 @@
 8.532222222	b
 14.007369614	A, a, Head
 20.482585034	b, sax)
-27.053696145	B, Transition, (horns
+27.053696145	B, tt, Transition, (horns
 33.376349206	C, c, Theme
 39.958458049	d
 46.533741496	e
 53.078594104	d', horns)
 62.896167800	A, a, Head, (sax
 69.428866213	b'
-72.625192743	E, Transition
+72.625192743	E, tt', Transition
 86.183582766	D, h, Solo
 93.030952380	i
 99.702811791	j

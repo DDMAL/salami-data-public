@@ -1,5 +1,5 @@
 0.000000000	Silence
-2.869115646	I, Intro, Solo, (guitar
+2.869115646	I, i', Intro, Solo, (guitar
 45.567414965	A, a, Head
 51.427346938	a
 56.821224489	b

@@ -1,9 +1,9 @@
 0.000000000	Silence
-1.044897959	A, Theme, (violin
-70.499591836	B, Theme
-123.924784580	C, Theme
-191.250680272	D, Theme
-329.012244897	E, Theme
-368.267777777	F, Theme, violin)
+1.044897959	A, a, Theme, (violin
+70.499591836	B, b, Theme
+123.924784580	C, c, Theme
+191.250680272	D, d, Theme
+329.012244897	E, e, Theme
+368.267777777	F, f, Theme, violin)
 451.784807256	Silence
 458.051405895	End

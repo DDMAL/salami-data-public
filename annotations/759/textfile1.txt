@@ -1,16 +1,16 @@
 0.000000000	Silence
-0.449319727	A, Intro, (percussion
-15.059773242	B, Theme, percussion)
-36.905804988	C, theme (cymbal)
-51.401247165	D, Theme, (chimes)
-73.183356009	B, Theme, (percussion)
-91.297777777	C, Theme, (cymbal)
-105.887800453	E, Solo, (bongo)
-127.633287981	F, Theme, (wood block)
-142.204693877	B', Transition, (percussion)
-145.835464852	C, Theme, (cymbal)
-156.746213151	B, Theme, (percussion)
-174.880340136	E, Solo, (bongo)
-189.463333333	G, Outro, Fade-out, (percussion)
+0.449319727	A, a, Intro, (percussion
+15.059773242	B, b, Theme, percussion)
+36.905804988	C, c, theme (cymbal)
+51.401247165	D, d, Theme, (chimes)
+73.183356009	B, b, Theme, (percussion)
+91.297777777	C, c, Theme, (cymbal)
+105.887800453	E, e, Solo, (bongo)
+127.633287981	F, f, Theme, (wood block)
+142.204693877	B', b', Transition, (percussion)
+145.835464852	C, c, Theme, (cymbal)
+156.746213151	B, b, Theme, (percussion)
+174.880340136	E, e, Solo, (bongo)
+189.463333333	G, g, Outro, Fade-out, (percussion)
 240.293945578	Silence
 244.258095238	End

@@ -8,9 +8,9 @@
 195.326258503	D, f, Theme
 223.536621315	k
 236.064829931	f'
-262.234240362	G, Transition
+262.234240362	G, t, Transition
 290.126145124	E, h, Theme
 315.144625850	i, sax)
-336.818979591	F, Solo, (percussion)
+336.818979591	F, o, Solo, (percussion)
 420.629478458	Silence
 425.050317460	End

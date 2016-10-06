@@ -9,13 +9,13 @@
 53.823764172	B', c', Theme
 60.173650793	d
 65.576553287	d', oboe)
-72.910657596	C, trans (clarinet)
+72.910657596	C, x, trans (clarinet)
 84.568730158	D, m, Theme, (oboe
 90.733287981	n
 97.921678004	n, oboe)
 105.030136054	o, (clarinet
 110.281519274	o
-115.922879818	H, Transition, clarinet)
+115.922879818	H, t, Transition, clarinet)
 119.369455782	A', a, Theme, (oboe
 130.345736961	q, oboe)
 140.606371882	E, h, Theme, (clarinet), (bassoon)
