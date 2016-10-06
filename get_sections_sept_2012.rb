@@ -142,7 +142,7 @@ if !ARGV[1].nil? then
   filename = ARGV[1]
 end
 outdir = filename.split("/")[0..-2].join("/") + "/parsed"
-system("mkdir "+outdir)
+system("mkdir -p "+outdir)
 
 filearray = ["uppercase.txt", "lowercase.txt", "functions.txt"]
 descriptions = [zipper(uppercase), zipper(lowercase), zipper(functions)]
