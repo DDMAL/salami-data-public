@@ -34,7 +34,7 @@ Contents
 
 Each piece of music has 1 or 2 associated text files, since one or two listeners annotated each piece. (In the rare case of piece #78, there are 3 files, to indicate a 3-layer annotation by one listener.) The files are all labelled "textfile1.txt" and "textfile2.txt" and organized in directories by their unique SONG_ID: ```~/annotations/[song_id]/textfile[annotator_number].txt```. Each of these folders contains a subfolder, named ```parsed```, which contains separate files for each layer of the annotation: uppercase letters, lowercase letters, and functions.
 
-Annotations are provided as a single file in the format in which they were written. To understand how to parse this format, please look up the Annotator's Guide at http://ddmal.music.mcgill.ca/salami.
+Annotations are provided as a single file in the format in which they were written. To understand how to parse this format, please look up the Annotator's Guide at http://ddmal.music.mcgill.ca/research/salami/annotations.
 
 Metadata describing these files, including artist, track name, song duration and information about which annotators described them, are available in ```metadata.csv```. Additional metadata, with specialized fields for each source database, are provided under ```~/metadata```, and described by ```readme_metadata.txt```.
 
@@ -58,7 +58,7 @@ Resources
 ---------
 
 Visit the SALAMI homepage for detailed documentation (like the Annotator's Guide) and all other information about the SALAMI project:
-http://ddmal.music.mcgill.ca/salami
+http://ddmal.music.mcgill.ca/research/salami
 
 Visit the SALAMI page under DDMAL's Github for some handy community-written resources for managing SALAMI:
 https://github.com/DDMAL/SALAMI
