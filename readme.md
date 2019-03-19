@@ -63,6 +63,8 @@ http://ddmal.music.mcgill.ca/research/salami
 Visit the SALAMI page under DDMAL's Github for some handy community-written resources for managing SALAMI:
 https://github.com/DDMAL/SALAMI
 
+We cannot share the SALAMI audio directly, but we can point you to matching audio files on YouTube. A list of matching items can be found here: https://github.com/jblsmith/matching-salami
+
 
 References
 ----------
