@@ -57,7 +57,7 @@ Resources
 ---------
 
 Visit the SALAMI homepage for detailed documentation (like the Annotator's Guide) and all other information about the SALAMI project:
-http://ddmal.music.mcgill.ca/research/salami
+https://ddmal.music.mcgill.ca/research/SALAMI/
 
 Visit the SALAMI page under DDMAL's Github for some handy community-written resources for managing SALAMI:
 https://github.com/DDMAL/SALAMI
