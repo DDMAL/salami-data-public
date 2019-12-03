@@ -1,14 +1,17 @@
 SALAMI Data Set version 2.0
 ===========================
 
+
 Contents
 --------
 
 Each piece of music has 1 or 2 associated text files, since one or two listeners annotated each piece. (In the rare case of piece #78, there are 3 files, to indicate a 3-layer annotation by one listener.) The files are all labelled "textfile1.txt" and "textfile2.txt" and organized in directories by their unique SONG_ID: ```~/annotations/[song_id]/textfile[annotator_number].txt```. Each of these folders contains a subfolder, named ```parsed```, which contains separate files for each layer of the annotation: uppercase letters, lowercase letters, and functions.
 
-Annotations are provided as a single file in the format in which they were written. To understand how to parse this format, please look up the Annotator's Guide at https://ddmal.music.mcgill.ca/research/SALAMI/annotation/.
+Annotations are provided as a single file in the format in which they were written. To understand how to parse this format, please look at the Annotator's Guide, included in this repository (see ```SALAMI Annotator Guide.pdf```).
 
 Metadata describing these files, including artist, track name, song duration and information about which annotators described them, are available in ```metadata.csv```. Additional metadata, with specialized fields for each source database, are provided under ```~/metadata```, and described by ```readme_metadata.txt```.
+
+The old website for this dataset was https://ddmal.music.mcgill.ca/research/SALAMI/annotation/, but *this* repository contains the most complete and up-to-date version of the data.
 
 
 Changelog
@@ -38,12 +41,14 @@ Changes made in update to version 1.1 (14 March 2012):
 * 28 Isophonics annotation files added (SALAMI ID #1600-1654)
 * Additional metadata files with separate readme
 
+
 License
 -------
 
 This data is released under a Creative Commons 0 license, effectively dedicating it to the public domain. More information about this dedication and your rights, please see the details here:
 http://creativecommons.org/publicdomain/zero/1.0/
 http://creativecommons.org/publicdomain/zero/1.0/legalcode
+
 
 Citing SALAMI
 -------------
@@ -56,11 +61,11 @@ Jordan B. L. Smith, J. Ashley Burgoyne, Ichiro Fujinaga, David De Roure, and J. 
 Resources
 ---------
 
-Visit the SALAMI homepage for detailed documentation (like the Annotator's Guide) and all other information about the SALAMI project:
-https://ddmal.music.mcgill.ca/research/SALAMI/
-
 Visit the SALAMI page under DDMAL's Github for some handy community-written resources for managing SALAMI:
 https://github.com/DDMAL/SALAMI
+
+Visit the SALAMI homepage for all other information about the SALAMI project:
+https://ddmal.music.mcgill.ca/research/SALAMI/
 
 We cannot share the SALAMI audio directly, but we can point you to matching audio files on YouTube. A list of matching items can be found here: https://github.com/jblsmith/matching-salami
 
