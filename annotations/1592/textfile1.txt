@@ -26,7 +26,7 @@
 172.240725623	e, voice)
 179.216122448	f, (guitar
 186.101156462	f, guitar)
-193.072426303	G, Transition, (keys)
+193.072426303	G, t, Transition, (keys)
 200.089229024	C', b, Verse, (voice
 207.025374149	b
 215.614308390	D, c, Chorus

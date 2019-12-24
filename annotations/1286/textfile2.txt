@@ -1,5 +1,5 @@
 0.000000000	Z
-1.903968253	A, Intro, (spoken voice)
+1.903968253	A, a, Intro, (spoken voice)
 48.390317460	B, a, Intro, (guitar
 57.665419501	a
 66.957823129	a
@@ -9,7 +9,7 @@
 104.156009070	a
 113.409070294	a
 122.783038548	a, (spoken voice)
-132.167687074	C, Transition, guitar)
+132.167687074	C, t, Transition, guitar)
 141.617301587	B, a, Verse, (voice
 150.931428571	a
 160.274013605	D, b, Chorus
@@ -25,7 +25,7 @@
 253.562108843	B, a, Interlude, (spoken voice
 262.595804988	a
 271.764807256	a
-280.919478458	F, break, spoken voice)
+280.919478458	F, k, break, spoken voice)
 295.157823129	I, j, Solo, (guitar
 304.570136054	j
 313.831632653	j

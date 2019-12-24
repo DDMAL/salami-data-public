@@ -9,7 +9,7 @@
 75.441609977	C, c, Pre-Chorus
 84.288390022	c
 92.972653061	A, a, Chorus, voice)
-101.889115646	D, Bridge, (horns)
+101.889115646	D, d, Bridge, (horns)
 110.596575963	B, b, Verse, (voice
 119.420158730	b
 128.104421768	C, c, Pre-Chorus

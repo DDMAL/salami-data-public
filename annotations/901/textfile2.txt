@@ -1,5 +1,5 @@
 0.000000000	Silence
-0.255419501	A, Intro, (guitar)
+0.255419501	A, i, Intro, (guitar)
 4.771043083	B, a, Chorus, (clarinet
 12.706848072	b
 20.211746031	a

@@ -13,7 +13,7 @@
 145.630022675	c, (sax
 150.860045351	A, a, Solo
 160.783174603	b', sax)
-171.595464852	D, Interlude, (percussion)
+171.595464852	D, d, Interlude, (percussion)
 180.964988662	E', a, Solo, (sax
 191.063990929	a
 201.188004535	a

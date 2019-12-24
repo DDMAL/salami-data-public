@@ -13,7 +13,7 @@
 96.744467120	b
 105.419591836	C, c, Chorus
 113.790408163	b, voice)
-122.372947845	D, Interlude, (guitar)
+122.372947845	D, d, Interlude, (guitar)
 135.005646258	A, a, Verse, (voice
 143.462675736	a
 151.898140589	B, b, Pre-Chorus

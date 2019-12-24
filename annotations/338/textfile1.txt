@@ -1,4 +1,4 @@
-0.000000000	A, Intro, (spoken voice
+0.000000000	A, i, Intro, (spoken voice
 2.521587301	B, a, Intro
 14.013424036	a, spoken voice)
 25.222925170	C, b, Chorus, (voice
@@ -18,6 +18,6 @@
 187.097641723	g
 198.186712018	E, f, Interlude
 209.306893424	f
-220.576712018	F, Outro, (vibes), voice)
+220.576712018	F, o, Outro, (vibes), voice)
 240.875623582	Silence
 243.784195011	End

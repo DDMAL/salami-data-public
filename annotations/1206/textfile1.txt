@@ -1,5 +1,5 @@
 0.000000000	Z
-0.650158730	A, Intro, (guitar
+0.650158730	A, a, Intro, (guitar
 5.355986394	B, a, Intro, guitar)
 14.511020408	B, a, Verse, (voice
 24.148843537	b

@@ -1,13 +1,13 @@
 0.000000000	Silence
-3.482653061	A, Theme, (gamelan
-24.433219954	B, Theme
-52.094920634	C, Transition
-65.899024943	D, Theme
-78.532131519	C, Transition
-95.418185941	B, Theme
-119.966371882	C, Transition
-143.965736961	A, Theme
-154.700385487	E, a, Theme
+3.482653061	A, a, Theme, (gamelan
+24.433219954	B, b, Theme
+52.094920634	C, c, Transition
+65.899024943	D, d, Theme
+78.532131519	C, c, Transition
+95.418185941	B, b, Theme
+119.966371882	C, c, Transition
+143.965736961	A, a, Theme
+154.700385487	E, e, Theme
 171.809410430	b, gamelan)
 193.470839002	Silence
 196.795668934	End

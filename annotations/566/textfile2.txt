@@ -18,7 +18,7 @@
 127.111360544	D, h, Bridge
 134.765510204	i
 144.475396825	j, voice)
-152.044263038	E, Interlude, (strings
+152.044263038	E, ii, Interlude, (strings
 159.759297052	A', a, Transition, strings)
 167.424036281	C, e, Chorus, (voice
 175.120544217	f

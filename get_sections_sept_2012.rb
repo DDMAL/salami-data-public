@@ -33,7 +33,7 @@ def parse_arguments(ann_list)
   functions = []
   musts = ["end", "silence", "End", "Silence"]
   uppers = 'A'..'Z'
-  lowers = 'a'..'zz'
+  lowers = [*'a'..'zz', 'Z'].join
   ann_list.each do |line|
     # Split all the arguments of the annotation into separate parts.
     # Annotations may ONLY consist of letters and brackets.
@@ -44,8 +44,9 @@ def parse_arguments(ann_list)
         # It is a letter! Check case:
         if uppers.include?(bit.delete("'`")) then
           uppercase << [time, bit]
-        elsif lowers.include?(bit.delete("'`")) then
-          lowercase << [time, bit]
+        end
+        if lowers.include?(bit.delete("'`")) then
+          lowercase << [time, bit.downcase]
         end
       elsif !bit.index(/[(\A\()(\)\Z)]/).nil? then
         # It's an instrument label!
@@ -141,13 +142,13 @@ if !ARGV[1].nil? then
   filename = ARGV[1]
 end
 outdir = filename.split("/")[0..-2].join("/") + "/parsed"
-system("mkdir "+outdir)
+system("mkdir -p "+outdir)
 
 filearray = ["uppercase.txt", "lowercase.txt", "functions.txt"]
 descriptions = [zipper(uppercase), zipper(lowercase), zipper(functions)]
 
 descriptions.each_index do |indx|
-    outfile = File.open(outdir + "/" + filename.split("/")[-1].split(".")[0] + "_" + filearray[indx], 'w')
+    outfile = File.open(outdir + "/" + filename.split("/")[-1].split(".")[0] + "_" + filearray[indx], 'w+')
     outfile.write(descriptions[indx])
     outfile.close
 end

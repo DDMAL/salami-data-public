@@ -1,7 +1,7 @@
 0.000000000	A, a, Intro
 8.003537414	a
 16.039523809	a, (accordion)
-22.407936507	B, b (spoken voice)
+22.407936507	B, b, (spoken voice)
 31.362517006	A, a, Transition, (guitar)
 38.001405895	a, (accordion)
 45.978684807	A, a, Chorus, (guitar)

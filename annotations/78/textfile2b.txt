@@ -1,7 +1,7 @@
 0.000000000	Silence
-0.696598639	A, Exposition
-212.808820861	B, Development
-274.261723356	C, Recap
-402.027369614	D, Outro
+0.696598639	A, a, Exposition
+212.808820861	B, b, Development
+274.261723356	C, c, Recap
+402.027369614	D, d, Outro
 464.065306122	Silence
 468.146235827	End

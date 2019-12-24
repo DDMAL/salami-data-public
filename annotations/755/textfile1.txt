@@ -18,10 +18,10 @@
 159.903061224	e
 169.110929705	C, f, Verse, (voice
 181.902312925	D, g, Chorus, voice)
-194.726349206	B, Interlude
-221.233242630	E, call_and_response, (voice
-240.832222222	F, Interlude
-251.750226757	E, call_and_response
-278.848911564	G, Outro, voice)
+194.726349206	B, ii, Interlude
+221.233242630	E, ee, call_and_response, (voice
+240.832222222	F, jj, Interlude
+251.750226757	E, ee, call_and_response
+278.848911564	G, o, Outro, voice)
 298.031814058	Silence
 302.100090702	End

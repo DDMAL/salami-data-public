@@ -24,7 +24,7 @@
 350.486757369	n
 365.997891156	o, violin)
 384.259387755	a''', (cello
-404.640204081	F, Transition, cello)
+404.640204081	F, t, Transition, cello)
 427.816734693	G, p, Theme, (violin
 439.813741496	q
 455.866281179	h

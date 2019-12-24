@@ -1,19 +1,19 @@
 0.000000000	Silence
-0.162539682	A, Intro, (sitar)
+0.162539682	A, ii, Intro, (sitar)
 122.351020408	B, a, (voice
 145.395170068	b
 166.035941043	c, voice)
 187.983673469	C, d, Interlude, (bowed string
 218.808163265	e, bowed string)
-240.806621315	D, (voice)
+240.806621315	D, v, (voice)
 286.444036281	E, f, Interlude, (bowed string
 299.885714285	g, bowed string)
-316.800000000	F, (voice)
-364.911405895	G, Interlude, (bowed string)
-397.616326530	H, (voice)
+316.800000000	F, ff, (voice)
+364.911405895	G, gg, Interlude, (bowed string)
+397.616326530	H, hh, (voice)
 430.704829931	I, h, Interlude, (bowed string
 463.608163265	i, bowed string)
-479.771428571	J, Outro, (voice)
+479.771428571	J, jj, Outro, (voice)
 503.608163265	(spoken voice)
 539.667165532	Z
 609.534693877	Silence

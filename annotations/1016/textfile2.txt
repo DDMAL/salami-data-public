@@ -9,7 +9,7 @@
 42.130000000	B, b, Chorus
 47.217020833	b
 52.498916666	c, voice)
-60.436437500	C, Transition, (guitar)
+60.436437500	C, c, Transition, (guitar)
 65.465208333	A, a, Verse, (voice
 70.665145833	a
 75.801250000	a
@@ -17,12 +17,12 @@
 86.048437500	B, b, Chorus
 91.297875000	b
 96.564104166	c, voice)
-104.557041666	C, Transition, (guitar
+104.557041666	C, c, Transition, (guitar
 109.621541666	D, d, Interlude
 114.940687500	d
 119.875625000	d
 124.925416666	d
-129.871916666	C, Transition, guitar)
+129.871916666	C, c, Transition, guitar)
 134.967187500	A, a, Verse, (voice
 140.100458333	a
 145.335562500	a
@@ -30,7 +30,7 @@
 155.574979166	B, b, Chorus
 160.792166666	b
 166.066812500	c, voice)
-173.946875000	C, Transition, (guitar)
+173.946875000	C, c, Transition, (guitar)
 179.027041666	A, a, Interlude, (voice
 184.118375000	a
 189.348250000	a
@@ -38,7 +38,7 @@
 199.723979166	B, b, Interlude, (horns
 204.935083333	b
 210.158562500	c, horns)
-218.028645833	E, Solo, (percussion)
+218.028645833	E, e, Solo, (percussion)
 238.119645833	A, a, Solo, (harmonica
 243.309916666	a
 248.514333333	a
@@ -50,7 +50,7 @@
 279.439833333	B, b, Chorus, (voice
 284.614270833	b
 289.752145833	c
-297.673104166	C', Transition, (guitar
+297.673104166	C', c', Transition, (guitar
 300.109687500	B', b, Outro
 305.250000000	b
 310.627020833	b', voice), guitar)

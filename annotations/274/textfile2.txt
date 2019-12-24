@@ -1,5 +1,5 @@
 0.000000000	Silence
-1.024557823	A, Intro, (piano)
+1.024557823	A, g, Intro, (piano)
 4.327346938	B, a, Main_Theme, (violin
 16.148049886	b
 27.900929705	a

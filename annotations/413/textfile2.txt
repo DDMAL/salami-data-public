@@ -24,7 +24,7 @@
 240.510476190	c
 245.959002267	e, (trumpet
 251.547142857	f, trumpet)
-256.739750566	D, Interlude, (synthesizer)
+256.739750566	D, i, Interlude, (synthesizer)
 267.865396825	C, c, (trumpet
 273.578888888	c, trumpet)
 279.415464852	c

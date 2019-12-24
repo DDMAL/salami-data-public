@@ -1,9 +1,9 @@
 0.000000000	Silence
-0.273469387	N, Intro, (trumpet
-34.119092970	A, Solo
-125.289795918	B, (synth)
-141.355102040	C, (trumpet)
-261.044897959	D, (bass)
-334.236734693	E, Outro, (trumpet)
+0.273469387	N, n, Intro, (trumpet
+34.119092970	A, a, Solo
+125.289795918	B, b, (synth)
+141.355102040	C, c, (trumpet)
+261.044897959	D, d, (bass)
+334.236734693	E, e, Outro, (trumpet)
 353.264648526	Silence
 358.045918367	End

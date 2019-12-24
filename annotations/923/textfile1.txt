@@ -1,6 +1,6 @@
 0.000000000	Silence
-0.314875283	A, Intro, (shaker)
-3.599092970	B, Verse, (voice
+0.314875283	A, i, Intro, (shaker)
+3.599092970	B, a, Verse, (voice
 13.056916099	C, a, Chorus
 23.670634920	b
 37.623605442	B, a, Verse

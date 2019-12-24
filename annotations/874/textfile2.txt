@@ -2,9 +2,9 @@
 12.634036281	b
 22.153310657	c
 36.218526077	c
-50.136643990	B, Solo, horn)
-102.027777777	B, Solo, (plucked string)
-149.768707482	B, Solo, (bowed string)
+50.136643990	B, s, Solo, horn)
+102.027777777	B, s', Solo, (plucked string)
+149.768707482	B, s'', Solo, (bowed string)
 180.120929705	A, a, Chorus, (horn
 191.821133786	c
 205.172471655	c, horn)

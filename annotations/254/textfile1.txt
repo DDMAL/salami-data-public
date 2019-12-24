@@ -1,5 +1,5 @@
 0.000000000	Silence
-0.457460317	A, Intro, (recorder
+0.457460317	A, e, Intro, (recorder
 18.808163265	B, a, Chorus
 30.371700680	a
 40.848594104	C, b, Theme

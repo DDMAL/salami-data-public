@@ -1,8 +1,8 @@
 0.000000000	Silence
-0.417959183	A, Exposition
-155.186462585	A, Exposition
-309.701473922	B, Transition
-315.989387755	C, Development
-383.315011337	A', Recap
+0.417959183	A, a, Exposition
+155.186462585	A, b, Exposition
+309.701473922	B, b, Transition
+315.989387755	C, c, Development
+383.315011337	A', a', Recap
 539.776802721	Silence
 545.959183673	End

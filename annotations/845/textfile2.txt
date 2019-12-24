@@ -6,18 +6,18 @@
 42.435578231	d
 47.918820861	e
 53.266575963	e', voice)
-62.767437641	C, Transition, (guitar)
+62.767437641	C, t, Transition, (guitar)
 66.785578231	B, c, Verse, (voice
 71.995283446	d
 77.187823129	c'
 85.137981859	D, f, Bridge
 92.972698412	g
 98.419115646	g', voice)
-107.567210884	C, Transition, (guitar)
+107.567210884	C, t, Transition, (guitar)
 111.061043083	F, h, (voice
 124.973832199	h
 143.011700680	i, voice)
-156.409954648	E, Solo, (guitar)
+156.409954648	E, s, Solo, (guitar)
 169.343129251	B, d, Verse, (voice
 174.873287981	c
 180.085668934	d

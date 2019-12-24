@@ -1,5 +1,5 @@
 0.000000000	Z
-2.367278911	A, Intro, (guitar)
+2.367278911	A, a, Intro, (guitar)
 11.136825396	B, a, Verse, (voice
 20.127482993	b
 29.033378684	B, a, Verse
@@ -22,6 +22,6 @@
 183.630657596	b, slide guitar)
 192.630249433	B, a, Chorus, (voice
 201.816258503	b
-210.877777777	C, Outro, voice)
+210.877777777	C, c, Outro, voice)
 219.700204081	Z
 294.870204081	End

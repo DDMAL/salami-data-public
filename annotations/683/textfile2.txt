@@ -3,12 +3,12 @@
 14.628820861	a
 28.969614512	A, a, Verse, (voice
 43.471360544	a
-57.853446712	B, Pre-Chorus
+57.853446712	B, b, Pre-Chorus
 72.589410430	C, c, Chorus
 86.803015873	c
 101.238185941	A, a, Verse
 115.642154195	a
-130.082131519	B, Pre-Chorus
+130.082131519	B, b, Pre-Chorus
 144.554603174	C, c, Chorus
 158.927505668	c, voice)
 173.611224489	D, d, Solo, (guitar

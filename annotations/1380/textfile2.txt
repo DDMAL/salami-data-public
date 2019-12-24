@@ -1,5 +1,5 @@
 0.000000000	Z
-17.534693877	A, Intro, (guitar
+17.534693877	A, e, Intro, (guitar
 22.906802721	B, a, Transition, guitar)
 29.489342403	C, b, Verse, (voice
 39.974467120	D, c, Pre-Chorus

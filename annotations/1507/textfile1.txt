@@ -7,7 +7,7 @@
 81.785759637	C, d, Secondary_Theme, (violin)
 96.110181405	e, (clarinet
 112.059501133	f
-126.877709750	D, Outro, (violin, clarinet)
+126.877709750	D, j, Outro, (violin, clarinet)
 155.186462585	A, a, Main_Theme
 171.061405895	a', violin)
 191.123446712	b, (clarinet)
@@ -16,8 +16,8 @@
 236.364217687	C, d, Secondary_Theme, (violin)
 251.425668934	e, (clarinet
 266.704399092	f
-281.132471655	D, Outro, (violin), clarinet)
-309.701473922	E, Transition, (clarinet
+281.132471655	D, j, Outro, (violin), clarinet)
+309.701473922	E, l, Transition, (clarinet
 315.989387755	F, a'', Development, clarinet)
 335.574784580	g, (viola)
 339.655918367	g', (cello)
@@ -32,10 +32,10 @@
 383.315011337	A', a, Main_Theme, (clarinet
 400.992607709	b, clarinet)
 410.784217687	b', (cello)
-426.643446712	G, Transition, (clarinet)
+426.643446712	G, k, Transition, (clarinet)
 442.204036281	C, d, Secondary_Theme, (violin)
 456.945487528	e, (clarinet
 472.720884353	f
-483.520725623	D', Outro, clarinet)
+483.520725623	D', j', Outro, clarinet)
 539.776802721	Silence
 545.959183673	End

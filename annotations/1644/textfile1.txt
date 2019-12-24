@@ -30,6 +30,6 @@
 157.953265306	A, a, Transition, (piano)
 159.850657596	C, f, Outro, (voice
 166.136870748	g, voice)
-172.469886621	E, Outro, (guitar)
+172.469886621	E, o, Outro, (guitar)
 179.001836734	Silence
 182.950022675	End

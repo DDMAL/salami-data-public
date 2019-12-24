@@ -17,7 +17,7 @@
 199.280748299	b
 210.844285714	C, e, Chorus
 222.593582766	f'
-254.776439909	D, Interlude
+254.776439909	D, d, Interlude
 308.298412698	A, b, Verse
 318.190113378	b, voice)
 328.546213151	F, j, Transition, (horns)

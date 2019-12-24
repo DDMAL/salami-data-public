@@ -1,14 +1,14 @@
 0.000000000	Silence
-1.882879818	A, Theme, (electronics
-54.128435374	B, Transition
-64.528253968	C, Theme
-117.349387755	D, Transition
-133.352199546	E, Theme
-157.443922902	F, Theme
-180.720907029	G, Theme
-233.615963718	H, Theme
-275.388662131	I, Theme
-332.300770975	J, Theme
+1.882879818	A, a, Theme, (electronics
+54.128435374	B, b, Transition
+64.528253968	C, c, Theme
+117.349387755	D, d, Transition
+133.352199546	E, e, Theme
+157.443922902	F, f, Theme
+180.720907029	G, g, Theme
+233.615963718	H, h, Theme
+275.388662131	I, i, Theme
+332.300770975	J, j, Theme
 405.304308390	K, c, Transition
 427.617052154	d
 445.227188208	L, e, Theme

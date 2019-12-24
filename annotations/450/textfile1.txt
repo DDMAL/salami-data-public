@@ -11,7 +11,7 @@
 64.623174603	f
 71.677210884	e
 78.757687074	f, sax)
-85.834739229	D, Bridge, (horns)
+85.834739229	D, c', Bridge, (horns)
 96.645714285	E, g, Solo, (trumpet
 103.838276643	f
 111.053197278	B, c, Bridge, (horns

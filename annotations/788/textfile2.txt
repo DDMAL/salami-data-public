@@ -1,5 +1,5 @@
 0.000000000	Silence
-0.255419501	A, Intro, (bagpipes
+0.255419501	A, i, Intro, (bagpipes
 8.056530612	B, a, Theme
 14.879160997	a
 21.705873015	b

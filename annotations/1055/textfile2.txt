@@ -25,11 +25,11 @@
 133.575034013	e
 138.617641723	e
 143.885510204	e, voice)
-149.022585034	E, Solo, (guitar)
-161.737437641	F, Solo, (percussion)
-181.556825396	E, Solo, (guitar)
-189.483197278	F, Solo, (percussion)
-201.761995464	E', Solo, (guitar)
-212.457142857	F, Solo, (percussion)
+149.022585034	E, e, Solo, (guitar)
+161.737437641	F, f, Solo, (percussion)
+181.556825396	E, e, Solo, (guitar)
+189.483197278	F, f, Solo, (percussion)
+201.761995464	E', e', Solo, (guitar)
+212.457142857	F, f, Solo, (percussion)
 234.718140589	Z
 318.499818594	End
